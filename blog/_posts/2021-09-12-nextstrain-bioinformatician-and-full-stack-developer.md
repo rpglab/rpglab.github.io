@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Openings for bioinformatician and full-stack developer to contribute to Nextstrain platform
-author: Trevor Bedford
+title: 222aawwar Openings for bioinformatician and full-stack developer to contribute to Nextstrain platform
+author: Trevor Bedford (test)
 ---
 
-Positions for a __bioinformatician__ and a __full-stack developer__ are available immediately in the Bedford lab at the Fred Hutch. Details for both positions follow:
+9999  Positions for a __bioinformatician__ and a __full-stack developer__ are available immediately in the Bedford lab at the Fred Hutch. Details for both positions follow:
 
 -----------------------------------------
 
