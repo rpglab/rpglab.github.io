@@ -1,6 +1,6 @@
 name: Future Renewable Power Grid (RPG) Lab
 description: The FutureRPG lab at the University of Houston
-url: http://bedford.io
+url: https://rpglab.github.io/
 
 markdown: kramdown
 permalink: /:categories/:title/
