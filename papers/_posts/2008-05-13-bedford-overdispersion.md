@@ -3,7 +3,7 @@ layout: paper
 title: "Overdispersion of the molecular clock: temporal variation of gene-specific substitution rates in Drosophila"
 image: /images/papers/bedford-overdispersion.png
 authors: Bedford T, Hartl DL.
-year: 2008
+year: 2013
 ref: Bedford and Hartl. 2008. Mol Biol Evol.
 journal: "Mol Biol Evol 25: 1631-1638."
 pdf: /pdfs/papers/bedford-overdispersion.pdf

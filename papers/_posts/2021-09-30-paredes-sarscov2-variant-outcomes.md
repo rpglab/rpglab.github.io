@@ -10,6 +10,10 @@ pdf: /pdfs/papers/paredes-sarscov2-variant-outcomes.pdf
 doi: 10.1101/2021.09.29.21264272
 ---
 
+# Cite this paper
+asggewgwbwgh "ewgt", 2021.
+
+
 # Abstract
 
 **Background:** The COVID-19 pandemic is now dominated by variant lineages; the resulting impact on disease severity remains unclear. Using a retrospective cohort study, we assessed the risk of hospitalization following infection with nine variants of concern or interest (VOC/VOI).

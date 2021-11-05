@@ -3,7 +3,7 @@ layout: paper
 title: Clustered mutations at the murine and human IgH locus exhibit significant linkage consistent with templated mutagenesis
 image: /images/papers/dale-igh-gene-conversion.png
 authors: Dale GA, Wilkins DJ, Bohannon CD, Dilernia D, Hunter E, Bedford T, Antia R, Sanz I, Jacob J.
-year: 2019
+year: 2018
 ref: Dale et al. 2019. J Immunol.
 journal: "J Immunol 203: 1252-1264."
 pdf: /pdfs/papers/dale-igh-gene-conversion.pdf

@@ -1,9 +1,9 @@
 ---
 layout: paper
 title: Global migration dynamics underlie evolution and persistence of human influenza A (H3N2)
-image: /images/papers/bedford-global-migration.png
+image: 
 authors: Bedford T, Cobey S, Beerli P, Pascual M.
-year: 2010
+year: 2017
 ref: Bedford et al. 2010. PLoS Pathog.
 journal: "PLoS Pathog 6: e1000918."
 pdf: /pdfs/papers/bedford-global-migration.pdf
