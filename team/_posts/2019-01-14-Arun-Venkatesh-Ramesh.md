@@ -28,8 +28,8 @@ I am a
 
 
 
-**Classes: **
+**Classes:**
 
 
-**Research Interests: **
+**Research Interests:** power system day-ahead scheduling, unit committment .........
 

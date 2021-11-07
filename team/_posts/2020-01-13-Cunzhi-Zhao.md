@@ -28,8 +28,8 @@ I am a
 
 
 
-**Classes: **
+**Classes:**
 
 
-**Research Interests: **
+**Research Interests:** Frequency stability in low-inertia power systems .......
 
