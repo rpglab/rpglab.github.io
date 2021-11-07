@@ -36,25 +36,14 @@ layout: default
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
-		{% if member.twitter %}
+		{% if member.linkedin %}
 		<div class="smallhead">
-			Twitter
+			Linkedin
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fa fa-twitter fa-fw"></i>
-			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
-		{% if member.github %}
-		<div class="smallhead">
-			GitHub
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fa fa-github-alt fa-fw"></i>
-			<a class="off" href="https://github.com/{{ member.github }}">{{ member.github }}</a>
+			<i class="fa fa-linkedin fa-fw"></i>
+			<a class="off" href="https://linkedin.com/in/{{ member.linkedin }}">{{ member.linkedin }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
@@ -80,17 +69,6 @@ layout: default
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
-		{% if member.website %}
-		<div class="smallhead">
-			Website
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fa fa-globe fa-fw"></i>
-			<a class="off" href="{{ member.website }}">{{ member.website | remove: 'http://' | remove: 'https://' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
 		{% if member.email %}
 		{% assign emailarray = member.email | split: '@' %}
 		<div class="smallhead">
@@ -100,6 +78,51 @@ layout: default
 			<div class="smallspacer"></div>
 			<i class="fa fa-inbox fa-fw"></i>
 			{{ emailarray.first }}<span style="display:none">obfuscate</span>@{{ emailarray.last }}
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+		{% if member.website %}
+		<div class="smallhead">
+			Website
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-globe fa-fw"></i>
+			<a class="off" href="https://{{ member.website }}">{{ member.website }}</a>
+			<!-- <a class="off" href="{{ member.website }}">{{ member.website | remove: 'http://' | remove: 'https://' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a> -->
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+		{% if member.github %}
+		<div class="smallhead">
+			GitHub
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-github-alt fa-fw"></i>
+			<a class="off" href="https://github.com/{{ member.github }}">{{ member.github }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+		{% if member.twitter %}
+		<div class="smallhead">
+			Twitter
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-twitter fa-fw"></i>
+			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+		{% if member.facebook %}
+		<div class="smallhead">
+			Facebook
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-facebook-f fa-fw"></i>
+			<a class="off" href="https://facebook.com/{{ member.facebook }}">{{ member.facebook }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}

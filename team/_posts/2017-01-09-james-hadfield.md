@@ -6,7 +6,7 @@ handle: jameshadfield
 twitter: hamesjadfield
 github: jameshadfield
 scholar: bgbbikoAAAAJ
-image: /images/team/james-hadfield.jpg
+image: 
 ---
 
 I work on all aspects of [nextstrain](http://nextstrain.org), including a mixture of programming, data visualization, modeling, phylogenetics and communication. I have ongoing research projects on Influenza and viral reassortment detection.
