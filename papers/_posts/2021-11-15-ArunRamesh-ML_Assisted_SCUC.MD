@@ -4,8 +4,8 @@ title: "Machine Learning Assisted Approach for Security-Constrained Unit Commitm
 image: 
 authors: Arun Venkatesh Ramesh, Xingpeng Li.
 year: 2021
-ref: Arun Venkatesh Ramesh et al, IEEE Transaction on Power System, 2021. 
-journal: "IEEE Transaction on Power System"
+ref: Arun Venkatesh Ramesh et al, IEEE Transaction on Power System (under review), 2021. 
+journal: "IEEE Transaction on Power System (under review)"
 pdf: /pdfs/papers/20211115_A-Ramesh_MLAssistedSCUC_Final.pdf
 doi: 
 arxiv:
