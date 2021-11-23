@@ -1,9 +1,10 @@
 ---
 layout: member
-title: Jesus Silva Rodriguez
-position: PhD Student
+title: Jesus Silva-Rodriguez
+position: (i) Undergraduate, (ii) PhD Student
+time: 2020.08 to present
 email: 
-image: 
+image: /images/team/male.jpg
 cv: 
 scholar: 
 linkedin: 
@@ -16,20 +17,6 @@ facebook:
 alumni: 
 ---
 
-I am a 
+Jesus Silva-Rodriguez joined the RPG lab initially as an undergraduate student in August 2020. Then, Jesus started his PhD program here as a direct PhD student in January 2021.
 
-# Education
-
-
-
-
-# Publication
-
-
-
-
-**Classes:**
-
-
-**Research Interests:** Frequency stability in low-inertia power systems .......
 

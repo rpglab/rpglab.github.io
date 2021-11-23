@@ -3,7 +3,7 @@ layout: member
 title: Mingjian Tuo
 position: PhD Student
 email: 
-image: 
+image: /images/team/male.jpg
 cv: 
 scholar: 
 linkedin: 

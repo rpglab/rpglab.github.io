@@ -1,8 +1,8 @@
 ---
 layout: paper
-title: Water-Energy Co-Optimization for Community-Scale Microgrids
+title: "Water-Energy Co-Optimization for Community-Scale Microgrids"
 image: 
-authors: Jesus Silva-Rodriguez, Xingpeng Li
+authors: Jesus Silva-Rodriguez, Xingpeng Li.
 year: 2021
 ref: Jesus Silva-Rodriguez et al, IEEE North American Power Symposium, 2021. 
 journal: "North American Power Symposium"

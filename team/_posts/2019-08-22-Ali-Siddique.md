@@ -3,7 +3,7 @@ layout: member
 title: Ali Siddique
 position: Master Student
 email: 
-image: 
+image: /images/team/male.jpg
 cv: 
 scholar: 
 linkedin: 

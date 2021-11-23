@@ -17,6 +17,9 @@ layout: default
 			<div class="smallhead">
 				{{ member.position }}
 			</div>
+			<div class="smallhead">
+				{{ member.time }}
+			</div>
 		</div>
 	</div>
 </div>
@@ -132,9 +135,8 @@ layout: default
 			{{ content }}
 		</div>
 
-		{% assign lastname = member.title | split: ' ' | last %}
-		{% assign firstinitial = member.title | split: ' ' | first | slice: 0 %}
-		{% assign searchstring = lastname | append: ' ' | append: firstinitial %}
+		{% assign name = member.title %}
+		{% assign searchstring = name %}
 
 		{% for paper in site.categories.papers %}
 		{% if paper.authors contains searchstring %}
@@ -144,7 +146,7 @@ layout: default
 
 		{% if papersq == true %}
 		<div class="bigspacer"></div>
-		<div class="head">Papers</div>
+		<div class="head">Papers (with link) </div>
 		<div class="spacer"></div>
 		{% for paper in site.categories.papers %}
 		{% if paper.authors contains searchstring %}
