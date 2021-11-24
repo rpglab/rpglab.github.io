@@ -2,10 +2,10 @@
 layout: member
 title: Thuan Pham
 position: PhD Student
-email: tdpham4@gmail.com     
+email: tdpham7@cougarnet.uh.edu
 image: /images/team/male.jpg
 cv: 
-scholar: 
+scholar: https://scholar.google.com/citations?hl=en&user=W0qqTJsAAAAJ
 linkedin: thuan-pham-2017
 website: 
 calendar: 
@@ -28,7 +28,7 @@ University of Houston, Houston, TX
     Bachelor of Science in Biology, Minor in Chemistry                  May 2009
 
 # Publication
-
+1. Thuan Pham and Xingpeng Li, "Neural Network-based Power Flow Model," *2022 IEEE Power & Energy Society General Meeting (PESGM)*. (Submitted)
 
 
 
