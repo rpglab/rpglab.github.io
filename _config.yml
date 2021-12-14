@@ -1,0 +1,12 @@
+name: Renewable-energy enriched Power Grid (RPG) Lab
+description: The RPG lab at the University of Houston
+url: https://rpglab.github.io/
+
+markdown: kramdown
+permalink: /:categories/:title/
+future: true
+sass:
+  sass_dir: css
+
+plugins: ['jekyll-twitter-plugin']
+

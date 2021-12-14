@@ -1,0 +1,121 @@
+---
+layout: default
+---
+
+<div class="row">
+	<div class="col-lg-12">
+		{% if page.image %}
+		<img class="pull-left pad-right media-object d-none d-sm-block" src="{{ page.image }}">
+		<img width=85 class="float-left pad-right d-block d-sm-none" src="{{ page.image }}">
+		{% endif %}
+		<div class="titlebox">
+			<div class="title">
+				{{ page.title }}
+			</div>
+			<p>
+			<div class="smallhead">
+				{{ page.authors }}
+				{{ page.journal }}, 
+				{{ page.year }}.
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-lg-3">
+		<div class="bigspacer"></div>
+		<div class="glyphbox note">
+			{% if page.pdf %}
+			<div class="smallhead">
+				PDF
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off" href="{{ page.pdf }}">{{ page.pdf | split: '/' | last }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.supplement %}
+			<div class="smallhead">
+				Supplement
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-paperclip fa-fw"></i>
+				<a class="off" href="{{ page.supplement }}">{{ page.supplement | split: '/' | last }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.doi %}
+			<div class="smallhead">
+				DOI
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-external-link fa-fw"></i>
+				<a class="off"  target="_blank" href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.github %}
+			<div class="smallhead">
+				GitHub
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-github-alt fa-fw"></i>
+				<a class="off"  target="_blank" href="{{ page.github }}">{{ page.github | remove: 'http://github.com/' | remove: 'https://github.com/' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.arxiv %}
+			<div class="smallhead">
+				ArXiv
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-book fa-fw"></i>
+				<a class="off"  target="_blank" href="{{ page.arxiv }}">{{ page.arxiv | remove: 'http://arxiv.org/' | remove: 'https://arxiv.org/' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.authors %}
+			<div class="smallhead">
+				Authors in the RPG Lab
+			</div>			
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				{% for member in site.categories.people %}
+					{% assign name = member.title %}
+					{% assign searchstring = name %}
+					{% if page.authors contains searchstring %}
+						{% if member.image %}
+							<a href="{{ member.url }}" class="off">
+							<div class="handlebox" style="padding-left">
+								{{ member.title }}
+							</div>
+							<div class=""></div>
+							<img width=110 class="mr-3"  style="padding-left:30px;" src="{{ member.image }}">
+							</a>
+						{% else %}
+							<a href="{{ member.url }}" class="off">{{ member.title }}</a>						
+						{% endif %}
+						<div class="bigspacer"></div>
+					{% endif %}
+				{% endfor %}
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+		</div>
+	</div>
+	<div class="col-lg-8">
+		<div class="post" style="font-size:15px;">
+			{{ content }}
+		</div>		
+	</div>
+	<div class="col-lg-1"></div>
+</div>
