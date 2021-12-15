@@ -18,4 +18,4 @@ As renewable resources gradually replace conventional generation based synchrono
 Frequency stability, Grid-forming converter, H2-norm, Low inertia power systems, Optimal virtual inertia allocation, Virtual inertia.
 
 # Cite this paper:
-Mingjian Tuo, and Xingpeng Li, “Optimal Allocation of Virtual Inertia Devices for Enhancing Frequency Stability in Low-Inertia Power Systems”, *53rd North American Power Symposium (NAPS)*, Nov. 2021, College Station, TX, USA.
+Mingjian Tuo and Xingpeng Li, “Optimal Allocation of Virtual Inertia Devices for Enhancing Frequency Stability in Low-Inertia Power Systems”, *53rd North American Power Symposium*, College Station, TX, USA, Nov. 2021.
