@@ -7,8 +7,8 @@ email: xli83@central.uh.edu
 image: /images/team/Xingpeng_Li_2.jpg
 cv: 
 scholar: h-7IdisAAAAJ
-PhDissertation: /pdfs/team/2017-XLi-Presentation.pdf
-PhDefenseSlides: /pdfs/team/2017-XLi-Defense.pdf
+PhDissertation: /pdfs/team/2017-XLi-Dissertation.pdf
+PhDefenseSlides: /pdfs/team/2017-XLi-Presentation.pdf
 MSThesis: 
 MSDefenseSlides: 
 linkedin: xingpeng-li-37277159/
