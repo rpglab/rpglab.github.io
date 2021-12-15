@@ -3,7 +3,7 @@ layout: paper
 title: "Long-term Recurrent Convolutional Networks-based Inertia Estimation using Ambient Measurements"
 image: 
 authors: Mingjian Tuo, Xingpeng Li.
-year: 2022
+year: 2021
 ref: Mingjian Tuo et al, 2022 IEEE PES General Meeting (Submitted), 2022.
 journal: "2022 IEEE Power & Energy Society General Meeting (Submitted)"
 pdf: /pdfs/papers/20211215_MJ-Tuo-PGS-LRCN.pdf
