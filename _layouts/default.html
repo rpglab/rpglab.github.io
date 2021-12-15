@@ -87,6 +87,13 @@
 						{% endif %}
 						<a class="mx-1" href="/resources/">Resources</a>
 						</li>
+						{% if page.categories.first == 'news' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/news/">News</a>
+						</li>
 						{% if page.categories.first == 'blog' %}
 						<li class="nav-link active">
 						{% else %}

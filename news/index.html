@@ -1,0 +1,67 @@
+---
+layout: default
+title: RPG Lab / News
+categories:
+ - news
+---
+
+<!--<div class="row">
+	<div class="col-lg-12">
+		<div class="note">
+			<br>
+			This page posts the news about the RPG Lab.
+			<br>
+		</div>
+	</div>
+</div>-->
+
+<div class="bigspacer"></div>
+
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="title">
+			<h1>News</h1>
+		</div>
+      <hr style="height:2px;border:none;color:#808088;background-color:#808088;" />
+	</div>
+</div>
+
+{% for newspage in site.categories.news %}
+    {% cycle 'add rows 0': '<div class="row">', '', '' %}
+		<div class="col-lg-12 memberbox">
+			<div class="media">		  				
+ 			 	<div class="media-body">
+    				<div class="head media-heading">
+						{{ newspage.time | date: "%-b %d, %Y" }} - 
+						<a href="{{ newspage.url }}" class="off">{{ newspage.title }}</a>
+					</div>
+    				<p class="smallhead mb-1">{{ newspage.description }}</p>
+  				</div>
+			</div>
+			<div class="bigspacer"></div>
+        </div>
+    {% cycle 'close rows 0': '', '', '</div>' %}
+{% endfor %}
+{% cycle 'close rows 0': '', '</div>', '</div>' %}
+
+
+<br>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div id="scroll" class="centered-pills">
+			<ul class="nav nav-pills note">
+				<li role="presentation">
+					<a class="off" href="/news/">
+						<i class="fa fa-chevron-up fa-fw"></i> Back to top
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<!-- Infinite scroll -->
+<script async src="/js/infinite-scroll.js"></script>
+
