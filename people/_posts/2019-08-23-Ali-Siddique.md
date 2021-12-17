@@ -4,7 +4,7 @@ title: Ali Siddique
 position: Master Student
 time: 2019.08 - Present
 email: 
-image: /images/team/male.jpg
+image: /images/team/Ali_Siddique.jpg
 cv: 
 scholar: 
 linkedin: alisiddique
