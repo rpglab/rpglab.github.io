@@ -4,11 +4,11 @@ title: "Neural Network-based Power Flow Model"
 image: 
 authors: Thuan Pham, Xingpeng Li.
 year: 2021
-ref: Thuan Pham et al, 2022 IEEE PES General Meeting (Submitted), 2022.
-journal: "2022 IEEE Power & Energy Society General Meeting (Submitted)"
+ref: Thuan Pham et al, 2022 IEEE PES General Meeting (Under Review), 2022.
+journal: "2022 IEEE Power & Energy Society General Meeting (Under Review)"
 pdf: /pdfs/papers/20211119_Thuan-NN-PF.pdf
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2112.08418
 ---
 
 # Abstract
@@ -18,3 +18,4 @@ Power flow analysis is used to evaluate the flow of electricity in the power sys
 DC Power Flow, Machine learning, Neural network, Power flow, Transmission network
 
 # Cite this paper:
+Thuan Pham and Xingpeng Li, "Neural Network-based Power Flow Model", *arXiv:2112.08418*, Dec. 2021.
