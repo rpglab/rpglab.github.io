@@ -4,8 +4,8 @@ title: "Long-term Recurrent Convolutional Networks-based Inertia Estimation usin
 image: 
 authors: Mingjian Tuo, Xingpeng Li.
 year: 2021
-ref: Mingjian Tuo et al, 2022 IEEE PES General Meeting (Submitted), 2022.
-journal: "2022 IEEE Power & Energy Society General Meeting (Submitted)"
+ref: Mingjian Tuo et al, 2022 IEEE PES General Meeting (Under Review), 2022.
+journal: "2022 IEEE Power & Energy Society General Meeting (Under Review)"
 pdf: /pdfs/papers/20211215_MJ-Tuo-PGS-LRCN.pdf
 doi: 
 arxiv: https://arxiv.org/abs/2112.00926
@@ -18,3 +18,4 @@ Conventional synchronous machines are gradually replaced by converter-based rene
 Convolutional neural network, Inertia estimation, Long-term recurrent convolutional network, Low inertia power grid, Phasor measurement unit, Virtual inertia.
 
 # Cite this paper:
+Mingjian Tuo and Xingpeng Li, "Long-term Recurrent Convolutional Networks-based Inertia Estimation using Ambient Measurements", *arXiv:2112.00926*, Dec. 2021.

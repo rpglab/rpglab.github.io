@@ -4,8 +4,8 @@ title: "Security-Constrained Unit Commitment Considering Locational Frequency St
 image: 
 authors: Mingjian Tuo, Xingpeng Li.
 year: 2021
-ref: Mingjian Tuo et al, IEEE Transaction on Power System (Under Review), 2021.
-journal: "IEEE Transaction on Power System (Under Review)"
+ref: Mingjian Tuo et al, IEEE Transaction on Power Systems (Under Review), 2021.
+journal: "IEEE Transaction on Power Systems (Under Review)"
 pdf: /pdfs/papers/20211015_MJ-Tuo_SCUC_LFS.pdf
 doi: 
 arxiv: https://arxiv.org/abs/2110.11498
@@ -18,3 +18,4 @@ With increasing installation of wind and solar gen-eration, conventional synchro
 Energy Markets, Frequency stability, Inertia distribution, Linear programming, Low-inertia grid, Optimiza-tion, Security-constrained unit commitment, Virtual Inertia.
 
 # Cite this paper:
+Mingjian Tuo and Xingpeng Li, "Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Grids", *arXiv:2110.11498*, Oct. 2021.

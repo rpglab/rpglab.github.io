@@ -4,8 +4,8 @@ title: "Machine Learning Assisted Approach for Security-Constrained Unit Commitm
 image: 
 authors: Arun Venkatesh Ramesh, Xingpeng Li.
 year: 2021
-ref: Arun Venkatesh Ramesh et al, IEEE Transaction on Power System (under review), 2021. 
-journal: "IEEE Transaction on Power System (under review)"
+ref: Arun Venkatesh Ramesh et al, IEEE Transaction on Power Systems (under review), 2021. 
+journal: "IEEE Transaction on Power Systems (under review)"
 pdf: /pdfs/papers/20211115_A-Ramesh_MLAssistedSCUC_Final.pdf
 doi: 
 arxiv: https://arxiv.org/abs/2111.09824
@@ -20,3 +20,4 @@ is used in the power system day-ahead generation scheduling is a mixed-integer l
 Constraint reduction, Logistic Regression, Machine learning, Mixed-integer linear programming, Security-constrained unit commitment, Warm-start solution.
 
 # Cite this paper:
+Arun Venkatesh Ramesh and Xingpeng Li, "Machine Learning Assisted Approach for Security-Constrained Unit Commitment", *arXiv:2111.09824*, Nov. 2021.
