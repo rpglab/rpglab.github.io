@@ -17,4 +17,4 @@ facebook:
 alumni: true
 ---
 
-Johanna Hosana started her research in the RPG lab in May 2020. She mainly worked building load modeling and building energy management.
+Johanna Hosana started her research in the RPG lab in May 2020. She mainly worked on building load modeling and building energy management.
