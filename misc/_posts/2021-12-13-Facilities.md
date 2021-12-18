@@ -5,7 +5,7 @@ title: Facilities
 
 <div class="smallhead mb-1" style="font-size:18px;">
       <p>
-This page introduces the facilities that the PRG Lab owns or has access to.
+This page introduces the facilities that the RPG Lab owns or has access to.
       </p>
 </div>
 
