@@ -3,7 +3,7 @@ layout: resource
 title: PSS/E Raw File Loader in Java
 authors: Xingpeng Li
 type: Java Code
-zip: /zips/ampl_codes/PSSE-Raw-File_Loader.zip
+zip: /zips/codes_java/PSSE-Raw-File_Loader.zip
 timeInit: 2021-12-18
 time: 2021-12-18
 github: https://github.com/rpglab/PSSE-Raw-File_Loader

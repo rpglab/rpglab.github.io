@@ -3,13 +3,13 @@ layout: resource
 title: General Codes for Logging in Java
 authors: Xingpeng Li
 type: Java Code
-zip: /zips/ampl_codes/Log.zip
+zip: /zips/codes_java/Log.zip
 timeInit: 2021-12-18
 time: 2021-12-18
 github: https://github.com/rpglab/Log
 link: 
 doi: 
-description: "This set of codes is used to create unique log files and record each piece of log information that is numbered and ordered by elapsed time and CPU time."
+description: "This set of codes is used to create unique log files and record each piece of log information that is numbered and ordered by elapsed time and CPU time. They can be easily integrated into users' existing codes and simple examples are provided."
 ---
 
 
