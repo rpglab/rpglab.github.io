@@ -200,30 +200,41 @@ layout: default
 		{% endfor %}
 		{% endif %}
 
-		{% for project in site.data.projects %}
-			{% for contributor in project.contributors %}
-				{% if contributor.login == member.github %}
-					{% assign projectsq = true %}
-				{% endif %}
-			{% endfor %}
-		{% endfor %}
 
-		{% if projectsq == true %}
-		<div class="bigspacer"></div>
-		<div class="head">Projects (with link) </div>
-		<div class="spacer"></div>
-		{% for project in site.data.projects %}
-			{% assign present = false %}
-			{% for contributor in project.contributors %}
-				{% if contributor.login == member.github %}
-					{% assign present = true %}
-				{% endif %}
-			{% endfor %}
-			{% if present == true %}
-				<p><a href="{{ project.url }}" class="off">{{ project.title }} - {{ project.description }}</a>
+		{% for resource in site.categories.resources %}
+			{% if resource.authors %}
+				{% for author in resource.authors %}
+					{% if member.title == author %}
+						{% assign resourcesq = true %}
+					{% endif %}
+				{% endfor %}
 			{% endif %}
 		{% endfor %}
+		
+		{% if resourcesq == true %}
+			<div class="bigspacer"></div>
+			<div class="head" style="color:black; font-size:28px;">Resources (with link) </div>
+			<div class="spacer"></div>
+			{% for resource in site.categories.resources %}
+				{% if resource.author %}
+					{% if member.title == resource.author %}
+						<p><a href="{{ resource.url }}" class="off">{{ resource.title }}</a>
+					{% endif %}
+				{% endif %}
+				{% if resource.authors %}
+					{% assign found = false %}
+					{% for author in resource.authors %}
+						{% if member.title == author %}
+							{% assign found = true %}
+						{% endif %}
+					{% endfor %}
+					{% if found %}
+						<p><a href="{{ resource.url }}" class="off">{{ resource.title }}</a>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
 		{% endif %}
+		
 
 		{% for post in site.categories.blog %}
 			{% if post.author %}
@@ -242,7 +253,7 @@ layout: default
 
 		{% if postsq == true %}
 			<div class="bigspacer"></div>
-			<div class="head" style="color:black; font-size:28px;">Posts (with link) </div>
+			<div class="head" style="color:black; font-size:28px;">Blogs (with link) </div>
 			<div class="spacer"></div>
 			{% for post in site.categories.blog %}
 				{% if post.author %}
