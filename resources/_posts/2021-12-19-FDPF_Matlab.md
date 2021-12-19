@@ -36,7 +36,7 @@ Six test cases are included here for users' convenience. They are described belo
 
 * 2383-bus Polish system: this test case was converted from matpower (https://matpower.org/). The data was provided by Roman Korab (roman.korab@polsl.pl).
 
-The power flow results are compared and verified with the results obtained from Matpower using Newton's method. For small test cases, it works very well. For the large-scale 2383-bus system, obvious mismatches between this program and Matpower are observed. Not sure what made the difference; possibly (i) the cases used by two tools are not entirely the same; (ii) difference between Newton's method and Fast Decoupled method; (iii) different control schemes; e.g., this program does not adjust transformer taps or shunts.
+The power flow results are compared and verified with the results obtained from Matpower using Newton's method. For small-to-medium test cases, it works very well. For the large-scale 2383-bus system, obvious mismatches between this program and Matpower are observed. Not sure what made the difference; possibly (i) the cases used by two tools are not entirely the same; (ii) difference between Newton's method and Fast Decoupled method; (iii) different control schemes; e.g., this program does not adjust transformer taps or shunts.
 
 
 ## Contact:
