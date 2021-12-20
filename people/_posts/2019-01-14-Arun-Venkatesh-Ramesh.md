@@ -25,7 +25,7 @@ PhD Candidate, University of Houston, TX, USA 2019-2022
 
 Master of Science in Electrical Engineering, Arizona State University, AZ, USA 2013-2015
 
-Banchelors of Engineering, Anna University, India 2009-2015
+Banchelors of Engineering, Anna University, India 2009-2013
 
 
 ## Publication
