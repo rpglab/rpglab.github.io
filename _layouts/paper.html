@@ -35,7 +35,7 @@ layout: default
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off" href="{{ page.pdf }}" target="_blank" onClick="ga(‘send’, ‘event’, ‘Downloads’, ‘Papers’, ‘a_paper’, 1, {‘NonInteraction’: 1});">{{ page.pdf | split: '/' | last }}</a>
+				<a class="off" href="{{ page.pdf }}" target="_blank">{{ page.pdf | split: '/' | last }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
