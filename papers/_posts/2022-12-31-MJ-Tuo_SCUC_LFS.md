@@ -3,8 +3,8 @@ layout: paper
 title: "Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Grids"
 image: 
 authors: Mingjian Tuo, Xingpeng Li.
-year: 2021
-ref: Mingjian Tuo et al, IEEE Transaction on Power Systems (Under Review), 2021.
+year: 2022
+ref: Mingjian Tuo et al, IEEE Transaction on Power Systems (Under Review), 2022.
 journal: "IEEE Transaction on Power Systems (Under Review)"
 pdf: /pdfs/papers/20211015_MJ-Tuo_SCUC_LFS.pdf
 doi: 

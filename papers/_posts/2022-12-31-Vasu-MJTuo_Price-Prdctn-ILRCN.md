@@ -3,8 +3,8 @@ layout: paper
 title: "Wholesale Electricity Price Forecasting using Integrated Long-term Recurrent Convolutional Network Model"
 image: 
 authors: Vasudharini Sridharan, Mingjian Tuo, Xingpeng Li.
-year: 2021
-ref: Vasudharini Sridharan, Mingjian Tuo et al, IEEE Transaction on Power Systems (Under Review), 2021.
+year: 2022
+ref: Vasudharini Sridharan, Mingjian Tuo et al, IEEE Transaction on Power Systems (Under Review), 2022.
 journal: "IEEE Transaction on Power Systems (Under Review)"
 pdf: /pdfs/papers/20211215_Vasu-S_MJ-Tuo_Price-ILRCN.pdf
 doi: 

@@ -3,7 +3,7 @@ layout: paper
 title: "Neural Network-based Power Flow Model"
 image: 
 authors: Thuan Pham, Xingpeng Li.
-year: 2021
+year: 2022
 ref: Thuan Pham et al, 2022 IEEE PES General Meeting (Under Review), 2022.
 journal: "2022 IEEE Power & Energy Society General Meeting (Under Review)"
 pdf: /pdfs/papers/20211119_Thuan-NN-PF.pdf
