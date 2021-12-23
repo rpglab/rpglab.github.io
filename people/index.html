@@ -14,18 +14,18 @@ categories:
 		</div>
 	</div>
 </div>
+<div class="spacer"></div>
 
-<div class="bigspacer"></div>
 
 {% for member in site.categories.people %}
 	{% if member.rolePI == true %}
 	{% if member.alumni != true %}
     {% cycle 'add rows 0': '<div class="row">', '', '' %}
-		<div class="col-lg-4 memberbox">
+		<div class="col-lg-6 memberbox">
 			<div class="media">
   				
   				<a class="float-left" href="{{ member.url }}">
-    				<img width=160 class="mr-3" src="{{ member.image }}">
+    				<img width=120 class="mr-3" src="{{ member.image }}">
   				</a>
   				
  			 	<div class="media-body">
@@ -34,7 +34,7 @@ categories:
     				<p class="note">{{ member.time }}</p>
   				</div>
 			</div>
-			<div class="bigspacer"></div>
+			<div class="spacer"></div>
         </div>
     {% cycle 'close rows 0': '', '', '</div>' %}
     {% endif %}
@@ -43,7 +43,9 @@ categories:
 {% cycle 'close rows 0': '', '</div>', '</div>' %}
 
 
-<br>
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
+
 
 <div class="row">
 	<div class="col-lg-12">
@@ -53,7 +55,7 @@ categories:
 	</div>
 </div>
 
-<div class="bigspacer"></div>
+<div class="spacer"></div>
 
 {% for member in site.categories.people reversed %}
 	{% if member.rolePI != true %}
@@ -62,24 +64,25 @@ categories:
 		<div class="col-lg-4 memberbox">
 			<div class="media">
   				<a class="float-left" href="{{ member.url }}">
-    				<img width=160 class="mr-3" src="{{ member.image }}">
+    				<img width=120 class="mr-3" src="{{ member.image }}">
   				</a>
  			 	<div class="media-body">
-    				<div class="head mb-1"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
-    				<p class="note">{{ member.position }}</p>
-    				<p class="note">{{ member.time }}</p>
+    				<div class="smallhead mb-1"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+    				{{ member.time }}, {{ member.position }}
+    				<p class="note" style="margin-top: 0.6em">{{ member.index }}</p>
+					<div class="bigspacer"></div>
   				</div>
 			</div>
-			<div class="bigspacer"></div>
-			<div class="bigspacer"></div>
         </div>
     {% cycle 'close rows': '', '', '</div>' %}
+	<div class="spacer"></div>
     {% endif %}
     {% endif %}
 {% endfor %}
 {% cycle 'close rows': '', '</div>', '</div>' %}
 
-<br>
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
 
 
 <div class="row">
@@ -90,7 +93,7 @@ categories:
 	</div>
 </div>
 
-<div class="bigspacer"></div>
+<div class="spacer"></div>
 
 {% for member in site.categories.people %}
 	{% if member.rolePI != true %}
@@ -100,13 +103,13 @@ categories:
 			<div class="media">
   				
   				<a class="pull-left" href="{{ member.url }}">
-    				<img width=160 class="mr-3" src="{{ member.image }}">
+    				<img width=120 class="mr-3" src="{{ member.image }}">
   				</a>
   				
  			 	<div class="media-body">
-    				<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
-    				<p class="note">{{ member.position }}</p>
-    				<p class="note">{{ member.time }}</p>
+    				<div class="smallhead media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+    				<p class="note">{{ member.time }}, {{ member.position }}</p>
+    				<p class="note">{{ member.index }}</p>
   				</div>
 			</div>
 			<div class="bigspacer"></div>

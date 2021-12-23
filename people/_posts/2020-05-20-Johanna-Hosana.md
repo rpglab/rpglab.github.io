@@ -6,6 +6,7 @@ time: 2020.05 - 2020.09
 email: 
 image: /images/team/female.jpg
 cv: 
+index: "Demand response, HVAC modeling"
 scholar: 
 linkedin: 
 website: 

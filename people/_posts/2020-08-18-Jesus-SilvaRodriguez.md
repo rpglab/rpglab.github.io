@@ -1,11 +1,12 @@
 ---
 layout: member
 title: Jesus Silva-Rodriguez
-position: (ii) PhD Student (i) B.S.
+position: (i) B.S. (ii) PhD Student 
 time: 2020.08 to present
 email: jasilvarodriguez@uh.edu
 image: /images/team/Jesus_SilvaRodriguez.jpg
 cv: 
+index: "Water-energy nexus, Microgrid energy management"
 scholar: 
 linkedin: jesus-silva-rodriguez-759446167
 website: 
@@ -47,5 +48,5 @@ J. Silva-Rodriguez and X. Li, “Water-Energy Co-Optimization for Community-Scal
 
 ## Research Interests
 
- Power Systems Operations, Stochastic Optimization, Water-Energy Nexus
+Power Systems Operations, Stochastic Optimization, Water-Energy Nexus
 

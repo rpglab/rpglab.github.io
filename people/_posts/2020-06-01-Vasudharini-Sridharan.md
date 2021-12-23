@@ -6,6 +6,7 @@ time: 2020.06 - 2021.05
 email: 
 image: /images/team/Vasudharini_Sridharan.png
 cv: 
+index: "Electricity price prediction, Machine learning"
 scholar: 
 linkedin: vasudharini-sridharan
 website: 

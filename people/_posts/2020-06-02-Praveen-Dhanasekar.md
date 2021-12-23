@@ -6,6 +6,7 @@ time: 2020.06 - 2021.05
 email: 
 image: /images/team/Praveen_Dhanasekar.jpg
 cv: 
+index: "Demand response, HVAC, Microgrid energy management"
 scholar: 
 linkedin: praveen-dhanasekar
 website: 

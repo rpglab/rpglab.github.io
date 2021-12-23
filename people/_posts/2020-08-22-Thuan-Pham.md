@@ -6,6 +6,7 @@ time: 2020.08 - present
 email: tdpham7@cougarnet.uh.edu
 image: /images/team/Thuan_Pham.jpg
 cv: 
+index: "Power flow and optimal power flow, Neural network, Graph convolutional network"
 scholar: https://scholar.google.com/citations?hl=en&user=W0qqTJsAAAAJ
 linkedin: thuan-pham-2017
 website: 

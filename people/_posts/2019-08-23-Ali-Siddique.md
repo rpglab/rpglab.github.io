@@ -1,11 +1,12 @@
 ---
 layout: member
 title: Ali Siddique
-position: Master Student
+position: MS Student
 time: 2019.08 - Present
 email: 
 image: /images/team/Ali_Siddique.jpg
 cv: 
+index: "Risk-based microgrid energy management, Conditional value-at-risk analysis"
 scholar: 
 linkedin: alisiddique
 website: 
