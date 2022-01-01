@@ -8,7 +8,7 @@ ref: Vasudharini Sridharan, Mingjian Tuo et al, IEEE Transaction on Power System
 journal: "IEEE Transaction on Power Systems (Under Review)"
 pdf: /pdfs/papers/20211215_Vasu-S_MJ-Tuo_Price-ILRCN.pdf
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2112.13681
 ---
 
 # Abstract
