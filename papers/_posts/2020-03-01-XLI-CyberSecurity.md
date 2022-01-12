@@ -2,7 +2,7 @@
 layout: paper
 title: "Enhancing Power System Cyber-Security with Systematic Two-Stage Detection Strategy"
 image: 
-authors: Xingpeng Li, Qianxue Xia.
+authors: Xingpeng Li, Kory W. Hedman.
 year: 2020
 ref: Xingpeng Li et al, IEEE Transactions on Power Systems, 2020.
 journal: "IEEE Transactions on Power Systems"
