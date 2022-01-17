@@ -6,7 +6,7 @@ time: 2020.01 - present
 email: czhao29@cougarnet.uh.edu
 image: /images/team/CunzhiZhao.jpg
 cv: 
-index: "Microgrid energy management, learning based battery degradation modeling"
+index: "Microgrid energy management, Learning based battery degradation modeling"
 scholar: 
 linkedin: cunzhi-zhao-b50788102
 website: 
