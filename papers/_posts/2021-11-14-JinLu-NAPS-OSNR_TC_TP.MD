@@ -19,4 +19,4 @@ Power system restoration can be divided into three stages: black-start, network 
 Black Start, Mixed-integer linear programming, Network reconfiguration, Power system restoration, Skeleton network restoration
 
 # Cite this paper:
-Jin Lu and Xingpeng Li, “Optimal Skeleton Network Reconfiguration considering Topological Characteristics and Transmission Path,” *53rd North American Power Symposium*, College Station,TX, USA, Nov. 2021.
+Jin Lu and Xingpeng Li, “Optimal Skeleton Network Reconfiguration considering Topological Characteristics and Transmission Path,” *53rd North American Power Symposium*, College Station, TX, USA, Nov. 2021.
