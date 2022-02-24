@@ -7,6 +7,7 @@ year: 2020
 ref: Xingpeng Li et al, Innovative Smart Grid Technologies (ISGT), 2020.
 journal: "Innovative Smart Grid Technologies (ISGT)"
 pdf: /pdfs/papers/20200201-XLI-QX-TEPwSNO.pdf
+codes: /resources/TEP-AMPL/
 doi: 10.1109/ISGT45199.2020.9087743 
 ---
 

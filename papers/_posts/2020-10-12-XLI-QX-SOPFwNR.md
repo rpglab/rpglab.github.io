@@ -7,6 +7,7 @@ year: 2020
 ref: Xingpeng Li et al, IEEE PES T&D Conference & Exposition, 2020.
 journal: "IEEE PES T&D Conference & Exposition"
 pdf: /pdfs/papers/20201012-XLI-QX-SOPFwNR.pdf
+codes: /resources/SOPF-AMPL/
 doi: 10.1109/TD39804.2020.9299954 
 ---
 
