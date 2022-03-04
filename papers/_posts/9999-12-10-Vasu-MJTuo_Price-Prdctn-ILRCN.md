@@ -4,8 +4,8 @@ title: "Wholesale Electricity Price Forecasting using Integrated Long-term Recur
 image: 
 authors: Vasudharini Sridharan, Mingjian Tuo, Xingpeng Li.
 year: 2022
-ref: Vasudharini Sridharan, Mingjian Tuo et al, IEEE Transaction on Power Systems (Under Review), 2022.
-journal: "IEEE Transaction on Power Systems (Under Review)"
+ref: Vasudharini Sridharan, Mingjian Tuo et al, International Journal of Electrical Power and Energy Systems (Under Review), 2022.
+journal: "International Journal of Electrical Power and Energy Systems (Under Review)"
 pdf: /pdfs/papers/20211215_Vasu-S_MJ-Tuo_Price-ILRCN.pdf
 doi: 
 arxiv: https://arxiv.org/abs/2112.13681
