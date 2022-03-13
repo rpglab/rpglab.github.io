@@ -38,7 +38,8 @@ University of Houston, Houston, TX, USA
     Bachelor of Science in Biology, Minor in Chemistry                  May 2009
 
 ## Publication
-1. Thuan Pham and Xingpeng Li, "Neural Network-based Power Flow Model," *2022 IEEE Power & Energy Society General Meeting (PESGM)*. (Submitted)
+1. Thuan Pham and Xingpeng Li, “Neural Network-based Power Flow Model”, IEEE Green Technology Conference, Houston, TX, USA, Mar. 2022.
+
 
 
 
