@@ -6,9 +6,10 @@ authors: Thuan Pham, Xingpeng Li.
 year: 2022
 ref: Thuan Pham et al, IEEE Green Technology Conference, 2022.
 journal: "IEEE Green Technology Conference"
-pdf: /pdfs/papers/20211119_Thuan-NN-PF.pdf
+pdf: 
+webpdf: https://arxiv.org/ftp/arxiv/papers/2112/2112.08418.pdf
 doi: 
-arxiv: https://arxiv.org/abs/2112.08418
+arxiv: https://arxiv.org/abs/2112.08418v2
 ---
 
 # Abstract
