@@ -19,4 +19,4 @@ The flexible power consumption feature of thermostatically controlled loads (TCL
 Battery energy storage systems, Demand response, Distributed energy resources, Energy management, HVAC, Microgrids, Thermostatically controlled load.
 
 # Cite this paper:
-Praveen Dhanasekar, Cunzhi Zhao and Xingpeng Li, "Quantitative Analysis of Demand Response Using Thermostatically Controlled Loads", *IEEE PES Innovative Smart Grid Technology*, Washington D.C., USA, Feb. 2022. 
+Praveen Dhanasekar, Cunzhi Zhao and Xingpeng Li, "Quantitative Analysis of Demand Response Using Thermostatically Controlled Loads", *IEEE PES Innovative Smart Grid Technology*, New Orleans, LA, USA, Apr. 2022. 
