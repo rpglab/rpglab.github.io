@@ -7,6 +7,7 @@ year: 2022
 ref: Praveen Dhanasekar et al, IEEE PES Innovative Smart Grid Technology, 2022. 
 journal: "IEEE PES Innovative Smart Grid Technology (ISGT)"
 pdf: /pdfs/papers/20220221_DR-TCL-MG.pdf
+codes: /resources/HVAC_DR/
 doi: 
 arxiv: https://arxiv.org/abs/2110.12345
 ---
