@@ -19,4 +19,4 @@ Power flow analysis is used to evaluate the flow of electricity in the power sys
 DC Power Flow, Machine learning, Neural network, Power flow, Transmission network
 
 # Cite this paper:
-Thuan Pham and Xingpeng Li, "Neural Network-based Power Flow Model", *IEEE Green Technology Conference*, Houston, TX, USA, Mar. 2022.
+Thuan Pham and Xingpeng Li, "Neural Network-based Power Flow Model", *IEEE Green Technologies Conference*, Houston, TX, USA, Mar. 2022.
