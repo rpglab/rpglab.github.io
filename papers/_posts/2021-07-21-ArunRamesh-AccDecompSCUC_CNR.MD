@@ -19,4 +19,4 @@ Security-constrained unit commitment (SCUC) model is used for power system day-a
 Accelerated-decomposition approach, Benders decomposition, Corrective transmission switching, Flexible transmission, Mixed-integer linear programming,Network reconfiguration, Post-contingency congestion relief, Securityconstrained unit commitment , Topology control.
 
 # Cite this paper:
-Arun Venkatesh Ramesh, Xingpeng Li and Kory W. Hedman, "An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment with Corrective Network Reconfiguration," in *IEEE Transactions on Power Systems*, 2021.
+Arun Venkatesh Ramesh, Xingpeng Li and Kory W. Hedman, "An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment with Corrective Network Reconfiguration," *IEEE Transactions on Power Systems*, vol. 37, no. 2, pp. 887-900, Mar. 2022.
