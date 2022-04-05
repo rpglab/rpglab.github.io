@@ -7,8 +7,9 @@ year: 2021
 ref: Arun Venkatesh Ramesh et al, IEEE Transaction on Power Systems, 2021. 
 journal: "IEEE Transaction on Power Systems"
 pdf: /pdfs/papers/20210721_A-Ramesh_AccDecompSCUC_CNR.pdf
+codes: /resources/ABD_N-1_SCUC_CNR_AMPL/
 doi: 10.1109/TPWRS.2021.3098771
-arxiv: https://arxiv.org/abs/1912.01764
+arxiv: https://arxiv.org/abs/1912.01764v3
 ---
 
 # Abstract
