@@ -43,6 +43,7 @@ Run file is script file that sequentially runs ampl commands. The main goal of t
 4. *ESCUCCNR.run* - Extensive formulation of N-1 SCUC considering Corrective Network Reconfiguration model.
 5. *TSCUCCNR.run* - Iterative Benders Decomposition based N-1 SCUC with Corrective Network Reconfiguration algorithm.
 6. *ASCUCCNR.run* - Iterative Accelerated Benders Decomposition based N-1 SCUC with Corrective Network Reconfiguration algorithm.
+
 Note: The combination of data, model and run file are required to execute the above scripts. Decomposed models are iterative in nature whereas the extensive model is a single MILP problem which is co-optimized. Ensure that all files are in the same folder.
 
 ### How to execute:
@@ -51,9 +52,8 @@ Note: The combination of data, model and run file are required to execute the ab
 2. Select folder with the above files
 3. Open appropriate run file and un-comment the datafile (dataFile24BusAll.dat/dataFile73BusAll.dat/dataFilePolishAll.dat) required for execution.
 4. In AMPL execute the command: include runFileName.run (for e.g. include ESCUC.run) 
-Note:
-Extensive models require substantial computer resources to solve. Unrealistic for IEEE 73-bus system and polish network for ESCUCCNR, and polish network for ESCUC.  
-Requires AMPL to be installed. Available Online: ampl.com
+
+Note: Extensive models require substantial computer resources to solve. Unrealistic for IEEE 73-bus system and polish network for ESCUCCNR, and polish network for ESCUC. Requires AMPL to be installed. Available Online: ampl.com
 
 
 ## Citation:
