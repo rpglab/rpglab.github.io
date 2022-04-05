@@ -9,7 +9,7 @@ time: 2022-04-04
 github: https://github.com/rpglab/ABD-Alg_N-1_SCUC_CNR
 link: 
 doi: 
-description: This set of codes implement various SCUC models with/without correct network reconfiguration using Benders decomposition.
+description: This set of codes implement various SCUC models with/without correct network reconfiguration (with/without decomposition).
 ---
 
 
