@@ -10,4 +10,4 @@ description: "Congratulations to Dr. Xingpeng Li for his elevation to the grade 
 
 * 5 years IEEE Membership Milestone
 
-* Dr. Li's IEEE-Collabratec <a href="https://ieee-collabratec.ieee.org/app/p/XingpengLi833323" class="off">Profile Page</a> 
+* Dr. Li's IEEE-Collabratec <a href="https://ieee-collabratec.ieee.org/app/p/XingpengLi833323" class="">Profile Page</a> 
