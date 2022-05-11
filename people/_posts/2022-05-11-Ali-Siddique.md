@@ -2,7 +2,7 @@
 layout: member
 title: Ali Siddique
 position: MS Student
-time: 2019.08 - Present
+time: 2019.08 - 2022.05
 email: 
 image: /images/team/Ali_Siddique.jpg
 cv: 
@@ -15,14 +15,20 @@ handle:
 github: 
 twitter: 
 facebook: 
-alumni: 
+alumni: true
 ---
 
-Ali Siddique is currently a thesis-based master student in the Department of Electrical and Computer Engineering (ECE) at the University of Houston. His research focuses on risk-based microgrid energy management. He is currently a Control System Engineer at CenterPoint Energy.
+Ali Siddique started his research in the RPG lab in August 2019. He was a Control System Engineer at CenterPoint Energy when he started the master's degree program. He mainly worked on risk-based microgrid energy management. He graduated in May 2022. 
+
+He received the Bachelor's degree in Electrical Engineering from the University of Houston in 2015. He has worked at National Instruments, CenterPoint Energy, and most recently ChargePoint. 
+
+The title of his thesis is "*Microgrid Optimal Scheduling and Risk Analysis*".
+
+<a class="off" href="/people/Ali-Siddique/">Ali Siddique</a> is the first (MS) student who graduated with a (MS) thesis in our group - the RPG Lab!
 
 ## Education
-* Master student, Electrical Engineering, University of Houston, TX, USA
-* Bachelor of Science in Electrical Engineering, University of Houston, TX, USA, 2015
+* Master of Science, Electrical Engineering, University of Houston, TX, USA. 2022
+* Bachelor of Science, Electrical Engineering, University of Houston, TX, USA, 2015
 
 
 ## Professional Experience

@@ -18,7 +18,9 @@ facebook:
 alumni: true
 ---
 
-Praveen Dhanasekar started his research in the RPG lab in June 2020. He mainly worked on the quantification of demand response from Thermostatically Controlled Loads (TCL) and has published a conference paper based on his research. He graduated in May 2021. After graduation from UH, Praveen's first job is a Protection Control & Automation Application Engineer with Schneider Electric; the main responsibilities include (i) automate LV and MV switchgears of substations and (ii) develop control systems for microgrids.
+Praveen Dhanasekar started his research in the RPG lab in June 2020. He mainly worked on the quantification of demand response from Thermostatically Controlled Loads (TCL) and has published a conference paper based on his research. He graduated in May 2021. 
+
+After graduation from UH, Praveen's *first job* is a Protection Control & Automation Application Engineer with Schneider Electric; the main responsibilities include (i) automate LV and MV switchgears of substations and (ii) develop control systems for microgrids.
 
 
 ## Education

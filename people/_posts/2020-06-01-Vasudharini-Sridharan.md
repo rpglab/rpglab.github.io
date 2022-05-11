@@ -18,7 +18,9 @@ facebook:
 alumni: true
 ---
 
-Vasudharini Sridharan started her research in the RPG lab in June 2020. She mainly worked on machine learning based electricity price prediction. She graduated in May 2021. After graduation from UH, Vasudharini's first job is a Protection Control & Automation Application Engineer with Schneider Electric; the main responsibilities include (i) develop and simulate control logic for microgrids and (ii) modulate battery energy storage system and control for microgrids.
+Vasudharini Sridharan started her research in the RPG lab in June 2020. She mainly worked on machine learning based electricity price prediction. She graduated in May 2021. 
+
+After graduation from UH, Vasudharini's *first job* is a Protection Control & Automation Application Engineer with Schneider Electric; the main responsibilities include (i) develop and simulate control logic for microgrids and (ii) modulate battery energy storage system and control for microgrids.
 
 She is an electrical engineer with expertise in power system control and protection and predictive modelling with experience in power system control and automation, system modelling, smart grid systems and tools like MATLAB,  Machine Learning, Typhoon HIL, AMPL, Power World, PSSE/E, google platform services.
 
