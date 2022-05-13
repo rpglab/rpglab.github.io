@@ -8,7 +8,7 @@ timeInit: 2022-05-13
 time: 2022-05-13
 github: https://github.com/rpglab/ECE6327_SGS_AMPL_Sample_Codes
 doi: 
-description: "40 AMPL programs, including tutorial-level examples and course-level DCOPF, SCUC, DSM, SUC, transmission switching, FACTS, energy storage, and microgrid examples for class ECE6327 Smart Grid Systems at University of Houston in 2022 Spring."
+description: "40 AMPL programs, including tutorial-level examples and course-level DCOPF, SCUC, DSM, SUC, transmission switching, FACTS, energy storage, and microgrid examples for ECE6327 Smart Grid Systems at University of Houston in 2022 Spring."
 ---
 
 ## AMPL Codes for Examples in ECE6327 SGS
