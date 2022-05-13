@@ -11,11 +11,11 @@ doi:
 description: "40 AMPL programs, including tutorial-level examples and course-level DCOPF, SCUC, DSM, SUC, transmission switching, FACTS, energy storage, and microgrid examples for class ECE6327 Smart Grid Systems at University of Houston in 2022 Spring."
 ---
 
-## AMPL Codes for Examples in ECE6379 PSOM
+## AMPL Codes for Examples in ECE6327 SGS
 This repo provides about 40 AMPL programs, including codes for tutorial-level examples and codes for course-level DCOPF, SCUC, DSM, SUC, transmission switching, FACTS, energy storage, and microgrid energy management and sizing examples that are used for the class ECE6327 Smart Grid Systems at University of Houston for 2022 Spring.
 
 This repo is part of the open source materials for the following course taught by Dr. Xingpeng Li.
-* <a class="off" href="/resources/ECE6327-SGS/" target="_blank">ECE6327 Smart Grid Systems (SGS)</a> at University of Houston for 2022 Spring
+* *<a class="off" href="/resources/ECE6327-SGS/" target="_blank">ECE6327 Smart Grid Systems (SGS)</a>* at University of Houston for 2022 Spring
 
 The course materials such as lecture slides and assignments can be found <a class="" href="/resources/ECE6327-SGS/" target="_blank">here</a>.
 
