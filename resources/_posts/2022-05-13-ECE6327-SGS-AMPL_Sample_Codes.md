@@ -21,6 +21,12 @@ The course materials such as lecture slides and assignments can be found <a clas
 
 The example codes in the folder "00_AMPL_Tutorial_Codes" and the DCOPF & SCUC codes are also used for my other class <a class="" href="/resources/ECE6379-PSOM/" target="_blank">ECE6379</a>.
 
+
+## AMPL Tutorial Lecture:
+The AMPL Tutorial Lecture is available at Youtube: 
+* <a class="" href="https://www.youtube.com/watch?v=fQXqZeEAknM" target="_blank">https://www.youtube.com/watch?v=fQXqZeEAknM</a>
+
+
 ## Contact:
 Dr. Xingpeng Li
 
