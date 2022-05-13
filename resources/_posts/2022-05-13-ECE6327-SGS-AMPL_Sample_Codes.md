@@ -23,7 +23,7 @@ The example codes in the folder "00_AMPL_Tutorial_Codes" and the DCOPF & SCUC co
 
 
 ## AMPL Tutorial Lecture:
-The AMPL Tutorial Lecture is available at Youtube: 
+The AMPL Tutorial Lecture is available on Youtube: 
 * <a class="" href="https://www.youtube.com/watch?v=fQXqZeEAknM" target="_blank">https://www.youtube.com/watch?v=fQXqZeEAknM</a>
 
 
