@@ -19,9 +19,7 @@ This repo is part of the open source materials for the following course taught b
 
 The course materials such as lecture slides and assignments can be found <a class="" href="/resources/ECE6327-SGS/" target="_blank">here</a>.
 
-The example codes in the folder "00_AMPL_Tutorial_Codes" and the DCOPF & SCUC codes are also used for my other class ECE6379 at:
-* https://github.com/rpglab/ECE6379_PSOM_AMPL_Sample_Codes
-
+The example codes in the folder "00_AMPL_Tutorial_Codes" and the DCOPF & SCUC codes are also used for my other class <a class="" href="/resources/ECE6379-PSOM/" target="_blank">ECE6379</a>.
 
 ## Contact:
 Dr. Xingpeng Li
