@@ -9,7 +9,7 @@ journal: "IEEE Green Technology Conference"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2112/2112.08418.pdf
 doi: 
-arxiv: https://arxiv.org/abs/2112.08418v2
+arxiv: https://arxiv.org/abs/2112.08418
 ---
 
 # Abstract
