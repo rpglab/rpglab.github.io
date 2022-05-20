@@ -1,6 +1,6 @@
 ---
 layout: newsitem
-title: MS Thesis Defense - Ali Siddique 
+title: MS Thesis Defense Passed - Ali Siddique 
 time: 2022-04-22
 link: 
 description: "Ali Siddique successfully defended his master's thesis. Congratulations!"
