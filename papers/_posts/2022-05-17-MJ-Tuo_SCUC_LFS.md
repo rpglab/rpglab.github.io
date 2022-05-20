@@ -4,8 +4,8 @@ title: "Security-Constrained Unit Commitment Considering Locational Frequency St
 image: 
 authors: Mingjian Tuo, Xingpeng Li.
 year: 2022
-ref: Mingjian Tuo et al, IEEE Transaction on Power Systems (Under Review), 2022.
-journal: "IEEE Transaction on Power Systems (Under Review)"
+ref: Mingjian Tuo et al, IEEE Transaction on Power Systems (Under 2nd Round Review), 2022.
+journal: "IEEE Transaction on Power Systems (Under 2nd Round Review)"
 pdf: /pdfs/papers/20211015_MJ-Tuo_SCUC_LFS.pdf
 doi: 
 arxiv: https://arxiv.org/abs/2110.11498
