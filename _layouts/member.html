@@ -243,11 +243,9 @@ layout: default
 				{% endif %}
 			{% endif %}
 			{% if post.authors %}
-				{% for author in post.authors %}
-					{% if member.title == author %}
-						{% assign postsq = true %}
-					{% endif %}
-				{% endfor %}
+				{% if post.authors contains member.title %}
+					{% assign postsq = true %}
+				{% endif %}
 			{% endif %}
 		{% endfor %}
 
@@ -262,13 +260,7 @@ layout: default
 					{% endif %}
 				{% endif %}
 				{% if post.authors %}
-					{% assign found = false %}
-					{% for author in post.authors %}
-						{% if member.title == author %}
-							{% assign found = true %}
-						{% endif %}
-					{% endfor %}
-					{% if found %}
+					{% if post.authors contains member.title %}
 						<p><a href="{{ post.url }}" class="off">{{ post.title }}</a>
 					{% endif %}
 				{% endif %}
