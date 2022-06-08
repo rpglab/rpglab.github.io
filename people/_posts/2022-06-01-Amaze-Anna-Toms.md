@@ -6,7 +6,7 @@ time: 2022.06 - present
 email: atoms@CougarNet.UH.EDU
 image: /images/team/Amaze_Toms.jpg
 cv: 
-index: "Clean energy, Green hydrogen"
+index: "Power system planning and operations, Clean energy, Green hydrogen"
 scholar: 
 linkedin: amaze-anna-toms-b25713229
 website: 
