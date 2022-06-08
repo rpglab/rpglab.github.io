@@ -21,8 +21,9 @@ facebook:
 alumni: 
 ---
 
-Dr. Xingpeng Li is an <a class="off" href="https://www.ece.uh.edu/faculty/li" target="_blank">Assistant Professor</a> with the <a class="off" href="https://www.ece.uh.edu/" target="_blank">Department of Electrical and Computer Engineering</a> at the
-<a class="off" href="https://www.uh.edu/" target="_blank">University of Houston (UH)</a>, Houston, TX, USA. He is also the Associate Director of the Power electronics, Energy storage, Microgrids and Subsea Electrical Consortium <a class="off" href="https://pemses.ece.uh.edu/wp-content/uploads/2019/01/click-here-for-PEMSEC-scope.pdf" target="_blank">(PEMSEC)</a> at UH.
+Dr. Xingpeng Li is an <a class="off" href="https://www.ece.uh.edu/faculty/li" target="_blank">Assistant Professor</a> with the <a class="off" href="https://www.ece.uh.edu/" target="_blank">Department of Electrical and Computer Engineering</a> at <a class="off" href="https://www.uh.edu/" target="_blank">University of Houston (UH)</a>, Houston, TX, USA. He is a Senior Member of IEEE.
+
+He is also the Associate Director of the Power electronics, Energy storage, Microgrids and Subsea Electrical Consortium <a class="off" href="https://pemses.ece.uh.edu/wp-content/uploads/2019/01/click-here-for-PEMSEC-scope.pdf" target="_blank">(PEMSEC)</a> at UH. 
 
 ## Education
 
