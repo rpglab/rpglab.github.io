@@ -9,7 +9,7 @@ time: 2021-12-18
 github: https://github.com/rpglab/Log
 link: 
 doi: 
-description: "This set of codes is used to create unique log files and record each piece of log information that is numbered and ordered by elapsed time and CPU time. They can be easily integrated into users' existing codes and simple examples are provided."
+description: "This set of codes is to create unique log files and record each piece of log information that is numbered and ordered by elapsed time and CPU time. They can be easily integrated into users' existing codes; sample codes are provided."
 ---
 
 
