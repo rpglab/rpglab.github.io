@@ -15,7 +15,7 @@ layout: default
 				{% else %}
 					{{ page.type }},
 				{% endif %}	
-				 by {{ page.authors }}, {{ page.time }}.
+				 by {{ page.authors }}, {{ page.time | date: "%-b %d, %Y" }}.
 			</div>
 		</div>
 	</div>
