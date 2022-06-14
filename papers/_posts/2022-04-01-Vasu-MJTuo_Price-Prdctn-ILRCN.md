@@ -18,4 +18,4 @@ Electricity price is a key factor affecting the decision-making for all market p
 Convolutional neural network, Deep learning, Energy price forecasting, Locational marginal price, Long short-term memory, Long-term recurrent convolutional network, Real time market price, Wholesale power energy market.
 
 # Cite this paper:
-Vasudharini Sridharan, Mingjian Tuo and Xingpeng Li, "Wholesale Electricity Price Forecasting using Integrated Long-term Recurrent Convolutional Network Model", version 12/14/2021. [Online], available at: https://rpglab.github.io/papers/Vasu-MJTuo_Price-Prdctn-ILRCN/.
+Vasudharini Sridharan, Mingjian Tuo and Xingpeng Li, “Wholesale Electricity Price Forecasting using Integrated Long-term Recurrent Convolutional Network Model”, *arXiv:2112.13681*, Dec. 2021.
