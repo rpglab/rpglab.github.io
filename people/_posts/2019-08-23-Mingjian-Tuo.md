@@ -8,7 +8,7 @@ image: /images/team/Mingjian_Tuo.jpg
 cv: 
 index: "Inertia-constrained unit commitment, Inertia estimation, Machine learning"
 scholar: 
-linkedin: 明暕-庹-983528234/
+linkedin: mingjian-tuo-983528234
 website: 
 calendar: 
 handle: 
