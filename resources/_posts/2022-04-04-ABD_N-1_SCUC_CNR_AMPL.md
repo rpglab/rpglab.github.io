@@ -3,7 +3,7 @@ layout: resource
 title: Accelerated-Decomposition Method for N-1 SCUC w. CNR in AMPL
 authors: Arun Venkatesh Ramesh
 type: AMPL Code
-zip: /zips/ampl_codes/ABD_SCUCwCNR.zip
+zip: https://github.com/rpglab/ABD-Alg_N-1_SCUC_CNR/archive/refs/heads/main.zip
 timeInit: 2022-04-04
 time: 2022-04-04
 github: https://github.com/rpglab/ABD-Alg_N-1_SCUC_CNR
