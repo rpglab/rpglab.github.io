@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "An Alternative Method for Solving Security-Constraint Unit Commitment with Neural Network Based Battery Degradation Model"
+title: "An Alternative Method for Solving Security-Constrained Unit Commitment with Neural Network Based Battery Degradation Model"
 image: 
 authors: Cunzhi Zhao, Xingpeng Li.
 year: 2022
