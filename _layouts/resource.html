@@ -50,18 +50,6 @@ layout: default
 			<div class="bigspacer"></div>
 			{% endif %}
 			
-			{% if page.paper %}
-			<div class="smallhead">
-				Paper
-			</div>
-			<div class="pad-left note">
-				<div class="smallspacer"></div>
-				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off"  target="_blank" href="{{ page.paper }}">{{ page.paper | split: '/' | last }}</a>
-			</div>
-			<div class="bigspacer"></div>
-			{% endif %}
-
 			{% if page.data %}
 			<div class="smallhead">
 				Data
@@ -69,7 +57,19 @@ layout: default
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-download fa-fw"></i>
-				<a class="off"  target="_blank" href="{{ page.data }}">{{ page.data | split: '/' | last }}</a>
+				<a class="off"  target="_blank" href="{{ page.data }}">Download_Page</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+
+			{% if page.paper %}
+			<div class="smallhead">
+				Paper Page
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off"  target="_blank" href="{{ page.paper }}">{{ page.paper | split: '/' | last }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
