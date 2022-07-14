@@ -6,7 +6,7 @@ type: Python Code
 zip: 
 timeInit: 2022-07-13
 time: 2022-07-13
-github: 
+github: https://github.com/rpglab/SCUC_PH2
 paper: /papers/JinLu-BnftAnlys-H2Grid-SCUC/
 link: 
 doi: 
@@ -89,6 +89,9 @@ Jin Lu and Xingpeng Li, “The Benefits of Hydrogen Energy Transmission and Conv
 
 Paper website: <a class="off" href="/papers/JinLu-BnftAnlys-H2Grid-SCUC/"  target="_blank">https://rpglab.github.io/papers/JinLu-BnftAnlys-H2Grid-SCUC/</a>
 
+
+## Contributions:
+This program was developed by Jin Lu. Xingpeng Li supervised this work.
 
 
 ## Contact:
