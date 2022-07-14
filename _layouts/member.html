@@ -202,6 +202,24 @@ layout: default
 
 
 		{% for resource in site.categories.resources %}
+		{% if resource.authors contains searchstring %}
+		{% assign papersq = true %}
+		{% endif %}
+		{% endfor %}
+
+		{% if papersq == true %}
+		<div class="bigspacer"></div>
+		<div class="head" style="color:black; font-size:28px;">Resources (with link) </div>
+		<div class="spacer"></div>
+		{% for resource in site.categories.resources %}
+		{% if resource.authors contains searchstring %}
+		<p><a href="{{ resource.url }}" class="off">{{ resource.title }}</a>
+		{% endif %}
+		{% endfor %}
+		{% endif %}
+
+<!--
+		{% for resource in site.categories.resources %}
 			{% if resource.authors %}
 				{% for author in resource.authors %}
 					{% if member.title == author %}
@@ -234,7 +252,7 @@ layout: default
 				{% endif %}
 			{% endfor %}
 		{% endif %}
-		
+-->		
 
 		{% for post in site.categories.blog %}
 			{% if post.author %}
