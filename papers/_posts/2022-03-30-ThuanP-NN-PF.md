@@ -8,7 +8,8 @@ ref: Thuan Pham et al, IEEE Green Technology Conference, 2022.
 journal: "IEEE Green Technologies Conference"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2112/2112.08418.pdf
-doi: 
+codes: /resources/NN-PF/
+doi: /10.1109/GreenTech52845.2022.9772026
 arxiv: https://arxiv.org/abs/2112.08418
 ---
 
