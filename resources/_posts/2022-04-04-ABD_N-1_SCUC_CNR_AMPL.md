@@ -7,6 +7,7 @@ zip: https://github.com/rpglab/ABD-Alg_N-1_SCUC_CNR/archive/refs/heads/main.zip
 timeInit: 2022-04-04
 time: 2022-04-04
 github: https://github.com/rpglab/ABD-Alg_N-1_SCUC_CNR
+paper: /papers/ArunRamesh-AccDecompSCUC_CNR/
 link: 
 doi: 
 description: This set of codes implement various SCUC models with/without correct network reconfiguration (with/without decomposition).

@@ -50,6 +50,19 @@ layout: default
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
+						
+			{% if page.arxiv %}
+			<div class="smallhead">
+				ArXiv
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-book fa-fw"></i>
+				<a class="off"  target="_blank" href="{{ page.arxiv }}">{{ page.arxiv | remove: 'http://arxiv.org/' | remove: 'https://arxiv.org/' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+
 			{% if page.supplement %}
 			<div class="smallhead">
 				Supplement
@@ -89,7 +102,7 @@ layout: default
 			</div>
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
-				<i class="fa fa-pencil fa-fw"></i>
+				<i class="fa fa-github-alt fa-fw"></i>
 				<a class="off" href="{{ page.codes }}" target="_blank">{{ page.codes | split: '/' | last }}</a>
 			</div>
 			<div class="bigspacer"></div>
@@ -113,17 +126,6 @@ layout: default
 				<div class="smallspacer"></div>
 				<i class="fa fa-cog"></i>
 				<a class="off" href="{{ page.codesdata }}" target="_blank">{{ page.codesdata | split: '/' | last }}</a>
-			</div>
-			<div class="bigspacer"></div>
-			{% endif %}
-			{% if page.arxiv %}
-			<div class="smallhead">
-				ArXiv
-			</div>
-			<div class="pad-left note">
-				<div class="smallspacer"></div>
-				<i class="fa fa-book fa-fw"></i>
-				<a class="off"  target="_blank" href="{{ page.arxiv }}">{{ page.arxiv | remove: 'http://arxiv.org/' | remove: 'https://arxiv.org/' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
