@@ -8,7 +8,7 @@ ref: Vasudharini Sridharan, Mingjian Tuo et al, arXiv Preprint, 2022.
 journal: "arXiv Preprint"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2112/2112.13681.pdf
-codes: /resources/ML-Price-Prdctn/
+codesdata: /resources/ML-Price-Prdctn/
 doi: 
 arxiv: https://arxiv.org/abs/2112.13681
 ---
