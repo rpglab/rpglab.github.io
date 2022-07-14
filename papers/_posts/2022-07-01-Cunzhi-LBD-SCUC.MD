@@ -10,6 +10,7 @@ pdf:
 webpdf: https://arxiv.org/ftp/arxiv/papers/2207/2207.00650.pdf
 doi: 
 arxiv: https://arxiv.org/abs/2207.00650
+researchgate: 
 ---
 
 # Abstract
