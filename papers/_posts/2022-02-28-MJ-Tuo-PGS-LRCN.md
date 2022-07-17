@@ -4,10 +4,10 @@ title: "Long-term Recurrent Convolutional Networks-based Inertia Estimation usin
 image: 
 authors: Mingjian Tuo, Xingpeng Li.
 year: 2022
-ref: Mingjian Tuo et al, IEEE IAS Annual Meeting (Accepted for Publication), 2022.
-journal: "2022 IEEE IAS Annual Meeting (Accepted for Publication)"
+ref: Mingjian Tuo et al, IEEE Transactions on Industry Applications (early access), 2022.
+journal: "IEEE Transactions on Industry Applications (early access)"
 pdf: /pdfs/papers/20211215_MJ-Tuo-PGS-LRCN.pdf
-doi: 
+doi: 10.1109/TIA.2022.3191062
 arxiv: https://arxiv.org/abs/2112.00926
 ---
 
