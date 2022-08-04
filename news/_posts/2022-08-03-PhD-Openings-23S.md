@@ -1,9 +1,9 @@
 ---
 layout: newsitem
-title: PhD Openings for Spring 2023
+title: Funded PhD Positions for Spring 2023
 time: 2022-08-03
 link: 
-description: "Two PhD openings in our group for Spring 2023: #PowerSystems #Microgrids #Optimization #MachineLearning."
+description: "Openings for two fully funded PhD positions in our group for Spring 2023: #PowerSystems #Microgrids #Optimization #MachineLearning #GraphLearning #GNN."
 ---
 
 <div class="smallhead" style="font-size:20px;">
@@ -55,7 +55,7 @@ The following skills are pluses:
 * Experience with power system software, e.g. PSS/E, DSATools, PSCAD
 * Experience with optimization packages, e.g. AMPL, Pyomo
 
-The University of Houston is classified as “R1 (Tier 1) - research universities (highest research activity)” in the Carnegie Classification of Institutions of Higher Education. In the U.S. News and World Report, the UH Cullen College of Engineering ranked around 70 and the electrical engineering ranked around 60. 
+If you have a full time job in the U.S. (not need to be in Houston) but in the meanwhile want to pursue a doctoral degree, you are also encouraged to contact me with your full CV and transcripts. There is a possibility we can have your PhD tuition fee waived with our college-wide Graduate Tuition Fellowship (GTF).
 
 Sincerely,
 
@@ -64,4 +64,6 @@ Dr. Xingpeng Li
 * UH ECE faculty page: <a href="https://www.ee.uh.edu/faculty/li" class="" target="_blank">https://www.ee.uh.edu/faculty/li
 * Personal webpage: <a href="/people/Xingpeng-Li" class="" target="_blank">https://rpglab.github.io/people/Xingpeng-Li
 
-Houston, Texas, August 3, 2022
+Houston, Texas, August 3, 2022.
+
+The University of Houston is classified as “R1 (Tier 1) - research universities (highest research activity)” in the Carnegie Classification of Institutions of Higher Education. In the U.S. News and World Report, the UH Cullen College of Engineering ranked around 70 and the electrical engineering ranked around 60. 
