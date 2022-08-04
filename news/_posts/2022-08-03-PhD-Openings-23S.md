@@ -42,7 +42,7 @@ Competitive candidates are expected to have strong backgroud in at least one of 
 
 * Power systems, including microgrid
 * Operations research (optimization)
-* Machine learning, particularly graph learning
+* Machine learning, particularly graph learning (GNN)
 
 <div class="smallhead" style="font-size:20px;">
       <p>
