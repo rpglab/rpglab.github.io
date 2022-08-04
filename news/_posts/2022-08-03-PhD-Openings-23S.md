@@ -36,13 +36,14 @@ We are seeking for self-motivated and enthusiastic candidates who are interested
 
 <div class="smallhead" style="font-size:20px;">
       <p>
-Competitive candidates are expected to have strong backgroud in at least one of the following three areas: 
+Competitive candidates are expected to have strong backgroud in at least one of the following three areas. Candidates from different but very relevant domains are also encouraged to contact me.
       </p>
 </div>
 
 * Power systems, including microgrid
 * Operations research (optimization)
 * Machine learning, particularly graph learning (GNN)
+
 
 <div class="smallhead" style="font-size:20px;">
       <p>
