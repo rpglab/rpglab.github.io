@@ -56,7 +56,7 @@ The following skills are pluses:
 * Experience with power system software, e.g. PSS/E, DSATools, PSCAD
 * Experience with optimization packages, e.g. AMPL, Pyomo
 
-If you have a full time job in the U.S. (not need to be in Houston) but in the meanwhile want to pursue a doctoral degree, you are also encouraged to contact me with your full CV and transcripts. There is a possibility we can have your PhD tuition fee waived with our college-wide Graduate Tuition Fellowship (GTF).
+If you have a full time job in the U.S. (not need to be in Houston) but in the meanwhile want to pursue a doctoral degree (can be 100% online), you are also encouraged to contact me with your full CV and transcripts. There is a possibility we can have your PhD tuition fee waived with our college-wide Graduate Tuition Fellowship (GTF).
 
 Sincerely,
 
