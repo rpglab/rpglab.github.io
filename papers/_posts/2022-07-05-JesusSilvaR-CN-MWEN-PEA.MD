@@ -4,8 +4,8 @@ title: "Centralized Networked Micro Water-Energy Nexus with Proportional Exchang
 image: 
 authors: Jesus Silva-Rodriguez, Xingpeng Li.
 year: 2022
-ref: Jesus Silva-Rodriguez et al, arXiv Preprint, 2022. 
-journal: "arXiv Preprint"
+ref: Jesus Silva-Rodriguez et al, North American Power Symposium, 2022. 
+journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2207/2207.02110.pdf
 doi: 
@@ -21,4 +21,4 @@ This paper proposes a Networked Micro Water-Energy Nexus (NetMicroWEN) capable o
 Distributed Energy Resource, Distributed Water Resource, Micro Water-Energy Nexus, Water-Energy CoOptimization, Proportional Exchange, Centralized Network.
 
 # Cite this paper:
-Jesus Silva-Rodriguez and Xingpeng Li, “Centralized Networked Micro Water-Energy Nexus with Proportional Exchange Among Participants,” *arXiv:2207.02110*, Jul. 2022.
+Jesus Silva-Rodriguez and Xingpeng Li, “Centralized Networked Micro Water-Energy Nexus with Proportional Exchange Among Participants”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.

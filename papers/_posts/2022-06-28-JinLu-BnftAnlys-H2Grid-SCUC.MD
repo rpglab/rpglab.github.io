@@ -4,8 +4,8 @@ title: "The Benefits of Hydrogen Energy Transmission and Conversion Systems to t
 image: 
 authors: Jin Lu, Xingpeng Li.
 year: 2022
-ref: Jin Lu et al, 	arXiv Preprint, 2022. 
-journal: "arXiv Preprint"
+ref: Jin Lu et al, 	North American Power Symposium, 2022. 
+journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2206/2206.14279.pdf
 codes: /resources/SCUC-H2-Python/
@@ -21,4 +21,4 @@ Electricity and hydrogen coordination, Energy hub, Grid integration of renewable
 
 
 # Cite this paper:
-Jin Lu and Xingpeng Li, “The Benefits of Hydrogen Energy Transmission and Conversion Systems to the Renewable Power Grids: Day-ahead Unit Commitment”, *arXiv:2206.14279*, Jun. 2022.
+Jin Lu and Xingpeng Li, “The Benefits of Hydrogen Energy Transmission and Conversion Systems to the Renewable Power Grids: Day-ahead Unit Commitment”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.

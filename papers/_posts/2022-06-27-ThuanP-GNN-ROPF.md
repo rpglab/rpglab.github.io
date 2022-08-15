@@ -4,8 +4,8 @@ title: "Reduced Optimal Power Flow Using Graph Neural Network"
 image: 
 authors: Thuan Pham, Xingpeng Li.
 year: 2022
-ref: Thuan Pham et al, arXiv Preprint, 2022.
-journal: "arXiv Preprint"
+ref: Thuan Pham et al, North American Power Symposium, 2022.
+journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2206/2206.13591.pdf
 doi: 
@@ -19,4 +19,4 @@ OPF problems are formulated and solved for power system operations, especially f
 Economic dispatch, Graph neural network, Machine learning, Optimal power flow, Power flow, Power system operations, Transmission network.
 
 # Cite this paper:
-Thuan Pham and Xingpeng Li, "Reduced Optimal Power Flow Using Graph Neural Network", *arXiv:2206.13591*, Jun. 2022.
+Thuan Pham and Xingpeng Li, "Reduced Optimal Power Flow Using Graph Neural Network", *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.

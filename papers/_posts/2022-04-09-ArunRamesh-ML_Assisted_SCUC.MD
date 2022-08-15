@@ -1,11 +1,11 @@
 ---
 layout: paper
-title: "Machine Learning Assisted Approach for Security-Constrained Unit Commitment"
+title: "Machine Learning Assisted Model Reduction for Security-Constrained Unit Commitment"
 image: 
 authors: Arun Venkatesh Ramesh, Xingpeng Li.
 year: 2022
-ref: Arun Venkatesh Ramesh et al, arXiv Preprint, 2022. 
-journal: "arXiv Preprint"
+ref: Arun Venkatesh Ramesh et al, North American Power Symposium, 2022. 
+journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2111/2111.09824.pdf
 doi: 
@@ -20,4 +20,4 @@ Security-constrained unit commitment (SCUC) is solved for power system day-ahead
 Constraint reduction, Model reduction, Logistic Regression, Machine learning, Mixed-integer linear programming, Security-constrained unit commitment.
 
 # Cite this paper:
-Arun Venkatesh Ramesh and Xingpeng Li, "Machine Learning Assisted Approach for Security-Constrained Unit Commitment", *arXiv:2111.09824*, Nov. 2021.
+Arun Venkatesh Ramesh and Xingpeng Li, "Machine Learning Assisted Model Reduction for Security-Constrained Unit Commitment", *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.

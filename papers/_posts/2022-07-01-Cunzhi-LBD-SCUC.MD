@@ -4,8 +4,8 @@ title: "An Alternative Method for Solving Security-Constrained Unit Commitment w
 image: 
 authors: Cunzhi Zhao, Xingpeng Li.
 year: 2022
-ref: Cunzhi Zhao et al, arXiv Preprint, 2022. 
-journal: "arXiv Preprint"
+ref: Cunzhi Zhao et al, North American Power Symposium, 2022. 
+journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2207/2207.00650.pdf
 doi: 
@@ -20,4 +20,4 @@ Battery energy storage system (BESS) can effectively mitigate the uncertainty of
 Battery degradation, Battery energy storage system, Bulk power system, Energy management system, Machine learning, Security constrained unit commitment, Day-ahead scheduling, Neural network, Optimization.
 
 # Cite this paper:
-Cunzhi Zhao and Xingpeng Li, “An Alternative Method for Solving Security-Constraint Unit Commitment with Neural Network Based Battery Degradation Model”, *arXiv:2207.00650*, Jul. 2022.
+Cunzhi Zhao and Xingpeng Li, “An Alternative Method for Solving Security-Constraint Unit Commitment with Neural Network Based Battery Degradation Model”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.

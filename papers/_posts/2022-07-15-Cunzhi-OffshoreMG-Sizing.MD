@@ -4,8 +4,8 @@ title: "A 100% Renewable Energy System: Enabling Zero CO2 Emission Offshore Plat
 image: 
 authors: Cunzhi Zhao, Xingpeng Li.
 year: 2022
-ref: Cunzhi Zhao et al, arXiv Preprint, 2022. 
-journal: "arXiv Preprint"
+ref: Cunzhi Zhao et al, North American Power Symposium, 2022. 
+journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: 
 doi: 
@@ -20,4 +20,4 @@ The total electricity consumption from offshore oil/gas platforms is around 16 T
 Battery energy storage system, CO2 emission, Energy management system, Hydrogen energy storage system, Microgrid planning, Offshore platform, Offshore wind power, Renewable energy sources, Optimization.
 
 # Cite this paper:
-Cunzhi Zhao and Xingpeng Li, “A 100% Renewable Energy System: Enabling Zero CO2 Emission Offshore Platforms”, *arXiv*, Jul. 2022.
+Cunzhi Zhao and Xingpeng Li, “A 100% Renewable Energy System: Enabling Zero CO2 Emission Offshore Platforms”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
