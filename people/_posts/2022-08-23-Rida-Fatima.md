@@ -2,7 +2,7 @@
 layout: member
 title: Rida Fatima
 position: Incoming PhD Student
-time: 2022.08 - present
+time: 2023.01 - present
 email: 
 image: /images/team/Rida_Fatima.png
 cv: 
@@ -19,11 +19,11 @@ alumni:
 ---
 
 
-Rida Fatima is an incoming PhD student at the RPG lab (Fall 2022) at University of Houston.  
+Rida Fatima is an incoming PhD student at the RPG lab (Spring 2023) at University of Houston.  
 
 
 # Education
-Ph.D., Electrical Engineering, University of Houston, Texas, 2022.08 - present
+Ph.D., Electrical Engineering (Power), University of Houston, Texas, 2023.01 - 
 
 M.S., Electrical Engineering (Power), National University of Sciences and technology, Pakistan, 2018
 
