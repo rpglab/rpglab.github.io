@@ -4,8 +4,8 @@ title: "Resilient Operational Planning for Microgrids Against Extreme Events"
 image: 
 authors: Cunzhi Zhao, Jesus Silva-Rodriguez, Xingpeng Li.
 year: 2022
-ref: Cunzhi Zhao, Jesus Silva-Rodriguez et al, Preprint, 2022.
-journal: "ArXiv Preprint"
+ref: Cunzhi Zhao, Jesus Silva-Rodriguez et al, Hawaii International Conference on System Sciences, 2022.
+journal: "Hawaii International Conference on System Sciences"
 pdf: https://arxiv.org/ftp/arxiv/papers/2206/2206.07887.pdf
 doi: 
 arxiv: https://arxiv.org/abs/2206.07887
@@ -18,4 +18,4 @@ This paper proposes a novel resilience index, a microgrid survivability rate (SR
 Community microgrid, Extreme event, Failure Probability, Inverter failure, Resilient operational planning.
 
 # Cite this paper:
-Cunzhi Zhao, Jesus Silva-Rodriguez and Xingpeng Li, "Resilient Operational Planning for Microgrids Against Extreme Events",  *arXiv:2206.07887*, Jun. 2022.
+Cunzhi Zhao, Jesus Silva-Rodriguez and Xingpeng Li, "Resilient Operational Planning for Microgrids Against Extreme Events",  *Hawaii International Conference on System Sciences*, Maui, Hawaii, USA, Jan. 2023.
