@@ -4,8 +4,8 @@ title: "Wholesale Electricity Price Forecasting using Integrated Long-term Recur
 image: 
 authors: Vasudharini Sridharan, Mingjian Tuo, Xingpeng Li.
 year: 2022
-ref: Vasudharini Sridharan, Mingjian Tuo et al, arXiv Preprint, 2022.
-journal: "arXiv Preprint"
+ref: Vasudharini Sridharan, Mingjian Tuo et al, Energies, 2022.
+journal: "Energies"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2112/2112.13681.pdf
 codesdata: /resources/ML-Price-Prdctn/
@@ -20,4 +20,4 @@ Electricity price is a key factor affecting the decision-making for all market p
 Convolutional neural network, Deep learning, Energy price forecasting, Locational marginal price, Long short-term memory, Long-term recurrent convolutional network, Real time market price, Wholesale power energy market.
 
 # Cite this paper:
-Vasudharini Sridharan, Mingjian Tuo and Xingpeng Li, “Wholesale Electricity Price Forecasting using Integrated Long-term Recurrent Convolutional Network Model”, *arXiv:2112.13681*, Dec. 2021.
+Vasudharini Sridharan, Mingjian Tuo and Xingpeng Li, “Wholesale Electricity Price Forecasting using Integrated Long-term Recurrent Convolutional Network Model”, *Energies*, 15(20), 7606, Oct. 2022.
