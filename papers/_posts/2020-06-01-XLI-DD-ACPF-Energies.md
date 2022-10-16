@@ -18,4 +18,4 @@ Though the full AC power flow model can accurately represent the physical power 
 Data-driven; linearization; regression analysis; power flow; power system operations.
 
 # Cite this paper:
-Xingpeng Li, “Fast Heuristic AC Power Flow Analysis with Data-Driven Enhanced Linearized Model,” *Energies*, 13, 3308, Jun. 2020.
+Xingpeng Li, “Fast Heuristic AC Power Flow Analysis with Data-Driven Enhanced Linearized Model,” *Energies*, 13(13), 3308, Jun. 2020.
