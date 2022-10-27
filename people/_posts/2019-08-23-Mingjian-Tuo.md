@@ -6,7 +6,7 @@ time: 2019.08 - Present
 email: mtuo@uh.edu
 image: /images/team/Mingjian_Tuo.jpg
 cv: 
-index: "Inertia-constrained unit commitment, Inertia estimation, Machine learning"
+index: "Inertia-constrained unit commitment, Inertia estimation, Deep learning"
 scholar: 
 linkedin: mingjian-tuo-983528234
 website: 
