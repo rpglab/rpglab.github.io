@@ -6,7 +6,7 @@ time: 2019.01 - present
 email: aramesh4@uh.edu
 image: /images/team/Arun_Venkatesh_Ramesh.jpg
 cv: 
-index: Security-constrained unit commitment, Transmission switching
+index: Security-constrained unit commitment, Transmission switching, Machine learning
 scholar: https://scholar.google.com/citations?hl=en&user=2YIFx50AAAAJ
 linkedin: arun-venkatesh-ramesh-a645088a
 website: 
