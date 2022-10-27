@@ -4,7 +4,7 @@ title: Cunzhi Zhao
 position: PhD Student
 time: 2020.01 - present
 email: czhao29@cougarnet.uh.edu
-image: /images/team/CunzhiZhao.jpg
+image: /images/team/Cunzhi_Zhao.jpg
 cv: 
 index: "Microgrid energy management, Learning based battery degradation modeling"
 scholar: 
