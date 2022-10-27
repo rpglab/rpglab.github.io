@@ -41,9 +41,10 @@ He is also the Associate Director of the Power electronics, Energy storage, Micr
 * Intern, ISO New England, Holyoke, MA, 2015
 
 
-## Teaching
-* ECE 6327 Smart Grid Systems
+## Teaching at UH
+* <a class="off" href="/resources/ECE6327-SGS/" target="_blank">ECE 6327 Smart Grid Systems</a>
 * <a class="off" href="/resources/ECE6379-PSOM/" target="_blank">ECE 6379 Power System Operations and Modeling</a>
+* ECE 3340 Numerical Methods
 
 ## Awards & Honors
 * <a class="off" href="https://www.energy.gov/oe/articles/eitpic-awardee-profile-university-houston-investigates-resilient-grid-strategies" target="_blank">Recipient</a> for the Tier-1 Silver Award for the <a class="off" href="https://netl.doe.gov/OEElectricityChallenge" target="_blank">EITPIC prize competition</a>, U.S. Department of Energy, 2019
@@ -58,5 +59,37 @@ He is also the Associate Director of the Power electronics, Energy storage, Micr
 * Microgrids optimal sizing and energy management
 * Distributed energy resources, demand response 
 * Energy storage, battery degradation quantification
+
+
+## 16 Regular Classes taken at ASU (2013.08 - 2016.05)
+* APM 525 High-Performance Computing
+* EEE 577 Power Systems Operations and Planning
+* IEE 620 Optimization I
+* EEE 598 Operations Research Applied to Electric Power Systems
+* EEE 598 Power Plant Control & Monitoring
+* IEE 622 Optimization II
+* IEE 470 Stochastic Operations Research
+* IEE 578 Regression Analysis
+* EEE 598 Electric Energy Markets
+* IEE 506 Web-enabled Decision Support Systems
+* IEE 561 Production Systems
+* EEE 575 Power System Stability
+* IEE 574 Applied Deterministic Operations Research
+* EEE 576 Power System Dynamics
+* IEE 512 Introduction to Financial Engineering
+* IEE 521 Urban Operations Research
+
+
+## 10 Classes taken at Gatech (2020.08 - present)
+* CS 7641 Machine Learning
+* CS 6515 Introduction to Graduate Algorithms
+* CS 7643 Deep Learning 
+* ISYE 6420 Bayesian Methods
+* CS 7280 Network Science
+* CS 7642 Reinforcement Learning and Decision Making
+* CS 6601 Artificial Intelligence
+* ISYE 6501 Introduction to Analytics Modeling
+* CS 7646 Machine Learning for Trading (ongoing)
+* ISYE 6669 Deterministic Optimization (ongoing)
 
 
