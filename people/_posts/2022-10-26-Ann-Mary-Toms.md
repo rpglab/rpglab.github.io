@@ -21,19 +21,19 @@ alumni:
 
 Ann Mary Toms is an incoming PhD student at RPG lab (Spring 2023) at the University of Houston. 
 
-# Education
+## Education
 * Ph.D., Electrical Engineering, University of Houston, 2023.01 - present
 * M.S. in Electrical Engineering, Rochester Institute of Technology, 2020 - 2022
 * B.Tech. in Electrical and Electronics Engineering, University of Kerala, 2013 - 2017
 
-# Licenses and Certification
+## Licenses and Certification
 * Energy Production, Distribution and Safety Specialization, University at Buffalo, 2020
 
-# Professional Experience
+## Professional Experience
 * Electrical Engineer, CKR Consulting Engineers, Dubai, 2017 - 2020
 
 
-# Research Interests
+## Research Interests
 * Micro grids optimal sizing and energy management
 * Grid integration of renewable generation
 * Power system control, operations and planning
