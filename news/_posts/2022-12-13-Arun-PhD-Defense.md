@@ -1,7 +1,7 @@
 ---
 layout: newsitem
 title: PhD Defense Completed - Arun Venkatesh Ramesh
-time: 2022-10-11
+time: 2022-12-13
 link: 
 description: "Congratulations to Arun Venkatesh Ramesh for successfully having defended his PhD dissertation defense. Arun is our group's very first PhD graduate. Great work during his 4-year PhD studies has been completed!"
 ---
