@@ -15,7 +15,7 @@ handle:
 github: 
 twitter: 
 facebook: 
-alumni: yes
+alumni: true
 ---
 
 Amaze Anna Toms is currently a MS student with the Department of Electrical and Computer Engineering at the University of Houston, Houston, TX, USA. She started her research in the RPG lab in June 2022. She mainly worked on offshore wind power and the synergy of power and hydrogen.
