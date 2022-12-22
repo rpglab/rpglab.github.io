@@ -7,7 +7,7 @@ year: 2022
 ref: Vasudharini Sridharan, Mingjian Tuo et al, Energies, 2022.
 journal: "Energies"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2112/2112.13681.pdf
+webpdf: https://www.mdpi.com/1996-1073/15/20/7606/pdf?version=1666690711
 codesdata: /resources/ML-Price-Prdctn/
 doi: 
 arxiv: https://arxiv.org/abs/2112.13681
