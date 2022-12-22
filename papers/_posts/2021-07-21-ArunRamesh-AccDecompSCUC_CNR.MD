@@ -6,10 +6,11 @@ authors: Arun Venkatesh Ramesh, Xingpeng Li and Kory W. Hedman.
 year: 2021
 ref: Arun Venkatesh Ramesh et al, IEEE Transaction on Power Systems, 2021. 
 journal: "IEEE Transaction on Power Systems"
-pdf: /pdfs/papers/20210721_A-Ramesh_AccDecompSCUC_CNR.pdf
+pdf: 
+webpdf: https://arxiv.org/ftp/arxiv/papers/1912/1912.01764.pdf
 codes: /resources/ABD_N-1_SCUC_CNR_AMPL/
 doi: 10.1109/TPWRS.2021.3098771
-arxiv: https://arxiv.org/abs/1912.01764v3
+arxiv: https://arxiv.org/abs/1912.01764
 ---
 
 # Abstract
