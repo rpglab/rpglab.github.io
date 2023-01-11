@@ -23,11 +23,11 @@ alumni:
 
 Dr. Xingpeng Li is an <a class="off" href="https://www.ece.uh.edu/faculty/li" target="_blank">Assistant Professor</a> with the <a class="off" href="https://www.ece.uh.edu/" target="_blank">Department of Electrical and Computer Engineering</a> at <a class="off" href="https://www.uh.edu/" target="_blank">University of Houston (UH)</a>, Houston, TX, USA. He is a Senior Member of IEEE.
 
-He is also the Associate Director of the Power electronics, Energy storage, Microgrids and Subsea Electrical Consortium <a class="off" href="https://pemses.ece.uh.edu/wp-content/uploads/2019/01/click-here-for-PEMSEC-scope.pdf" target="_blank">(PEMSEC)</a> at UH. 
+He is also the Associate Director of the Power Electronics, Microgrids & Subsea Electrical Systems Center <a class="off" href="https://pemses.ece.uh.edu/" target="_blank">(PEMSEC)</a> at UH. 
 
 ## Education
 
-* M.S., Computer Science (Machine Learning), Georgia Institute of Technology, *12/2022 (expected)*
+* M.S., Computer Science (Machine Learning), Georgia Institute of Technology, *05/2023 (expected)*
 * Ph.D., Electrical Engineering (Power Systems), Arizona State University, 2017
 * M.S., Industrial Engineering (Operations Research/Optimization), Arizona State University, 2016
 * M.S., Electrical Engineering (Power Systems), Zhejiang University, 2013
@@ -61,7 +61,7 @@ He is also the Associate Director of the Power electronics, Energy storage, Micr
 * Energy storage, battery degradation quantification
 
 
-## 16 Regular Classes taken at ASU (2013.08 - 2016.05)
+## 16 Classes taken at ASU (2013.08 - 2016.05)
 * APM 525 High-Performance Computing
 * EEE 577 Power Systems Operations and Planning
 * IEE 620 Optimization I
@@ -80,7 +80,7 @@ He is also the Associate Director of the Power electronics, Energy storage, Micr
 * IEE 521 Urban Operations Research
 
 
-## 10 Classes taken at Gatech (2020.08 - present)
+## 11 Classes taken at Gatech (2020.08 - present)
 * CS 7641 Machine Learning
 * CS 6515 Introduction to Graduate Algorithms
 * CS 7643 Deep Learning 
@@ -89,7 +89,8 @@ He is also the Associate Director of the Power electronics, Energy storage, Micr
 * CS 7642 Reinforcement Learning and Decision Making
 * CS 6601 Artificial Intelligence
 * ISYE 6501 Introduction to Analytics Modeling
-* CS 7646 Machine Learning for Trading (ongoing)
-* ISYE 6669 Deterministic Optimization (ongoing)
+* CS 7646 Machine Learning for Trading
+* ISYE 6669 Deterministic Optimization
+* CS 6603 AI Ethics Society (ongoing)
 
 
