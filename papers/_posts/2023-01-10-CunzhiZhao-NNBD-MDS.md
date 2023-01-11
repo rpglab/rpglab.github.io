@@ -3,9 +3,9 @@ layout: paper
 title: "Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation"
 image: 
 authors: Cunzhi Zhao, Xingpeng Li.
-year: 2022
-ref: Cunzhi Zhao et al, arXiv:2112.08418, 2022.
-journal: "arXiv Preprint"
+year: 2023
+ref: Cunzhi Zhao et al, IEEE Transactions on Power Systems, 2023.
+journal: "IEEE Transactions on Power Systems"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2202/2202.12416.pdf
 doi: 
@@ -20,6 +20,6 @@ Battery energy storage system (BESS) can effectively mitigate the uncertainty of
 Battery degradation, Battery energy storage system, Energy management system, Machine learning, Microgrid day-ahead scheduling, Neural network, Optimization.
 
 # Cite this paper:
-Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, arXiv:2112.08418, Aug. 2022.
+Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *IEEE Transactions on Power Systems*, early access, Jan. 2023.
 
 

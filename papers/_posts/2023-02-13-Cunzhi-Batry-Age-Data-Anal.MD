@@ -3,9 +3,9 @@ layout: paper
 title: "Quality Analysis of Battery Degradation Models with Real Battery Aging Experiment Data"
 image: 
 authors: Cunzhi Zhao, Xingpeng Li, Yan Yao.
-year: 2022
-ref: Cunzhi Zhao et al, arXiv:2211.12481, 2022. 
-journal: "arXiv"
+year: 2023
+ref: Cunzhi Zhao et al, Texas Power and Energy Conference, 2023.  
+journal: "Texas Power and Energy Conference"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2211/2211.12481.pdf
 doi: 
@@ -20,4 +20,4 @@ The installation capacity of energy storage system, especially the battery energ
 Battery Aging Test, Battery Degradation Models, Battery Energy Storage System, Energy Management System, Lithium-ion Batteries, Renewable Energy Sources.
 
 # Cite this paper:
-Cunzhi Zhao, Xingpeng Li, and Yan Yao, “Quality Analysis of Battery Degradation Models with Real Battery Aging Experiment Data", *arXiv:2211.12481*, Nov. 2022.
+Cunzhi Zhao, Xingpeng Li, and Yan Yao, “Quality Analysis of Battery Degradation Models with Real Battery Aging Experiment Data", *Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2023.
