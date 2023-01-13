@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Qiushi Wang
-position: Incoming PhD Student
+position: PhD Student
 time: 2023.01 - present
 email: 
 image: /images/team/Qiushi_Wang.jpg
@@ -19,7 +19,7 @@ alumni:
 ---
 
 
-Qiushi Wang is an incoming PhD student at RPG lab (Spring 2023) at the University of Houston. 
+Qiushi Wang is a PhD student at RPG lab (Spring 2023) at the University of Houston. 
 
 Qiushi is an electrical engineer with a demonstrated working experience in the utility industry. She is a licensed professional engineer in Ohio and currently works as a Senior Engineer in the generator modeling group at AES Clean Energy.
 

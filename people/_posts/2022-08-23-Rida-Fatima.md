@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Rida Fatima
-position: Incoming PhD Student
+position: PhD Student
 time: 2023.01 - present
 email: 
 image: /images/team/Rida_Fatima.png
@@ -19,7 +19,7 @@ alumni:
 ---
 
 
-Rida Fatima is an incoming PhD student at the RPG lab (Spring 2023) at University of Houston.  
+Rida Fatima is a PhD student at the RPG lab (Spring 2023) at University of Houston.  
 
 
 ## Education

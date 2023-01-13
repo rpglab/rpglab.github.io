@@ -19,7 +19,7 @@ alumni:
 ---
 
 
-Ann Mary Toms is an incoming PhD student at RPG lab (Spring 2023) at the University of Houston. 
+Ann Mary Toms is a PhD student at RPG lab (Spring 2023) at the University of Houston. 
 
 ## Education
 * Ph.D., Electrical Engineering, University of Houston, 2023.01 - present
