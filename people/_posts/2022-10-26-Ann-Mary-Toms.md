@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ann Mary Toms
-position: Incoming PhD Student
+position: PhD Student
 time: 2023.01 - present
 email: 
 image: /images/team/Ann_Mary_Toms.jpg
