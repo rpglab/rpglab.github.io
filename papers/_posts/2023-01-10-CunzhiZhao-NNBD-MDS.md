@@ -8,7 +8,6 @@ ref: Cunzhi Zhao et al, IEEE Transactions on Power Systems, 2023.
 journal: "IEEE Transactions on Power Systems"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2202/2202.12416.pdf
-codes: /resources/MG-EMSwBDNN/
 doi: 10.1109/TPWRS.2023.3239113
 arxiv: https://arxiv.org/abs/2202.12416
 ---
@@ -17,6 +16,8 @@ arxiv: https://arxiv.org/abs/2202.12416
 * <a class="" href="/resources/MG-EMSwBDNN/" target="_blank">Python codes: Microgrid Optimal Energy Scheduling with Battery Degradation Neural Network</a>
 * <a class="" href="/resources/BDNN-Training-Data/" target="_blank">Dataset and Python Codes for Training a Battery Degradation Neural Network Model</a>
 * <a class="" href="/resources/BatryAgingSim-Data/" target="_blank">Dataset and Matlab Simulator for Battery Aging Tests</a>
+* Download all of them as a zipped file: 
+	* https://figshare.com/articles/dataset/Microgrid_Optimal_Energy_Scheduling_with_Battery_Degradation/21959582/1
 
 # Abstract
 
