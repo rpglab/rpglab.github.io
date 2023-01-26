@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Dataset and Matlab-Simulink Module for Battery Aging Tests
+title: Dataset and Simulator for Battery Aging Tests
 authors: Cunzhi Zhao
 type: Dataset
 zip: 
