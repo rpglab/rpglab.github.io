@@ -16,8 +16,10 @@ arxiv: https://arxiv.org/abs/2202.12416
 * <a class="" href="/resources/MG-EMSwBDNN/" target="_blank">Python codes: Microgrid Optimal Energy Scheduling with Battery Degradation Neural Network</a>
 * <a class="" href="/resources/BDNN-Training-Data/" target="_blank">Dataset and Python Codes for Training a Battery Degradation Neural Network Model</a>
 * <a class="" href="/resources/BatryAgingSim-Data/" target="_blank">Dataset and Matlab Simulator for Battery Aging Tests</a>
-* Download all of them as a zipped file: 
-	* https://figshare.com/articles/dataset/Microgrid_Optimal_Energy_Scheduling_with_Battery_Degradation/21959582/1
+
+Download all of them as a zipped file: 
+
+* <a class="" href="https://doi.org/10.6084/m9.figshare.21959582.v1" target="_blank">https://doi.org/10.6084/m9.figshare.21959582.v1</a>
 
 # Abstract
 
