@@ -6,7 +6,7 @@ type: Dataset
 zip: 
 timeInit: 2023-01-25
 time: 2023-01-25
-github: https://github.com/rpglab/OHRES_sizing
+github: https://github.com/rpglab/Battery-Aging-Tests-Dataset-Simulator
 paper: /papers/CunzhiZhao-NNBD-MDS/
 link: 
 doi: 
