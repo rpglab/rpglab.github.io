@@ -19,7 +19,7 @@ arxiv: https://arxiv.org/abs/2202.12416
 
 Download all of them as a zipped file: 
 
-* <a class="" href="https://doi.org/10.6084/m9.figshare.21959582.v1" target="_blank">https://doi.org/10.6084/m9.figshare.21959582.v1</a>
+* <a class="" href="https://doi.org/10.6084/m9.figshare.21959582" target="_blank">https://doi.org/10.6084/m9.figshare.21959582</a>
 
 # Abstract
 
