@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Dataset and Simulator for Battery Aging Tests
+title: Dataset and Matlab Simulator for Battery Aging Tests
 authors: Cunzhi Zhao
 type: Dataset
 zip: 
@@ -10,7 +10,7 @@ github: https://github.com/rpglab/OHRES_sizing
 paper: /papers/CunzhiZhao-NNBD-MDS/
 link: 
 doi: 
-description: "This resource page includes the Battery Aging Test module in Matlab-Simulink, and the datasets for 1000+ battery aging tests."
+description: "This resource page includes the battery aging test simulator in Matlab-Simulink, auto simulator in Matlab, and the datasets for 1000+ battery aging tests."
 ---
 
 
