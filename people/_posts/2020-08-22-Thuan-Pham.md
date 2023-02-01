@@ -19,9 +19,9 @@ alumni:
 ---
 
 
-Thuan Pham is currently a Ph.D. student with the Electrical and Computer Engineering (ECE) department at the University of Houston. His research focuses on applying machine learning algorithm toward power system operation and optimization.
+Thuan Pham is currently a Ph.D. student with the Electrical and Computer Engineering (ECE) department at the University of Houston. His research focuses on applying machine learning algorithm, specifically graph neural network, toward power system operation and optimization.
  
-Thuan is a licensed professional engineer in Texas with 5+ years of electric utility experience. He also works in the industry; his current role is Senior Engineer in the Substation Relay & SCADA group at CenterPoint Energy.
+Thuan is a licensed professional engineer in Texas with 6+ years of electrical substation design experience. He is currently working as Relay Engineer at Blue Ridge Power.
 
 ## Education
 University of Houston, Houston, TX, USA
