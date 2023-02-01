@@ -8,7 +8,7 @@ ref: Thuan Pham et al, North American Power Symposium, 2022.
 journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2206/2206.13591.pdf
-doi: 
+doi: /10.1109/NAPS56150.2022.10012256
 arxiv: https://arxiv.org/abs/2206.13591
 ---
 
