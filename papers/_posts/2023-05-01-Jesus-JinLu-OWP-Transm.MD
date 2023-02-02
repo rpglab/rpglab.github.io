@@ -7,10 +7,10 @@ year: 2023
 ref: Jesus Silva-Rodriguez et al, Offshore Technology Conference 2023. 
 journal: "Offshore Technology Conference"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/ftp/arxiv/papers/2301/2301.11208.pdf
 codes: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2301.11208
 ---
 
 # Abstract
