@@ -19,7 +19,7 @@ Next time, we plan to go to an off-campus restaurant and try something different
 </div>
 
 
-![](/images/blog/2023.01.27_Photo-1.JPG)
+![](/images/blog/2023.01.27_Photo-1.jpg)
 <p></p>
 <span class="text-figure-legend" style="font-size:15px;">
 Figure 1. Group photo in the ECE Large Conference Room. 
@@ -41,7 +41,7 @@ People from left to right and then from top to bottom:
 <a class="off" href="/people/Mingjian-Tuo/">Mingjian Tuo</a>, <a class="off" href="/people/Rida-Fatima/">Rida Fatima</a>, <a class="off" href="/people/Ann-Mary-Toms/">Ann Mary Toms</a>, <a class="off" href="/people/Jesus-SilvaRodriguez/">Jesus Silva-Rodriguez</a>, <a class="off" href="/people/Cunzhi-Zhao/">Cunzhi Zhao</a>, <a class="off" href="/people/Thuan-Pham/">Thuan Pham</a>, <a class="off" href="/people/Arun-Venkatesh-Ramesh/">Arun Venkatesh Ramesh</a>, <a class="off" href="/people/Xingpeng-Li/">Xingpeng Li</a>, <a class="off" href="/people/Ali-Siddique/">Ali Siddique</a>, <a class="off" href="/people/Jin-Lu/">Jin Lu</a>,  <a class="off" href="/people/Qiushi-Wang/">Qiushi Wang</a>, <a class="off" href="/people/Lei-Jiang/">Lei Jiang</a>,
 </span>
 
-![](/images/blog/2023.01.27_Photo-2.JPG)
+![](/images/blog/2023.01.27_Photo-2.jpg)
 <p></p>
 <span class="text-figure-legend" style="font-size:15px;">
 Figure 2. Group Dinner at the on-campus Hilton Eric's Restaurant.
