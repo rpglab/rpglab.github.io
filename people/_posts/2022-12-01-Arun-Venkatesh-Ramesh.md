@@ -22,7 +22,7 @@ alumni: true
 
 Arun Venkatesh Ramesh has received his PhD degree in Electrical Engineering from the University of Houston, Houston, TX, USA in December 2022. Arun had worked in the RPG lab as a PhD student from Jan. 2019 to Dec. 2022.
 
-PhD Dissertation title: *"System Flexibility and AI Computational Enhancement for Day-Ahead Power System"*
+PhD Dissertation title: *"System Flexibility and AI Computational Enhancement for Day-Ahead Power System Operations"*
 
 
 ## Education
