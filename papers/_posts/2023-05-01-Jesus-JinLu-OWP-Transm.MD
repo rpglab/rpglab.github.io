@@ -4,7 +4,7 @@ title: "Cost-Benefit Analysis and Comparisons for Different Offshore Wind Energy
 image: 
 authors: Jesus Silva-Rodriguez, Jin Lu, Xingpeng Li.
 year: 2023
-ref: Jesus Silva-Rodriguez et al, Offshore Technology Conference 2023. 
+ref: Jesus Silva-Rodriguez, Jin Lu et al, Offshore Technology Conference 2023. 
 journal: "Offshore Technology Conference"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2301/2301.11208.pdf
