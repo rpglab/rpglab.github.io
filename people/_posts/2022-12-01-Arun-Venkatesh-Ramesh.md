@@ -46,11 +46,11 @@ Banchelors of Engineering, Anna University, India 2009-2013
 * Arun Venkatesh Ramesh and Xingpeng Li, "Security Constrained Unit Commitment with Corrective Transmission Switching," *2019 North American Power Symposium (NAPS)*, Oct. 2019, pp. 1-6, doi: 10.1109/NAPS46351.2019.9000308.
 
 ## Classes:
-* ECE 6327 Smart Grid Systems
+* ECE 6327 Smart Grid Systems 
 * INDE 6372 Advanced Linear Optimization
 * ECE 6343 Renewable Energy
 * ECE 6397 Machine Learning and Computer Vision
 
 ## Research Interests:
- Power systems operations and planning, Power system optimation, Smartgrids, Machine Learning
+ Power systems operations and planning, Power system optimation, Smartgrids, Machine Learning.
 
