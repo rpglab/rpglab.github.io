@@ -1,9 +1,9 @@
 ---
 layout: newsitem
-title: Grant from TCEQ through SSI
+title: Grant from Subsea Systems Institute
 time: 2023-02-21
 link: 
-description: "Research project funded by Texas Commission on Environmental Quality through Subsea Systems Institute of Texas with a total funding of $155,000. It is federal funding from the Department of the Treasury through the State of Texas."
+description: "Research project funded by Subsea Systems Institute of Texas with approval from Texas Commission on Environmental Quality (TCEQ), with a total funding of $155,000. It is federal funding from the Department of the Treasury through the State of Texas."
 ---
 
 * Our new research project is entitled "Optimal Sizing of Onsite Generation Resources for Self-Sustainable Offshore Loads".
