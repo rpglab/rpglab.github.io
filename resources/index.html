@@ -211,6 +211,37 @@ categories:
 
 
 
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="title">
+			<h1>Documents</h1>
+		</div>
+      <hr style="height:2px;border:none;color:#808088;background-color:#808088;" />
+	</div>
+</div>
+
+{% for resource in site.categories.resources %}
+	{% if resource.type == 'Documents' %}
+    {% cycle 'add rows 6': '<div class="row">', '', '' %}
+		<div class="col-lg-12 memberbox">
+			<div class="media">		  				
+ 			 	<div class="media-body">
+    				<div class="head media-heading"><a href="{{ resource.url }}" class="off">{{ resource.title }}</a></div>
+    				<p class="smallhead mb-1">{{ resource.time | date: "%-b %d, %Y" }} - {{ resource.description }}</p>
+<!--    				<p class="smallhead mb-1">Brief description: {{ resource.description }}</p>       -->
+<!--    				<p class="note">Posted/updated on: {{ resource.time | date: "%-b %d, %Y" }}</p>   -->
+  				</div>
+			</div>
+			<div class="bigspacer"></div>
+        </div>
+    {% cycle 'close rows 6': '', '', '</div>' %}
+    {% endif %}
+{% endfor %}
+{% cycle 'close rows 6': '', '</div>', '</div>' %}
+
+
 <!--
 <div class="bigspacer"></div>
 
