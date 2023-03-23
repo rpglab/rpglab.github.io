@@ -13,7 +13,7 @@ description: "This set of codes implements Lagrangian Relaxation to solve the co
 ---
 
 
-## N-1 SCUC
+## LR G-T MSUC
 This set of codes implements Lagrangian Relaxation to solve the coordinated Generation and Transmission Maintenance Scheduling problem. It is a complex optimization model that extends a normal security-constrained unit commitment (SCUC) formulation.
 
 Test systems:
