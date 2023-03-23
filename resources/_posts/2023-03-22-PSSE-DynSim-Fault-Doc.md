@@ -20,6 +20,13 @@ Instructions of one following tip are also provided:
 * A very efficient and helpful tip if we have to do it using the same process but with different fault clearing time again and again: is to use the I/O control recorder functionality.
 
 
+
+## Citation:
+To cite this document, please cite the following as a reference:
+
+* Xingpeng Li, "Procedure for Dynamic Simulation under Fault using PSS/E", Mar. 2023. [Online]. Available at: https://rpglab.github.io/resources/PSSE-DynSim-Fault-Doc/
+
+
 ## Contact:
 Dr. Xingpeng Li
 
@@ -28,15 +35,6 @@ University of Houston
 Email: xli83@central.uh.edu
 
 Website: https://rpglab.github.io/
-
-
-## Figshare:
-The codes in this repo was initially included in the following package uploaded on Figshare. The link is as follows:
-<a class="off" href="https://figshare.com/articles/online_resource/ECE6379_PSOM_zip/17161805"  target="_blank">https://figshare.com/articles/online_resource/ECE6379_PSOM_zip/17161805</a>
-
-
-## Citation:
-<a class="off" href="https://doi.org/10.6084/m9.figshare.17161805.v1"  target="_blank">Li, Xingpeng (2021): ECE6379_PSOM.zip. figshare. Online resource. https://doi.org/10.6084/m9.figshare.17161805.v1</a>
 
 
 ## License:

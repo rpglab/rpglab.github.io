@@ -15,6 +15,12 @@ description: "Instructions for Remote Access to Unix Servers."
 This document includes the Instructions for Remote Access to Unix Servers. 
 
 
+## Citation:
+To cite this document, please cite the following as a reference:
+
+* Xingpeng Li, "Remote Access to Unix Servers", Mar. 2023. [Online]. Available at: https://rpglab.github.io/resources/Linux-Server-Remote-Access/
+
+
 ## Contact:
 Dr. Xingpeng Li
 
@@ -23,15 +29,6 @@ University of Houston
 Email: xli83@central.uh.edu
 
 Website: https://rpglab.github.io/
-
-
-## Figshare:
-The codes in this repo was initially included in the following package uploaded on Figshare. The link is as follows:
-<a class="off" href="https://figshare.com/articles/online_resource/ECE6379_PSOM_zip/17161805"  target="_blank">https://figshare.com/articles/online_resource/ECE6379_PSOM_zip/17161805</a>
-
-
-## Citation:
-<a class="off" href="https://doi.org/10.6084/m9.figshare.17161805.v1"  target="_blank">Li, Xingpeng (2021): ECE6379_PSOM.zip. figshare. Online resource. https://doi.org/10.6084/m9.figshare.17161805.v1</a>
 
 
 ## License:
