@@ -14,7 +14,7 @@ description: "This set of codes implements Lagrangian Relaxation to solve the co
 
 
 ## LR G-T MSUC
-This set of codes implements Lagrangian Relaxation to solve the coordinated Generation and Transmission Maintenance Scheduling problem. It is a complex optimization model that extends a normal security-constrained unit commitment (SCUC) formulation.
+This set of codes implements Lagrangian Relaxation to solve the coordinated Generation and Transmission Maintenance Scheduling problem. The timeframe is 1 week. It is a complex optimization model that extends a normal security-constrained unit commitment (SCUC) formulation.
 
 Test systems:
 * The test cases used here include (i) a modified IEEE RTS-96 reliability test system (73-bus) and (ii) one out of the three area system (24-bus). The reference is: "The IEEE Reliability Test System-1996. A report prepared by the Reliability Test System Task Force of the Application of Probability Methods Subcommittee" and link is <a class="" target="_blank" href="https://ieeexplore.ieee.org/document/780914">here</a>. 
