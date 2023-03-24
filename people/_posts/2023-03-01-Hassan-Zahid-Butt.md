@@ -6,7 +6,7 @@ time: 2023.03 - present
 email: 
 image: /images/team/Hassan_Zahid_Butt.jpeg
 cv: 
-index: "Grid integration of renewable generation and energy storage"
+index: "Microgrid sizing and design with battery energy storage"
 scholar: 
 linkedin: 
 website: 
