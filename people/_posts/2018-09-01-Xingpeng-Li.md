@@ -27,8 +27,8 @@ He is also the Associate Director of the Power Electronics, Microgrids & Subsea 
 
 ## Education
 
-* M.S., Computer Science (Machine Learning), Georgia Institute of Technology, *05/2023 (expected)*
 * Ph.D., Electrical Engineering (Power Systems), Arizona State University, 2017
+* M.S., Computer Science (Machine Learning), Georgia Institute of Technology, *05/2023 (expected)*
 * M.S., Industrial Engineering (Operations Research/Optimization), Arizona State University, 2016
 * M.S., Electrical Engineering (Power Systems), Zhejiang University, 2013
 * B.S., Electrical Engineering (Power Engineering), Shandong University, 2010
@@ -47,9 +47,11 @@ He is also the Associate Director of the Power Electronics, Microgrids & Subsea 
 * ECE 3340 Numerical Methods
 
 ## Awards & Honors
-* <a class="off" href="https://www.energy.gov/oe/articles/eitpic-awardee-profile-university-houston-investigates-resilient-grid-strategies" target="_blank">Recipient</a> for the Tier-1 Silver Award for the <a class="off" href="https://netl.doe.gov/OEElectricityChallenge" target="_blank">EITPIC prize competition</a>, U.S. Department of Energy, 2019
-* <a class="off" href="https://www.energy.gov/oe/articles/eitpic-awardee-profile-university-houston-investigates-resilient-grid-strategies" target="_blank">Recipient</a> for the Tier-2 Silver Award for the <a class="off" href="https://netl.doe.gov/OEElectricityChallenge" target="_blank">EITPIC prize competition</a>, U.S. Department of Energy, 2019
-* Recipient for the IEEE Phoenix Section Student Scholarship, IEEE, 2016
+* Fellow of Georgia Tech Strategic Energy Institute Energy Fellows Program, 2023
+* Fellow of the Convergence Research (CORE) Institute, USA, 2023
+* <a class="" href="https://www.energy.gov/oe/articles/eitpic-awardee-profile-university-houston-investigates-resilient-grid-strategies" target="_blank">Tier-1 Silver Award</a> for the <a class="off" href="https://netl.doe.gov/OEElectricityChallenge" target="_blank">EITPIC prize competition</a>, U.S. Department of Energy, 2019
+* <a class="" href="https://www.energy.gov/oe/articles/eitpic-awardee-profile-university-houston-investigates-resilient-grid-strategies" target="_blank">Tier-2 Silver Award</a> for the <a class="off" href="https://netl.doe.gov/OEElectricityChallenge" target="_blank">EITPIC prize competition</a>, U.S. Department of Energy, 2019
+* IEEE Phoenix Section Student Scholarship, IEEE, 2016
 
 
 ## Research Interests
