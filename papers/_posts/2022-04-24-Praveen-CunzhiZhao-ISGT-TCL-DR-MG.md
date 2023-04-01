@@ -4,7 +4,7 @@ title: "Quantitative Analysis of Demand Response Using Thermostatically Controll
 image: 
 authors: Praveen Dhanasekar, Cunzhi Zhao, Xingpeng Li.
 year: 2022
-ref: Praveen Dhanasekar et al, IEEE PES Innovative Smart Grid Technology, 2022. 
+ref: Praveen Dhanasekar, Cunzhi Zhao et al, IEEE PES Innovative Smart Grid Technology, 2022. 
 journal: "IEEE PES Innovative Smart Grid Technology (ISGT)"
 pdf: /pdfs/papers/20220221_DR-TCL-MG.pdf
 codes: /resources/HVAC_DR/
