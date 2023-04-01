@@ -4,7 +4,7 @@ title: "Microgrid Optimal Energy Scheduling with Risk Analysis"
 image: 
 authors: Ali Siddique, Cunzhi Zhao, Xingpeng Li.
 year: 2023
-ref: Ali Siddique et al, Texas Power and Energy Conference, 2023. 
+ref: Ali Siddique, Cunzhi Zhao et al, Texas Power and Energy Conference, 2023. 
 journal: "Texas Power and Energy Conference"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2301/2301.01759.pdf
