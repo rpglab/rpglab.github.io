@@ -4,7 +4,7 @@ title: "Benefits and Cyber-Vulnerability of Demand Response System in Real-Time 
 image: 
 authors: Mingjian Tuo, Arun Venkatesh Ramesh, Xingpeng Li.
 year: 2020
-ref: Mingjian Tuo et al, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2020. 
+ref: Mingjian Tuo, Arun Venkatesh Ramesh et al, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2020. 
 journal: "IEEE SmartGridComm 2020"
 pdf: /pdfs/papers/20201115_MJ-Tuo-SGC-CV_DRS.pdf
 doi: 10.1109/SmartGridComm47815.2020.9302964
