@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Security-Constrained Economic Dispatch (RT-SCED) in Python
+title: Security-Constrained Economic Dispatch (SCED) in Python
 authors: Xingpeng Li
 type: Python Code
 zip: 
