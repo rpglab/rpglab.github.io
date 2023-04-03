@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: General Codes for Logging in Java
+title: Logging class/functions in Java
 authors: Xingpeng Li
 type: Java Code
 zip: /zips/codes_java/Log.zip
@@ -20,6 +20,7 @@ By default, the log file will be automatically created when the class *DiaryXL* 
 
 Two examples are provided to show how to use the developed classes for logging purpose; (if counting the simple example in the main function of *DiaryXL.java*, then three examples). Results for those three examples are also provided for users' convenience.
 
+* A Python version of this logging function is available at: <a class="off" href="/resources/Logging-Python/"  target="_blank">https://rpglab.github.io/resources/Logging-Python/</a>
 
 ## Contact:
 Dr. Xingpeng Li
