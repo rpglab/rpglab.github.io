@@ -10,7 +10,7 @@ github: https://github.com/rpglab/RT-SCED
 paper: /papers/XingpengLi-KWH-TPWRS-Part-I/
 link: 
 doi: 
-description: "This set of codes implements real-time security-constrained economic dispatch (RT-SCED). It aims to provide a benchmark that mimics the commercial RT-SCED tool used by the Independent System Operators (ISO)"
+description: "This set of codes implements real-time security-constrained economic dispatch (RT-SCED). It aims to provide a benchmark that mimics the commercial RT-SCED tool used by the Independent System Operators (ISO)."
 ---
 
 
