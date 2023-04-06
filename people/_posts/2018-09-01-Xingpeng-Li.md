@@ -47,6 +47,7 @@ He is also the Associate Director of the Power Electronics, Microgrids & Subsea 
 * ECE 3340 Numerical Methods
 
 ## Awards & Honors
+* <a class="" href="https://www.otcnet.org/press-releases/otc-2023-announces-emerging-leaders-class" target="_blank">Emerging Leader of Offshore Technology Conference (OTC)</a>, 2023
 * Fellow of Georgia Tech Energy Faculty Fellows Program, 2023
 * Fellow of the Convergence Research (CORE) Institute, USA, 2023
 * <a class="" href="https://www.energy.gov/oe/articles/eitpic-awardee-profile-university-houston-investigates-resilient-grid-strategies" target="_blank">Tier-1 Silver Award</a> for the <a class="off" href="https://netl.doe.gov/OEElectricityChallenge" target="_blank">EITPIC prize competition</a>, U.S. Department of Energy, 2019
