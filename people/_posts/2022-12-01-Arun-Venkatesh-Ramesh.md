@@ -24,6 +24,7 @@ Arun Venkatesh Ramesh has received his PhD degree in Electrical Engineering from
 
 PhD Dissertation title: *"System Flexibility and AI Computational Enhancement for Day-Ahead Power System Operations"*
 
+First Job: Sr. Market Optimization Software Engineer, GE-Digital, Houston, USA.
 
 ## Education
 
