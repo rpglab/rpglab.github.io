@@ -36,9 +36,9 @@ Banchelors of Engineering, Anna University, India 2009-2013
 
 ## Publication
 * Arun Venkatesh Ramesh and Xingpend Li, “ Spatio Temporal AI Approach for Variable and Constraint Reduction in Security Constrained Unit Commitment ”, *IEEE Transactions in Power Systems*, (under preparation).
-* Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day Ahead Operations”, *IEEE Transactions on Power Systems*, under second round review, available at: https://arxiv.org/abs/2208.06742
+* Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day Ahead Operations”, *IEEE Transactions on Power Systems*, Apr. 2023. DOI: 10.1109/TPWRS.2023.3266192
 * Arun Venkatesh Ramesh and Xingpeng Li, “Machine Learning Assisted Model Reduction for Security Constrained Unit Commitment”, *North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
-* Arun Venkatesh Ramesh, Xingpeng Li and Kory W. Hedman, "An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment with Corrective Network Reconfiguration," in *IEEE Transactions on Power Systems*, doi: 10.1109/TPWRS.2021.3098771.
+* Arun Venkatesh Ramesh, Xingpeng Li and Kory W. Hedman, "An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment with Corrective Network Reconfiguration," in *IEEE Transactions on Power Systems*, vol. 37, no. 2, pp. 887-900, Mar. 2022. doi: 10.1109/TPWRS.2021.3098771.
 * Arun Venkatesh Ramesh and Xingpeng Li, "Network Reconfiguration Impact on Renewable Energy System and Energy Storage System in Day-Ahead Scheduling", *IEEE Power & Energy Society General Meeting (PESGM)*, Jul. 2021. 
 * Arun Venkatesh Ramesh and Xingpeng Li, "Enhancing System Flexibility through Corrective Demand Response in Security-Constrained Unit Commitment," *2020 52nd North American Power Symposium (NAPS)*, Apr. 2021, pp. 1-6, doi: 10.1109/NAPS50074.2021.9449717.
 * Mingjian Tuo, Arun Venkatesh Ramesh and Xingpeng Li, "Benefits and Cyber-Vulnerability of Demand Response System in Real-Time Grid Operations," *2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*, Oct. 2020, pp. 1-6, doi: 10.1109/SmartGridComm47815.2020.9302964.
