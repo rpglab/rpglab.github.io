@@ -28,7 +28,7 @@ He is also the Associate Director of the Power Electronics, Microgrids & Subsea 
 ## Education
 
 * Ph.D., Electrical Engineering (Power Systems), Arizona State University, 2017
-* M.S., Computer Science (Machine Learning), Georgia Institute of Technology, 05/2023
+* M.S., Computer Science (Machine Learning), Georgia Institute of Technology, 2023
 * M.S., Industrial Engineering (Operations Research/Optimization), Arizona State University, 2016
 * M.S., Electrical Engineering (Power Systems), Zhejiang University, 2013
 * B.S., Electrical Engineering (Power Engineering), Shandong University, 2010
