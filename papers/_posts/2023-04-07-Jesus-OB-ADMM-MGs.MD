@@ -5,7 +5,7 @@ image:
 authors: Jesus Silva-Rodriguez, Xingpeng Li.
 year: 2023
 ref: Jesus Silva-Rodriguez et al, arXiv 2023. 
-journal: "arXiv:2304.03649, 2023"
+journal: "arXiv"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2304/2304.03649.pdf
 codes: 
