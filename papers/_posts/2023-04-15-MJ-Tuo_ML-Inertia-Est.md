@@ -3,9 +3,9 @@ layout: paper
 title: "Machine Learning Assisted Inertia Estimation using Ambient Measurements"
 image: 
 authors: Mingjian Tuo, Xingpeng Li.
-year: 2022
-ref: Mingjian Tuo et al, arXiv:2212.11235, 2022.
-journal: "arXiv"
+year: 2023
+ref: Mingjian Tuo et al, IEEE Transactions on Industry Applications, 2023.
+journal: "IEEE Transactions on Industry Applications"
 webpdf: https://arxiv.org/ftp/arxiv/papers/2212/2212.11235.pdf
 pdf: 
 doi: 
@@ -19,4 +19,4 @@ With the increasing penetration of converter-based renewable resources, differen
 Ambient synchrophasor data, Graph neural network, Inertia estimation, Low inertia power grid, Phasor measurement units
 
 # Cite this paper:
-Mingjian Tuo and Xingpeng Li, "Machine Learning Assisted Inertia Estimation using Ambient Measurements", *arXiv:2212.11235*, Dec. 2022.
+Mingjian Tuo and Xingpeng Li, "Machine Learning Assisted Inertia Estimation using Ambient Measurements", *IEEE Transactions on Industry Applications*, Apr. 2023.
