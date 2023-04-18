@@ -8,7 +8,7 @@ ref: Arun Venkatesh Ramesh et al, IEEE Transactions on Power Systems, 2023.
 journal: "IEEE Transactions on Power Systems"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2208/2208.06742.pdf
-doi: 
+doi: 10.1109/TPWRS.2023.3266192
 arxiv: https://arxiv.org/abs/2208.06742
 ---
 
