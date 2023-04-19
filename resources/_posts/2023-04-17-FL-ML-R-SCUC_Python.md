@@ -10,7 +10,7 @@ github: https://github.com/rpglab/FL-ML-SCUC
 paper: /papers/ArunR_FL-ML-R-SCUC/
 link: 
 doi: 
-description: "This work is for our TPWRS paper: Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations."
+description: "This work is for our TPWRS paper: *Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations*. The designed feasibility layer will post-process ML predictions to ensure solutions are physically feasible."
 ---
 
 
