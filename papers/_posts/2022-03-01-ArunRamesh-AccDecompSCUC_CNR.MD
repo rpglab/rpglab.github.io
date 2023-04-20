@@ -4,8 +4,8 @@ title: "An Accelerated-Decomposition Approach for Security-Constrained Unit Comm
 image: 
 authors: Arun Venkatesh Ramesh, Xingpeng Li and Kory W. Hedman.
 year: 2022
-ref: Arun Venkatesh Ramesh et al, IEEE Transaction on Power Systems, 2022. 
-journal: "IEEE Transaction on Power Systems"
+ref: Arun Venkatesh Ramesh et al, IEEE Transactions on Power Systems, 2022. 
+journal: "IEEE Transactions on Power Systems"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/1912/1912.01764.pdf
 codes: /resources/ABD_N-1_SCUC_CNR_AMPL/
