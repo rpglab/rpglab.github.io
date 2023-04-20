@@ -10,7 +10,7 @@ github: https://github.com/rpglab/OHRES_sizing
 paper: /papers/Cunzhi-OffshoreMG-Sizing/
 link: 
 doi: 
-description: "This program implements the optimal sizing of offshore hybrid renewable energy systems that can achieve zero CO2 emissions."
+description: "This is for our NAPS paper: *A 100% Renewable Energy System: Enabling Zero CO2 Emission Offshore Platforms*. It solves the optimal energy resource sizing problem for offshore hybrid renewable energy systems."
 ---
 
 

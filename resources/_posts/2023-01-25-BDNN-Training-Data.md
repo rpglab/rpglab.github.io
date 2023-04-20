@@ -10,7 +10,7 @@ github: https://github.com/rpglab/Battery-Degradation-Neural-Network-Codes-Datas
 paper: /papers/CunzhiZhao-NNBD-MDS/
 link: 
 doi: 
-description: "This resource page includes the dataset used to train a battery degradation neural network model, as well as the associated python code."
+description: "This is for our TPWRS paper: *Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation*. It includes the dataset used to train a battery degradation DNN model and the associated python code."
 ---
 
 

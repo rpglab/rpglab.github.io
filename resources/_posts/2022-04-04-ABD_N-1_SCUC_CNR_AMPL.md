@@ -10,7 +10,7 @@ github: https://github.com/rpglab/ABD-Alg_N-1_SCUC_CNR
 paper: /papers/ArunRamesh-AccDecompSCUC_CNR/
 link: 
 doi: 
-description: "This work is for our TPWRS paper: *An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment With Corrective Network Reconfiguration*. It implements various SCUC models. "
+description: "This is for our TPWRS paper: *An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment With Corrective Network Reconfiguration*. It implements various SCUC models. "
 ---
 
 

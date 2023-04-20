@@ -10,7 +10,7 @@ github: https://github.com/rpglab/MG-Opt-Energy-Scheduling_wBatteryDegradation
 paper: /papers/CunzhiZhao-NNBD-MDS/
 link: 
 doi: 
-description: "This work is for our TPWRS paper: *Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation*. It solves a usage-based battery degradation deep neural network embedded optimization problem."
+description: "This is for our TPWRS paper: *Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation*. It solves a usage-based battery degradation deep neural network embedded optimization problem."
 ---
 
 

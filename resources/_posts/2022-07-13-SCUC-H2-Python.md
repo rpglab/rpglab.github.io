@@ -10,7 +10,7 @@ github: https://github.com/rpglab/SCUC_PH2
 paper: /papers/JinLu-BnftAnlys-H2Grid-SCUC/
 link: 
 doi: 
-description: "This program implements day-ahead scheduling SCUC for a combined super energy system consisting of power grids and hydrogen networks. Other benchmark SCUC models are also implemented for comparison."
+description: "This is for our NAPS paper: *The Benefits of Hydrogen Energy Transmission and Conversion Systems to the Renewable Power Grids: Day-ahead Unit Commitment*. It implements day-ahead scheduling SCUC for a combined super energy system consisting of power grids and hydrogen networks. Benchmark SCUC models are also implemented."
 ---
 
 

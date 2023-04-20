@@ -10,7 +10,7 @@ github: https://github.com/rpglab/Battery-Aging-Tests-Dataset-Simulator
 paper: /papers/CunzhiZhao-NNBD-MDS/
 link: 
 doi: 
-description: "This resource page includes the battery aging test simulator in Matlab-Simulink, auto simulator in Matlab, and the datasets for 1000+ battery aging tests."
+description: "This is for our TPWRS paper: *Microgrid Optimal Energy Scheduling Considering NN based Battery Degradation*. It includes battery aging simulator in Matlab-Simulink, auto simulator in Matlab, and the datasets for 1000+ battery aging tests."
 ---
 
 

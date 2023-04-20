@@ -10,7 +10,7 @@ github: https://github.com/rpglab/OffshoreEgyTransm_Cable_H2Pipeline
 paper: /papers/Jesus-JinLu-OWP-Transm/
 link: 
 doi: 
-description: "This set of programs is for optimal sizing and planning models of the offshore wind transmission systems: (i) HVDC cable option, and (ii) Hydrogen pipeline option, (iii) a combination of power-hydrogen system."
+description: "This is for our OTC paper: *Cost-Benefit Analysis and Comparisons for Different Offshore Wind Energy Transmission Systems*. It formulates and solves the optimal sizing and planning models for different offshore wind transmission systems: (i) HVDC cable option, and (ii) Hydrogen pipeline option, (iii) a combination of power-hydrogen system."
 ---
 
 

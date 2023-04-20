@@ -10,7 +10,7 @@ github: https://github.com/rpglab/WholesaleElectrPricePredict
 paper: /papers/Vasu-MJTuo_Price-Prdctn-ILRCN/
 link: 
 doi: 
-description: "A set of python codes that forecast electricity price in wholesale power markets using an integrated long-term recurrent convolutional network (LRCN) model. LRCN is a combination of LSTM and CNN."
+description: "This is for our Energies paper: *Wholesale Electricity Price Forecasting using Integrated Long-term Recurrent Convolutional Network Model*. It has a set of python codes that forecast electricity price in wholesale power markets."
 ---
 
 
@@ -51,7 +51,7 @@ If you use these codes for your work, please cite the following paper:
 
 Vasudharini Sridharan, Mingjian Tuo and Xingpeng Li, "Wholesale Electricity Price Forecasting using Integrated Long-term Recurrent Convolutional Network Model",https://arxiv.org/abs/2112.13681.
 
-Paper website: https://rpglab.github.io/papers/Vasu-MJTuo_Price-Prdctn-ILRCN/
+Paper website: <a class="off" href="/papers/Vasu-MJTuo_Price-Prdctn-ILRCN/"  target="_blank">https://rpglab.github.io/papers/Vasu-MJTuo_Price-Prdctn-ILRCN/</a>
 
 
 ## Contributions:
