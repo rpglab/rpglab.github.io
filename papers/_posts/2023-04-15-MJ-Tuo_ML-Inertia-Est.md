@@ -8,7 +8,7 @@ ref: Mingjian Tuo et al, IEEE Transactions on Industry Applications, 2023.
 journal: "IEEE Transactions on Industry Applications"
 webpdf: https://arxiv.org/ftp/arxiv/papers/2212/2212.11235.pdf
 pdf: 
-doi: 
+doi: 10.1109/TIA.2023.3269732
 arxiv: https://arxiv.org/abs/2212.11235
 ---
 
