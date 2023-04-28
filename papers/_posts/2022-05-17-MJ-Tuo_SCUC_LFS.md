@@ -8,6 +8,7 @@ ref: Mingjian Tuo et al, IEEE Transactions on Power Systems, 2022.
 journal: "IEEE Transactions on Power Systems"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2110/2110.11498.pdf
+codes: /resources/LRC-SCUC_Python/
 doi: 10.1109/TPWRS.2022.3215915
 arxiv: https://arxiv.org/abs/2110.11498
 ---
