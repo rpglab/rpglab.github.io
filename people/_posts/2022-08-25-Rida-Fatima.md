@@ -6,7 +6,7 @@ time: 2023.01 - present
 email: 
 image: /images/team/Rida_Fatima.png
 cv: 
-index: "Grid integration of renewable generation and energy storage"
+index: "Distribution network operations and DER integration"
 scholar: 
 linkedin: 
 website: 

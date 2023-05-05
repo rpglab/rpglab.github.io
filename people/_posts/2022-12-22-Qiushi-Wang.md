@@ -6,7 +6,7 @@ time: 2023.01 - present
 email: 
 image: /images/team/Qiushi_Wang.jpg
 cv: 
-index: "Power system transient stability & control, frequency-domain oscillation analysis"
+index: "Grid integration of battery & solar, Power system stability & control"
 scholar: 
 linkedin: qiushi-cho-wang
 website: 

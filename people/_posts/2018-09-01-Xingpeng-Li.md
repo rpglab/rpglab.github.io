@@ -66,34 +66,34 @@ He is also the Associate Director of the Power Electronics, Microgrids & Subsea 
 
 ## 16 Classes taken at ASU (2013.08 - 2016.05)
 * APM 525 High-Performance Computing
-* EEE 577 Power Systems Operations and Planning
-* IEE 620 Optimization I
-* EEE 598 Operations Research Applied to Electric Power Systems
-* EEE 598 Power Plant Control & Monitoring
-* IEE 622 Optimization II
-* IEE 470 Stochastic Operations Research
-* IEE 578 Regression Analysis
-* EEE 598 Electric Energy Markets
-* IEE 506 Web-enabled Decision Support Systems
-* IEE 561 Production Systems
 * EEE 575 Power System Stability
-* IEE 574 Applied Deterministic Operations Research
 * EEE 576 Power System Dynamics
+* EEE 577 Power Systems Operations and Planning
+* EEE 598 Power Plant Control and Monitoring
+* EEE 598 Electric Energy Markets
+* EEE 598 Operations Research Applied to Electric Power Systems
+* IEE 470 Stochastic Operations Research
+* IEE 506 Web-enabled Decision Support Systems
 * IEE 512 Introduction to Financial Engineering
 * IEE 521 Urban Operations Research
+* IEE 561 Production Systems
+* IEE 574 Applied Deterministic Operations Research
+* IEE 578 Regression Analysis
+* IEE 620 Optimization I
+* IEE 622 Optimization II
 
 
-## 11 Classes taken at Gatech (2020.08 - present)
-* CS 7641 Machine Learning
+## 11 Classes taken at Gatech (2020.08 - 2023.05)
 * CS 6515 Introduction to Graduate Algorithms
-* CS 7643 Deep Learning 
-* ISYE 6420 Bayesian Methods
-* CS 7280 Network Science
-* CS 7642 Reinforcement Learning and Decision Making
 * CS 6601 Artificial Intelligence
-* ISYE 6501 Introduction to Analytics Modeling
+* CS 6603 AI Ethics Society
+* CS 7641 Machine Learning
+* CS 7642 Reinforcement Learning and Decision Making
+* CS 7643 Deep Learning 
 * CS 7646 Machine Learning for Trading
+* CS 7280 Network Science
+* ISYE 6420 Bayesian Methods
+* ISYE 6501 Introduction to Analytics Modeling
 * ISYE 6669 Deterministic Optimization
-* CS 6603 AI Ethics Society (ongoing)
 
 
