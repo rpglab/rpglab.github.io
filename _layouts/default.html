@@ -75,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 	<div id="header">
-		<nav class="navbar navbar-expand-md navbar-light bg-navbar">
+		<nav class="navbar navbar-expand-md navbar-light bg-navbar" style="background-color: rgba(0, 255, 0, 0.1);">
 			<div class="container">
 				{% if page.categories.first != 'home' %}
 				<a class="navbar-brand" href="/">
@@ -140,7 +140,52 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	</div>
 
-	<div id="footer"><span style="display:none">foo</span></div>
+	<div id="footer"><span style="display:none">foo</span></div>   
+
+	<!-- Footer Area - added on May 8, 2023 -->
+	<footer style="background-color: rgba(0, 255, 0, 0.1);">
+	  <div class="container">
+		<div class="spacer"></div>
+	  	<div class="spacer"></div>
+		<div class="row">	  
+		    <div class="col-lg-4 memberbox">		
+				<h3>Contact Us</h3>
+				<ul>
+				  <li style="color: blue; font-weight: bold;"> <a class="off" href="/people/Xingpeng-Li">Xingpeng Li, PhD, Assistant Professor</a> </li>
+				  <li style="color: blue; font-weight: bold;">Email: &nbsp xli83@central.uh.edu</li>
+				  <li>Office: N317, Engineering Building 1 </li>
+				  <li>ECE Department</li>
+				  <li>University of Houston</li>
+				  <li>Houston, TX 77204, USA </li>
+				</ul>		
+		    </div>
+		  
+			<div class="col-lg-4 memberbox">
+				<div class="row">
+				  <div class="col-lg-12">
+					<div class="float-lg-central" style="vertical-align: bottom; display: table-cell;">
+					  <a class="off" href="/blog/GrpMeeting-Dinner-Gaming-202301/">
+						<img width=310 src="/images/blog/2023.01.27_Photo-1_v2.JPG">
+					  </a>
+					 <!--  
+					  &nbsp; &nbsp; &nbsp; &nbsp;
+					  <a class="off" href="/people/">
+						<img width=100 src="/images/Logo_RPGLab_v2.png">
+					  </a>
+					  -->
+					</div>
+				  </div>
+				</div>
+			</div>
+		    <!-- This is the code for ClustrMaps that tracks visitors. -->
+		    <div class="col-lg-4 memberbox">
+				<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=a9caa5&w=325&t=m&d=j-n5lXQIyldfuPlRN_6qmu40j5vPWr-yAfiEYvkyxZs&co=8d79f1&ct=010000&cmo=040000&cmn=000900'></script>		  
+		    </div>	  
+		</div>		
+		<div class="spacer"></div>
+	  </div>
+	</footer>
+	
 
 </body>
 </html>
