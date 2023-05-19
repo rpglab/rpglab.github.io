@@ -36,6 +36,7 @@ He is also the Associate Director of the Power Electronics, Microgrids & Subsea 
 
 ## Professional Experience
 * Assistant Professor, University of Houston, Houston, TX, 2018 - present
+* Visiting Faculty, Georgia Institute of Technology, Atlant, GA, 05.2023 - present
 * Senior Application Engineer, ABB (now Hitachi-ABB Power Grids), San Jose, CA, 2017-2018
 * Intern, PJM Interconnection, Audubon, PA, 2016
 * Intern, ISO New England, Holyoke, MA, 2015
