@@ -8,7 +8,7 @@ ref: Cunzhi Zhao et al, North American Power Symposium, 2022.
 journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2207/2207.00650.pdf
-doi: 
+doi: 10.1109/NAPS56150.2022.10012231
 arxiv: https://arxiv.org/abs/2207.00650
 researchgate: 
 ---
