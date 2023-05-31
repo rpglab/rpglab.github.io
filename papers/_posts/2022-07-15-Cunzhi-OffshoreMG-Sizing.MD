@@ -9,7 +9,7 @@ journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2208/2208.06771.pdf
 codes: /resources/OHRES-Sizing/
-doi: 
+doi: 10.1109/NAPS56150.2022.10012189
 arxiv: https://arxiv.org/abs/2208.06771
 researchgate: 
 ---

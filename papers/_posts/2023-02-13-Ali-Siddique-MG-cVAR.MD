@@ -8,7 +8,7 @@ ref: Ali Siddique, Cunzhi Zhao et al, Texas Power and Energy Conference, 2023.
 journal: "Texas Power and Energy Conference"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2301/2301.01759.pdf
-doi: 
+doi: 10.1109/TPEC56611.2023.10078597
 arxiv: https://arxiv.org/abs/2301.01759
 researchgate: 
 ---
