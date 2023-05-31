@@ -8,7 +8,7 @@ ref: Mingjian Tuo et al, North American Power Symposium, 2022.
 journal: "2022 IEEE North American Power Symposium (NAPS)"
 webpdf: https://arxiv.org/ftp/arxiv/papers/2208/2208.08028.pdf
 pdf: 
-doi: 
+doi: 10.1109/NAPS56150.2022.10012162
 arxiv: https://arxiv.org/abs/2208.08028
 ---
 
