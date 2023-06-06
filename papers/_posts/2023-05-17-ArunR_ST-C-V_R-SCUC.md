@@ -20,5 +20,5 @@ Security-constrained unit commitment (SCUC) is a computationally complex process
 Constraint reduction, Deep neural network, Graph neural networks, Machine learning, Mixed-integer linear programming, Model reduction, Security-constrained unit commitment, Spatio-temporal, Variable reduction.
 
 # Cite this paper:
-Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *arXiv*, May 2023.
+Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *arXiv:2306.01570*, May 2023.
 
