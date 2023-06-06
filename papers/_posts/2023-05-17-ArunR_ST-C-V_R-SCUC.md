@@ -7,10 +7,10 @@ year: 2023
 ref: Arun Venkatesh Ramesh et al, arXiv, 2023.
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/ftp/arxiv/papers/2306/2306.01570.pdf
 codes: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2306.01570
 ---
 
 # Abstract
