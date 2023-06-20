@@ -10,9 +10,9 @@ description: "Congratulations to Mingjian Tuo for successfully having defended h
 
 * Mingjian Tuo's PhD Dissertation title: *"Enhancing Frequency Stability of Low-Inertia Grids with Novel Security Constrained Unit Commitment Approaches"*
 
-* Here are <a class="" target="_blank" href="/pdfs/team/2023-06-19_Mingjian_Presentation.pdf/">Mingjian's PhD Defense Presentation Slides</a>.
+* Here are <a class="" target="_blank" href="/pdfs/team/2023-06-19_Mingjian_Presentation.pdf">Mingjian's PhD Defense Presentation Slides</a>.
 
-* Here is <a class="" target="_blank" href="/pdfs/team/2023-06-19_Mingjian_Dissertation.pdf/">Mingjian's PhD Dissertation</a>.
+* Here is <a class="" target="_blank" href="/pdfs/team/2023-06-19_Mingjian_Dissertation.pdf">Mingjian's PhD Dissertation</a>.
 
 * Mingjian has received an offer from academia. He will start his first job as a faculty (associate professor-equivalent) in the Department of Electrical and Information Engineering at Hubei University of Automative Technology, Hubei, China, in August 2023. 
 
