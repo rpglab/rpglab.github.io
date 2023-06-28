@@ -7,6 +7,8 @@ year: 2023
 ref: Mingjian Tuo et al, IEEE Transactions on Industry Applications, 2023.
 journal: "IEEE Transactions on Industry Applications"
 webpdf: https://arxiv.org/ftp/arxiv/papers/2212/2212.11235.pdf
+codes: /resources/Sync-Inertia-EST_Python/
+data: https://figshare.com/articles/dataset/Raw_Dataset_for_IEEE_24-Bus_System_Freuqency_Dynamics_Measurements/23576769
 pdf: 
 doi: 10.1109/TIA.2023.3269732
 arxiv: https://arxiv.org/abs/2212.11235
