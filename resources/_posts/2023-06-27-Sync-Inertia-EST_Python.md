@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Deep Learning-based Grid Inertia Estimation in Python
+title: Deep Learning-based Grid Inertia Estimation in Python Notebook with Learning-Ready Dataset
 authors: Mingjian Tuo
 type: Python Code
 zip: 
