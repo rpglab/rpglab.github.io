@@ -17,8 +17,14 @@ description: "Congratulations to Mingjian Tuo for successfully having defended h
 * Mingjian has received an offer from academia. He will start his first job as a faculty (associate professor-equivalent) in the Department of Electrical and Information Engineering at Hubei University of Automotive Technology, Hubei, China, in August 2023. 
 
 
+![](/images/news/2023.06.23_MT-Grad-Party.jpg)
+<p></p>
+<span class="text-figure-legend"  style="font-size:15px;">
+Figure. Group party celebrating Mingjian passing his dissertation defense and PhD graduation. 
+</span>
+
 ![](/images/news/2023.06.19_Defense_Slide-1.PNG)
 <p></p>
 <span class="text-figure-legend"  style="font-size:15px;">
-Figure. Slide 1 of Mingjian's PhD Dissertation Defense. 
+Figure. Slide 1 of Mingjian's PhD Dissertation Defense slide deck. 
 </span>
