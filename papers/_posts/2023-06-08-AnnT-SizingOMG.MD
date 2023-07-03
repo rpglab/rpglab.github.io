@@ -4,8 +4,8 @@ title: "Optimal Sizing of On-site Renewable Resources for Offshore Microgrids"
 image: 
 authors: Ann Mary Toms, Xingpeng Li, Kaushik Rajashekara.
 year: 2023
-ref: Ann Mary Toms et al, arXiv, 2023. 
-journal: "arXiv"
+ref: Ann Mary Toms et al, North American Power Symposium, 2023. 
+journal: "IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: 
 codes: 
@@ -20,4 +20,4 @@ The offshore oil and natural gas platforms, mostly powered by diesel or gas gene
 Battery energy storage systems, Floating photovoltaic systems, Microgrid planning, Offshore platforms, Offshore wind turbines, Optimization, Renewable energy sources, Tidal energy converters, Wave energy converters
 
 # Cite this paper:
-Ann Mary Toms, Xingpeng Li, and Kaushik Rajashekara, “Optimal Sizing of On-site Renewable Resources for Offshore Microgrids”, *arXiv*, Jun. 2023.
+Ann Mary Toms, Xingpeng Li, and Kaushik Rajashekara, “Optimal Sizing of On-site Renewable Resources for Offshore Microgrids”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023, accepted for publication.

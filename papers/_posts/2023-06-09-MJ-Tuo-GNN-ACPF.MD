@@ -4,8 +4,8 @@ title: "Graph Neural Network-based Power Flow Model"
 image: 
 authors: Mingjian Tuo, Xingpeng Li, Tianxia Zhao.
 year: 2023
-ref: Mingjian Tuo et al, arXiv, 2023. 
-journal: "arXiv"
+ref: Mingjian Tuo et al, North American Power Symposium, 2023.
+journal: "IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: 
 codes: 
@@ -20,4 +20,4 @@ Power flow analysis plays a crucial role in examining the electricity flow withi
 DC power flow, Machine learning, Neural network, Power flow, Renewable energy, Transmission network.
 
 # Cite this paper:
-Mingjian Tuo, Xingpeng Li, and Tianxia Zhao, “Graph Neural Network-based Power Flow Model”, *arXiv*, Jun. 2023.
+Mingjian Tuo, Xingpeng Li, and Tianxia Zhao, “Graph Neural Network-based Power Flow Model”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023, accepted for publication.
