@@ -8,6 +8,7 @@ ref: Mingjian Tuo et al, North American Power Symposium, 2023.
 journal: "IEEE North American Power Symposium (NAPS)"
 webpdf: https://arxiv.org/ftp/arxiv/papers/2211/2211.08502.pdf
 pdf: 
+data: /resources/FCUC-24bus-Sys_PSSE-TimeDmn-Data/
 doi: 
 arxiv: https://arxiv.org/abs/2211.08502
 ---

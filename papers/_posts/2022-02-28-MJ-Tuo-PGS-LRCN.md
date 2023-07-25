@@ -6,6 +6,8 @@ authors: Mingjian Tuo, Xingpeng Li.
 year: 2022
 ref: Mingjian Tuo et al, IEEE IAS Annual Meeting, 2022.
 journal: "IEEE IAS Annual Meeting"
+codes: /resources/Sync-Inertia-EST_Python/
+data: https://figshare.com/articles/dataset/Raw_Dataset_for_IEEE_24-Bus_System_Freuqency_Dynamics_Measurements/23576769
 pdf: /pdfs/papers/20211215_MJ-Tuo-PGS-LRCN.pdf
 doi: 10.1109/TIA.2022.3191062
 arxiv: https://arxiv.org/abs/2112.00926
