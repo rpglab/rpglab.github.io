@@ -2,7 +2,7 @@
 layout: member
 title: Mingjian Tuo
 position: PhD Student
-time: 2019.08 - Present
+time: 2019.08 - 2023.08
 email: mtuo@uh.edu
 image: /images/team/Mingjian_Tuo.jpg
 cv: 
@@ -17,7 +17,7 @@ handle:
 github: 
 twitter: 
 facebook: 
-alumni: 
+alumni: true
 ---
 
 Mingjian Tuo is a PhD student with the Department of Electrical and Computer Engineering at the University of Houston, Houston, TX, USA. Mingjian started working in the RPG lab as a PhD student here in Aug. 2019.
