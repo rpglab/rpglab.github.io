@@ -32,6 +32,9 @@ Ann Mary Toms is a PhD student at RPG lab (Spring 2023) at the University of Hou
 ## Professional Experience
 * Electrical Engineer, CKR Consulting Engineers, Dubai, 2017 - 2020
 
+## Publications at UH RPG Lab 
+* Ann Mary Toms, Xingpeng Li, and Kaushik Rajashekara, “Optimal Sizing of On-site Renewable Resources for Offshore Microgrids”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023.
+
 
 ## Research Interests
 * Micro grids optimal sizing and energy management

@@ -29,6 +29,10 @@ Master of Science in Electrical Engineering, University of Houston, 2020-2021
 
 Bachelor of Science in Electrical and Electronics Engineering, Anna University, India, 2014-2018
 
+## Publications at UH RPG Lab 
+* Vasudharini Sridharan, Mingjian Tuo and Xingpeng Li, “Wholesale Electricity Price Forecasting using Integrated Long-term Recurrent Convolutional Network Model”, *Energies*, 15(20), 7606, Oct. 2022.
+
+
 ## Research Focus:
 Power System Operations and Planning, Machine Learning, Electricity Price Prediction.
 

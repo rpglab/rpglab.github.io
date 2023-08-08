@@ -35,6 +35,9 @@ B.S., Electrical Engineering (Electronics), Mirpur University of Sciences and Te
 * Project Technical Associate, Tetra tech, Islamabad, 2019-2021
 * Research Assistant, National University of Sciences and Technology, Islamabad, 2017
 
+## Publications at UH RPG Lab 
+* Rida Fatima, Hassan Zahid Butt, and Xingpeng Li, “Optimal Dynamic Reconfiguration of Distribution Networks”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023.
+
 
 ## Awards & Honors
 * Winner of All-Asia Youth Energy Academy (YEA) Competition, 2021

@@ -46,6 +46,7 @@ Bachelor of Science in Electrical Engineering and Automation, Huazhong Universit
 8. Mingjian Tuo and Xingpeng Li, “Deep Learning based Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Systems”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
 9. Vasudharini Sridharan, Mingjian Tuo and Xingpeng Li, “Wholesale Electricity Price Forecasting using Integrated Long-term Recurrent Convolutional Network Model”, *Energies*, 15(20), 7606, Oct. 2022.
 10. Mingjian Tuo and Xingpeng Li, “Selectively Linearized Neural Network based RoCoF-Constrained Unit Commitment in Low-Inertia Power Systems”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023.
+11. Mingjian Tuo and Xingpeng Li, “Active Linearized Sparse Neural Network-based Frequency-Constrained Unit Commitment”, *arXiv:2307.04880*, Jul. 2023.
 
 
 ## Classes:

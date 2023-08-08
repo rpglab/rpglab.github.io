@@ -32,9 +32,12 @@ Engineering Associate/Interconnection Analyst, Blended Power LLC, Houston, TX, 2
 
 Research Intern, Technische Universität Dortmund, Dortmund, Germany, 2019
 
-## Publication
-
-J. Silva-Rodriguez and X. Li, “Water-Energy Co-Optimization for Community-Scale Microgrids,” IEEE 53rd North American Power Symposium, College Station, TX, USA, Nov. 2021.
+## Publications at UH RPG Lab 
+1. J. Silva-Rodriguez and X. Li, “Water-Energy Co-Optimization for Community-Scale Microgrids,” *IEEE 53rd North American Power Symposium*, College Station, TX, USA, Nov. 2021.
+2. Jesus Silva-Rodriguez, Jin Lu and Xingpeng Li, “Cost-Benefit Analysis and Comparisons for Different Offshore Wind Energy Transmission Systems”, *Offshore Technology Conference*, Houston, TX, USA, May 2023.
+3. Cunzhi Zhao, Jesus Silva-Rodriguez and Xingpeng Li, “Resilient Operational Planning for Microgrids Against Extreme Events”, *Hawaii International Conference on System Sciences*, Maui, Hawaii, USA, Jan. 2023.
+4. Jesus Silva-Rodriguez and Xingpeng Li, “Centralized Networked Micro Water-Energy Nexus with Proportional Exchange Among Participants”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
+5. Jesus Silva-Rodriguez and Xingpeng Li, “Privacy-Preserving Decentralized Energy Management for Networked Microgrids via Objective-Based ADMM”, *arXiv:2304.03649*, Apr. 2023.
 
 
 ## Classes

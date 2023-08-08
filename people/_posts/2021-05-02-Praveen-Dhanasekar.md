@@ -28,6 +28,9 @@ Master of Science in Electrical Engineering, University of Houston, TX, USA, 202
 
 Bachelor of Science in Electrical and Electronics Engineering, Anna University, India, 2014-2018
 
+## Publications at UH RPG Lab 
+* Praveen Dhanasekar, Cunzhi Zhao and Xingpeng Li, “Quantitative Analysis of Demand Response Using Thermostatically Controlled Loads”, *IEEE PES Innovative Smart Grid Technology*, New Orleans, LA, USA, Apr. 2022.
+
 ## Classes
 Smart Grid System, Power System Analysis, Power System Protection
 

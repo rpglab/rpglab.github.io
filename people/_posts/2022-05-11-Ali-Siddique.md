@@ -35,6 +35,11 @@ The title of his thesis is "*Microgrid Optimal Scheduling and Risk Analysis*".
 * He has worked at *National Instruments* as an Applications Engineer from 2016 to 2018 where he created Academic Material for Universities, recruited for the University of Houston, and worked as both a Software Architecture Instructor and a System Integration Consultant. 
 * He has been working at *CenterPoint Energy* as a Control Systems Engineer from 2018 to the Present with a focus on the system modeling of the transmission and distribution mainly on SCADA system operations and continuous improvement and factory acceptance testing. 
 
+## Publications at UH RPG Lab 
+* Ali Siddique, Cunzhi Zhao, and Xingpeng Li, “Microgrid Optimal Energy Scheduling with Risk Analysis”, *Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2023.
+
+
+
 ## Research Interests
 His research focuses are renewable energy, microgrids, disaster preparedness, grid resiliency. His master's thesis is focused on Distributed Generation System Implementation in Disaster Scenarios by modeling conditional value-at-risk analysis on dynamic power flow optimization software for neighborhood microgrid with rooftop solar residential data for post-disaster scenarios. 
 
