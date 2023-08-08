@@ -35,7 +35,7 @@ Master of Science in Electrical Engineering, Arizona State University, AZ, USA 2
 Banchelors of Engineering, Anna University, India 2009-2013
 
 
-## Publication
+## Publication at UH RPG Lab
 * Arun Venkatesh Ramesh and Xingpend Li, “ Spatio Temporal AI Approach for Variable and Constraint Reduction in Security Constrained Unit Commitment ”, *IEEE Transactions in Power Systems*, (under preparation).
 * Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day Ahead Operations”, *IEEE Transactions on Power Systems*, Apr. 2023. DOI: 10.1109/TPWRS.2023.3266192
 * Arun Venkatesh Ramesh and Xingpeng Li, “Machine Learning Assisted Model Reduction for Security Constrained Unit Commitment”, *North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
