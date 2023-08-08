@@ -20,7 +20,11 @@ facebook:
 alumni: true
 ---
 
-Mingjian Tuo is a PhD student with the Department of Electrical and Computer Engineering at the University of Houston, Houston, TX, USA. Mingjian started working in the RPG lab as a PhD student here in Aug. 2019.
+Mingjian Tuo has received his PhD degree in Electrical Engineering from the University of Houston, Houston, TX, USA in August 2023. Mingjian had worked in the RPG lab as a PhD student from Aug. 2019 to Aug. 2023.
+
+PhD Dissertation title: *"Enhancing Frequency Stability of Low-Inertia Grids with Novel Security Constrained Unit Commitment Approaches"*
+
+First Job: Associate professor-equivalent tenured faculty, Department of Electrical and Information Engineering, Hubei University of Automotive Technology, Hubei, China.
 
 ## Education
 
