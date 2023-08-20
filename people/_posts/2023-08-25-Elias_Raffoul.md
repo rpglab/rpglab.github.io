@@ -34,4 +34,4 @@ B.S., Electrical Engineering, University of Balamand, September 2019 - May 2022
 
 
 ## Research Interests:
-Distribution system operations, Load prediction, and Distribution network congestion prediction.
+Distribution system operations, load prediction, and network congestion analysis.
