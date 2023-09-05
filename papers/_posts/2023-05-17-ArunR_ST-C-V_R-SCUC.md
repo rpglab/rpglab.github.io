@@ -4,8 +4,8 @@ title: "Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit
 image: 
 authors: Arun Venkatesh Ramesh, Xingpeng Li.
 year: 2023
-ref: Arun Venkatesh Ramesh et al, arXiv, 2023.
-journal: "arXiv"
+ref: Arun Venkatesh Ramesh et al, IEEE Transactions on Power Systems, 2023.
+journal: "IEEE Transactions on Power Systems"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2306/2306.01570.pdf
 codes: 
@@ -20,5 +20,5 @@ Security-constrained unit commitment (SCUC) is a computationally complex process
 Constraint reduction, Deep neural network, Graph neural networks, Machine learning, Mixed-integer linear programming, Model reduction, Security-constrained unit commitment, Spatio-temporal, Variable reduction.
 
 # Cite this paper:
-Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *arXiv:2306.01570*, May 2023.
+Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *IEEE Transactions on Power Systems*, Sep. 2023.
 

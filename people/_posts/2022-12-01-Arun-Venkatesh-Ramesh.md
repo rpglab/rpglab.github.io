@@ -36,7 +36,7 @@ Banchelors of Engineering, Anna University, India 2009-2013
 
 
 ## Publication at UH RPG Lab
-* Arun Venkatesh Ramesh and Xingpend Li, “ Spatio Temporal AI Approach for Variable and Constraint Reduction in Security Constrained Unit Commitment ”, *IEEE Transactions in Power Systems*, (under preparation).
+* Arun Venkatesh Ramesh and Xingpend Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *IEEE Transactions on Power Systems*, Sep. 2023.
 * Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day Ahead Operations”, *IEEE Transactions on Power Systems*, Apr. 2023. DOI: 10.1109/TPWRS.2023.3266192
 * Arun Venkatesh Ramesh and Xingpeng Li, “Machine Learning Assisted Model Reduction for Security Constrained Unit Commitment”, *North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
 * Arun Venkatesh Ramesh, Xingpeng Li and Kory W. Hedman, "An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment with Corrective Network Reconfiguration," in *IEEE Transactions on Power Systems*, vol. 37, no. 2, pp. 887-900, Mar. 2022. doi: 10.1109/TPWRS.2021.3098771.
