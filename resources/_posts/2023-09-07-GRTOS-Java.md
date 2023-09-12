@@ -18,17 +18,25 @@ This is a software suite for power grid real-time energy management system (EMS)
 
 
 #### Papers from this GRTOS software:
-With this software, we were able to publish multiple papers. A subset of milestone papers are provided below:
+With this software, we were able to publish multiple papers, some of which are provided below:
 
-* Xingpeng Li, Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Mojdeh Abdi-Khorsand, Kory W. Hedman, and Robin Podmore, “Real-Time Contingency Analysis with Correct Transmission Switching,” *IEEE Transactions on Power Systems*, vol. 32, no. 4, pp. 2604-2617, Jul. 2017. <a class="" target="_blank" href="/papers/XLI-RTCAwCTS/">[Link Here]</a>
+* Xingpeng Li, Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Mojdeh Abdi-Khorsand, Kory W. Hedman, and Robin Podmore, “Real-Time Contingency Analysis with Correct Transmission Switching,” __*IEEE Transactions on Power Systems*__, vol. 32, no. 4, pp. 2604-2617, Jul. 2017. <a class="" target="_blank" href="/papers/XLI-RTCAwCTS/">[Link Here]</a>
 
-* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part I: Methodology,” *IEEE Transactions on Power Systems*, vol. 34, no. 6, pp. 4490-4502, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-I/">[Link Here]</a>
+* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part I: Methodology,” __*IEEE Transactions on Power Systems*__, vol. 34, no. 6, pp. 4490-4502, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-I/">[Link Here]</a>
 
-* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part II: Results and Discussion,” *IEEE Transactions on Power Systems*, vol. 34, no. 6, pp. 4503-4513, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-II/">[Link Here]</a>
+* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part II: Results and Discussion,” __*IEEE Transactions on Power Systems*__, vol. 34, no. 6, pp. 4503-4513, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-II/">[Link Here]</a>
 
 * Xingpeng Li, Pranavamoorthy Balasubramanian, Mojdeh Abdi-Khorsand, Akshay S. Korad, and Kory W. Hedman, “Effect of Topology Control on System Reliability: TVA Test Case,” *CIGRE US National Committee Grid of the Future Symposium*, Houston, TX, USA, Oct. 2014. <a class="" target="_blank" href="/papers/XLi-ASU-Cigre/">[Link Here]</a>
 
-* Xingpeng Li and Kory W. Hedman, “Enhancing Power System Cyber-Security with Systematic Two-Stage Detection Strategy,” *IEEE Transactions on Power Systems*, vol. 35, no. 2, pp. 1549-1561, Mar. 2020. <a class="" target="_blank" href="/papers/XLI-CyberSecurity/">[Link Here]</a>
+* Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Xingpeng Li, and Kory W. Hedman, “Towards Smart Corrective Switching: Analysis and Advancement of PJM’s Switching Solutions,” *IET Generation, Transmission, and Distribution*, vol. 10, no. 8, pp. 1984-1992, May 2016. <a class="" target="_blank" href="/papers/Pranav-PJM_Switching_Soln/">[Link Here]</a>
+
+* Mostafa Sahraei-Ardakani, Xingpeng Li, Pranavamoorthy Balasubramanian, Kory W. Hedman, and Mojdeh Abdi-Khorsand, “Real-Time Contingency Analysis with Transmission Switching on Real Power System Data,” __*IEEE Transactions on Power Systems*__, vol. 31, no. 3, pp. 2501-2502, May 2016. <a class="" target="_blank" href="/papers/RTCAwTS-ASU-Letter/">[Link Here]</a>
+
+* Xingpeng Li, Pranavamoorthy Balasubramanian, and Kory W. Hedman, “A Data-driven Heuristic for Corrective Transmission Switching,” *North American Power Symposium (NAPS)*, Denver, CO, USA, Sep. 2016. <a class="" target="_blank" href="/papers/XLI-NAPS-DD-CTS/">[Link Here]</a>
+
+* Xingpeng Li and Kory W. Hedman, “Enhancing Power System Cyber-Security with Systematic Two-Stage Detection Strategy,” __*IEEE Transactions on Power Systems*__, vol. 35, no. 2, pp. 1549-1561, Mar. 2020. <a class="" target="_blank" href="/papers/XLI-CyberSecurity/">[Link Here]</a>
+
+* Xingpeng Li, “Fast Heuristic AC Power Flow Analysis with Data-Driven Enhanced Linearized Model,” *Energies*, 13(13), 3308, Jun. 2020. <a class="" target="_blank" href="/papers/XLI-DD-ACPF-Energies/">[Link Here]</a>
 
 * Xingpeng Li, Akshay S. Korad, and Pranavamoorthy Balasubramanian, “Sensitivity Factors based Transmission Network Topology Control for Violation Relief,” *IET Generation, Transmission and Distribution*, vol. 14, no. 17, pp. 3539-3547, Sep. 2020. <a class="" target="_blank" href="/papers/LODF-CTS_IET-GTD/">[Link Here]</a>
 
@@ -56,7 +64,7 @@ All the source codes are in the folder of src/com. There are six folders as expl
 * powerdata: this folder of codes is from OpenPA (first version) that is an open-source AC power flow tool developed by PowerData Corpration, Incremental Systems Corporation. Their copyright note is included in each of the code file in this folder. Some modifications were made to best interface with other codes for RTCA, TS, and SCED.
 * rtca_cts: 
 	* contingencyanalysis: implements both sequential and parallel RTCA, as well as relevant features: contingency list, various participation factors for remaining online generators under generator outage, generator VAR limit examination and bus type switch, flow and voltage violations information recording, sets of monitor elements for violation record.
-	* transmissionswitching: implements both sequential and parallel corrective TS, as well as relevant features: candidate switching list determination with multiple options, best TS line and violation relief recording.
+	* transmissionswitching: implements both sequential and parallel corrective TS, as well as relevant features: multiple methods for determining candidate switching list, best TS line (with/without pareto improvement) and violation relief recording.
 	* batch: run some application programs over multiple test cases with one 'click'.
 	* param: implements classes to manage various parameters for various applications, including PF, RTCA, TS, violation recording, input/output engines, etc.
 	* ausXP: some utility / auxiliary classes: bus type switch and manage; calculate the distance (in terms of number of buses in between in the shortest path) between two elements (bus/line); write system data and/or power flow solutions to files. Convert PSS/E .raw file to .csv format outputs.
@@ -75,6 +83,88 @@ All the source codes are in the folder of src/com. There are six folders as expl
 	* SCEDwCTS_CA: connects DC SCED with AC RTCA and AC CTS: not completely automated yet; some manual modifications (hard code) may be needed.
 * cyberattack: implements a false data injection (FDI) detection (FDID) method. It takes the FDI simulation data (from a different program) as input.
 * utilxl: some utility / auxiliary classes, such as logging. A linearized AC power flow (LACPF) class is also included, supporting customized coefficient for the linear LACPF model.
+
+
+#### Parallel Computing:
+There are parallel computing versions for the following two applications: (i) contingency analysis and (ii) transmission swtiching.
+
+The parallel computing package utilized here is MPJ Express: 
+ * http://mpjexpress.org/
+
+Instructions about how to set up MPJ Express in Eclipse: 
+ * https://www.youtube.com/watch?v=ROXFfUbgY98
+
+How to use MPJExpress:
+1. Download MPJ Express and unpack it. 
+2. Set MPJ_HOME and PATH environmental variables:
+      * export MPJ_HOME=/path/to/mpj/
+      * export PATH=$MPJ_HOME/bin:$PATH 
+      * (These above two lines can be added to the end of ~/.bashrc)
+3. Write your MPJ Express program (HelloWorld.java) and save it. 
+4. Compile in cmd: 
+	  * javac -cp .:$MPJ_HOME/lib/mpj.jar HelloWorld.java
+	  * (or: javac -cp “.:$MPJ_HOME/lib/mpj.jar:/path/to/jar/file” HelloWorld.java)
+	  * (or: javac -cp .:$MPJ_HOME/lib/mpj.jar:/path/to/jar/file HelloWorld.java)
+5. Execute in cmd: 
+	  * mpjrun.sh -np 4 HelloWorld
+	  * (or: mpjrun.sh -np 4 -cp .:/path/to/jar/file HelloWorld)
+
+If third-party package is used:
+* Steps 1 - 3 remain the same; 	
+* Step 4: javac -cp .:$MPJ_HOME/lib/mpj.jar testA/testB/MainClass.java testA/testB/DataProcessor.java     (MainClass.java and DataProcessor.java are both in folder testA/testB.)
+* Step 5: mpjrun.sh –np 4 testA.testB.MainClass      (MainClass is in package testA.testB;)
+
+If non-default java is preferred, add the following three lines on top of file mpjrun.sh:
+* export MPJ_HOME=/usr/gapps/ppp/mpj/mpj-v0_43
+* export JAVA_HOME=/path/to/the/non/default/java
+* export PATH=$MPJ_HOME/bin:$JAVA_HOME/bin:$PATH
+
+Of course, some “java” in this file have to be changed to /path/to/the/non/default/java)
+
+When in the cluster mode, use the following commands:
+* mpjrun.sh -np 2 native -dev niodev HelloWorld
+* mpjrun.sh -np 2 -dev niodev HelloWorld
+* mpjrun.sh -np 2 -dev niodev -jar $MPJ_HOME/lib/test.jar
+
+
+#### Run commands:
+Examples, when using Eclipse, use: run Configurations or debug Configurations; in the arguments box, enter: 
+ * --uri psseraw:file=IEEE14busPsse30.raw&lowx=adjust --voltage flat 
+ * or: --uri psseraw:path=cases/IEEE118busSystemData&lowx=adjust --voltage flat
+
+On linux the arguments should be:
+* --uri psseraw:file=IEEE118busPsse30.raw\&lowx=adjust --voltage flat -debug /tmp/ieeedbg -results results.csv
+* (use \& instead of &)
+
+When using cplex, the JVM argument should be: 
+* -Djava.library.path=/path/to/cplex1251.dll
+* e.g., -Djava.library.path=M:\_software\java\
+
+Convert a psse.raw file to some files.csv using the following command:
+* --dir tmp --psse IEEE300busPsse30.raw --version 30
+* (Note: the folder tmp should be there before the program initialized, otherwise, it would fail.)
+
+
+In Linux, here are some example commands:
+1. Sample system environment variables set-up:
+	* export MPJ_HOME=/home/xingpeng/mpj-v0_40
+	* export PATH=$MPJ_HOME/bin:$PATH	
+2. Sample compile command:
+	* javac -cp .:$MPJ_HOME/lib/mpj.jar:/home/xingpeng/ExternalJar/junit-4.11.jar:/home/xingpeng/ExternalJar/cplex.jar com/utilxl/array/\*.java com/utilxl/iofiles/\*.java com/utilxl/string/\*.java com/powerdata/openpa/psse/\*.java com/rtca_cts/ausXP/\*.java com/rtca_cts/batch/\*.java com/rtca_cts/contingencyanalysis/\*.java 
+	* (need to include all classes in each folder/subfolder, space in between is needed)
+3. Sample execution command:
+	* java -cp .:/home/xingpeng/ExternalJar/junit-4.11.jar com.rtca_cts.batch.BatchCorrectiveTransmSwitNaiveSeq
+	* (select a specific application to execute)
+
+Sample commands when using MPJ Express:
+* mpjrun.sh -np 2 -cp .:/home/xingpeng/javaJar/junit-4.11.jar com.rtca_cts.contingencyanalysis.ContingencyAnalysisParallel --uri psseraw:file=IEEE14busPsse30.raw\&lowx=adjust --voltage flat
+* mpjrun.sh -np 8 -cp .:/home/xingpeng/ExternalJar/junit-4.11.jar com.rtca_cts.batch.BatchCorrectiveTransmSwitNaiveParallel
+
+
+#### Required external .jar files:
+* MPJ Express
+* gurobi
+* junit
 
 
 #### Test System Description:
@@ -100,6 +190,8 @@ Six test cases are included here for users' convenience. They are described belo
 
 * 2383-bus Polish system: the original data are provided by Roman Korab (roman.korab@polsl.pl). Three modified versions are provided here.
 
+Three practical power systems (Tennessee Valley Authority (TVA), Electric Reliability Council of Texas (ERCOT), and PJM) were used to test some applications of this software suite. These system data are sensitive thus, are not shared here.
+
 
 #### Input Files:
 * input/*.raw: PSS/E raw file (version 29 or 30): power flow data for PF/RTCA/TS.
@@ -108,14 +200,15 @@ Six test cases are included here for users' convenience. They are described belo
 * dataToRead/*: additional data files to read for some specific application programs.
 * CpsConfg.ini: the configure file that the program will first read.
 
+
 #### Output Files:
-All output files will be generated in this folder 'filesOfOutput'.
-
-
+All output files will be generated in this folder 'filesOfOutput'. Log will be automatically generated and stored in the folder 'log'.
 
 
 ## Acknowledgment and Contributions:
+This suite of software packages was initiated in 2014, and was developed and extended over the next few years until 2020. This software suite was developed around OpenPA (first version) that is an open-source AC power flow tool developed by PowerData Corpration, Incremental Systems Corporation. Their copyright note is included in each of the code file in the folder 'src/com/powerdata/'. Some modifications were made to best interface with other codes for RTCA, TS, and SCED.
 
+Xingpeng Li was the main coder/developer with the support from the teammates (co-authors of the aforementioned papers) under the supervision of Prof. Kory W. Hedman at Arizona State University (ASU) in 2013 - 2017. At ASU, this work was supported by 1) the Department of Energy Advanced Research Projects Agency - Energy (ARPA-E), under the Green Electricity Network Integration program and under the Network Optimized Distributed Energy Systems program, and 2) the National Science Foundation (NSF) award (1449080). In 2018-2020, some further modifications were made and a few new classes were created by Xingpeng Li at the University of Houston. 
 
 
 ## Citation:
@@ -135,7 +228,7 @@ Website: <a class="off" href="/"  target="_blank">https://rpglab.github.io/</a>
 ## License:
 This work is licensed under the terms of the <a class="off" href="https://creativecommons.org/licenses/by/4.0/"  target="_blank">Creative Commons Attribution 4.0 (CC BY 4.0) license.</a>
 
-(Note that the codes under folder 'src/com/powerdata/*' were developed by PowerData Corpration, Incremental Systems Corporation. They are under a different license: BSD-3-Clause license; their copyright note is provided in each of the code file in this folder.
+Note that the codes under folder 'src/com/powerdata/' were developed by PowerData Corpration, Incremental Systems Corporation. They are under a different license: BSD-3-Clause license; their copyright note is provided in each of the code file in this folder.
 
 
 ## Disclaimer:
