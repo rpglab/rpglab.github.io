@@ -7,11 +7,11 @@ year: 2023
 ref: Mingjian Tuo et al, arXiv, 2023.
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/ftp/arxiv/papers/2309/2309.02650.pdf
 codes: 
 data: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2309.02650
 ---
 
 # Abstract
