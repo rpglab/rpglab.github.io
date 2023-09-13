@@ -19,6 +19,8 @@ This is a list of our papers with open-source data and/or codes. The following l
 This list will be updated as we release more codes and data along with our research papers. Note that we also released some good codes/data that are not associated with any publications and thus are not covered by the following papers.
 
 ## The List in Reverse Chronological Order:
+* Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *IEEE Transactions on Power Systems*, early access, Sep. 2023. <a class="" target="_blank" href="/papers/ArunR_ST-C-V_R-SCUC/">[Link Here]</a>
+
 * Mingjian Tuo and Xingpeng Li, “Selectively Linearized Neural Network based RoCoF-Constrained Unit Commitment in Low-Inertia Power Systems”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023, accepted for publication. <a class="" target="_blank" href="/papers/MJ-Tuo_SLNN-RCUC/">[Link Here]</a>
 
 * Mingjian Tuo and Xingpeng Li, “Active Linearized Sparse Neural Network-based Frequency-Constrained Unit Commitment”, *arXiv:2307.04880*, Jul. 2023. <a class="" target="_blank" href="/papers/MJ-Tuo-ALSNN-RCUC/">[Link Here]</a>
