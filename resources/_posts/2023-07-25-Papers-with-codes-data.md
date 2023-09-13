@@ -53,8 +53,27 @@ This list will be updated as we release more codes and data along with our resea
 
 * Xingpeng Li and Qianxue Xia, “Stochastic Optimal Power Flow with Network Reconfiguration: Congestion Management and Facilitating Grid Integration of Renewables”, *IEEE PES T&D Conference & Exposition*, (Virtually), Chicago, IL, USA, Oct. 2020. <a class="" target="_blank" href="/papers/XLI-QX-SOPFwNR/">[Link Here]</a>
 
+* Xingpeng Li, Akshay S. Korad, and Pranavamoorthy Balasubramanian, “Sensitivity Factors based Transmission Network Topology Control for Violation Relief,” *IET Generation, Transmission and Distribution*, vol. 14, no. 17, pp. 3539-3547, Sep. 2020. <a class="" target="_blank" href="/papers/LODF-CTS_IET-GTD/">[Link Here]</a>
+
+* Xingpeng Li, “Fast Heuristic AC Power Flow Analysis with Data-Driven Enhanced Linearized Model,” *Energies*, 13(13), 3308, Jun. 2020. <a class="" target="_blank" href="/papers/XLI-DD-ACPF-Energies/">[Link Here]</a>
+
+* Xingpeng Li and Kory W. Hedman, “Enhancing Power System Cyber-Security with Systematic Two-Stage Detection Strategy,” __*IEEE Transactions on Power Systems*__, vol. 35, no. 2, pp. 1549-1561, Mar. 2020. <a class="" target="_blank" href="/papers/XLI-CyberSecurity/">[Link Here]</a>
+
 * Xingpeng Li and Qianxue Xia, “Power System Expansion Planning with Seasonal Network Optimization,” *Innovative Smart Grid Technologies (ISGT)*, Washington D.C., USA, Feb. 2020. <a class="" target="_blank" href="/papers/XLI-QX-TEPwSNO/">[Link Here]</a>
 
+* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part I: Methodology,” __*IEEE Transactions on Power Systems*__, vol. 34, no. 6, pp. 4490-4502, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-I/">[Link Here]</a>
+
+* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part II: Results and Discussion,” __*IEEE Transactions on Power Systems*__, vol. 34, no. 6, pp. 4503-4513, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-II/">[Link Here]</a>
+
+* Xingpeng Li, Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Mojdeh Abdi-Khorsand, Kory W. Hedman, and Robin Podmore, “Real-Time Contingency Analysis with Correct Transmission Switching,” __*IEEE Transactions on Power Systems*__, vol. 32, no. 4, pp. 2604-2617, Jul. 2017. <a class="" target="_blank" href="/papers/XLI-RTCAwCTS/">[Link Here]</a>
+
+* Xingpeng Li, Pranavamoorthy Balasubramanian, and Kory W. Hedman, “A Data-driven Heuristic for Corrective Transmission Switching,” *North American Power Symposium (NAPS)*, Denver, CO, USA, Sep. 2016. <a class="" target="_blank" href="/papers/XLI-NAPS-DD-CTS/">[Link Here]</a>
+
+* Mostafa Sahraei-Ardakani, Xingpeng Li, Pranavamoorthy Balasubramanian, Kory W. Hedman, and Mojdeh Abdi-Khorsand, “Real-Time Contingency Analysis with Transmission Switching on Real Power System Data,” __*IEEE Transactions on Power Systems*__, vol. 31, no. 3, pp. 2501-2502, May 2016. <a class="" target="_blank" href="/papers/RTCAwTS-ASU-Letter/">[Link Here]</a>
+
+* Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Xingpeng Li, and Kory W. Hedman, “Towards Smart Corrective Switching: Analysis and Advancement of PJM’s Switching Solutions,” *IET Generation, Transmission, and Distribution*, vol. 10, no. 8, pp. 1984-1992, May 2016. <a class="" target="_blank" href="/papers/Pranav-PJM_Switching_Soln/">[Link Here]</a>
+
+* Xingpeng Li, Pranavamoorthy Balasubramanian, Mojdeh Abdi-Khorsand, Akshay S. Korad, and Kory W. Hedman, “Effect of Topology Control on System Reliability: TVA Test Case,” *CIGRE US National Committee Grid of the Future Symposium*, Houston, TX, USA, Oct. 2014. <a class="" target="_blank" href="/papers/XLi-ASU-Cigre/">[Link Here]</a>
 
 
 ## Contact:
