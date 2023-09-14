@@ -7,6 +7,7 @@ year: 2016
 ref: Xingpeng Li et al, North American Power Symposium (NAPS), 2016.
 journal: "North American Power Symposium (NAPS)"
 pdf: /pdfs/papers/20160901-XLI-NAPS-DD-CTS.pdf
+codes: /resources/GRTOS-Java/
 doi: 10.1109/NAPS.2016.7747894 
 ---
 

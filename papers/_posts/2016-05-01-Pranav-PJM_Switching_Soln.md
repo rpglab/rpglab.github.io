@@ -7,6 +7,7 @@ year: 2016
 ref: Pranavamoorthy Balasubramanian et al, IET Generation, Transmission, and Distribution, 2016.
 journal: "IET Generation, Transmission, and Distribution"
 pdf: /pdfs/papers/20160501_PJM_Switching_Soln.pdf
+codes: /resources/GRTOS-Java/
 doi: 10.1049/iet-gtd.2015.1362
 ---
 

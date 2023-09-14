@@ -88,7 +88,7 @@ The TSAT contingency dynamic simulation considering trip of a generator can be c
 ## Citation:
 If you use any of our codes/data for your work, please cite the following paper as your reference:
 
-Mingjian Tuo and Xingpeng Li, “Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Grids”, *IEEE Transaction on Power Systems*, Oct. 2022.
+Mingjian Tuo and Xingpeng Li, “Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Grids”, *IEEE Transactions on Power Systems*, Oct. 2022.
 
 
 (DOI: 10.1109/TPWRS.2022.3215915)
