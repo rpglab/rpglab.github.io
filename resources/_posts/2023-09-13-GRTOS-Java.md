@@ -6,7 +6,7 @@ type: Java Code
 zip: 
 timeInit: 2023-09-13
 time: 2023-09-13
-github: 
+github: https://github.com/rpglab/GRTOS
 paper: 
 link: 
 doi: 
@@ -20,21 +20,21 @@ This is a software suite for power grid real-time energy management system (EMS)
 #### Papers from this GRTOS software:
 With this software, we were able to publish multiple papers, some of which are provided below:
 
-* Xingpeng Li, Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Mojdeh Abdi-Khorsand, Kory W. Hedman, and Robin Podmore, “Real-Time Contingency Analysis with Correct Transmission Switching,” __*IEEE Transactions on Power Systems*__, vol. 32, no. 4, pp. 2604-2617, Jul. 2017. <a class="" target="_blank" href="/papers/XLI-RTCAwCTS/">[Link Here]</a>
+* Xingpeng Li, Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Mojdeh Abdi-Khorsand, Kory W. Hedman, and Robin Podmore, “Real-Time Contingency Analysis with Correct Transmission Switching,” *<u>IEEE Transactions on Power Systems</u>*, vol. 32, no. 4, pp. 2604-2617, Jul. 2017. <a class="" target="_blank" href="/papers/XLI-RTCAwCTS/">[Link Here]</a>
 
-* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part I: Methodology,” __*IEEE Transactions on Power Systems*__, vol. 34, no. 6, pp. 4490-4502, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-I/">[Link Here]</a>
+* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part I: Methodology,” *<u>IEEE Transactions on Power Systems</u>*, vol. 34, no. 6, pp. 4490-4502, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-I/">[Link Here]</a>
 
-* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part II: Results and Discussion,” __*IEEE Transactions on Power Systems*__, vol. 34, no. 6, pp. 4503-4513, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-II/">[Link Here]</a>
+* Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part II: Results and Discussion,” *<u>IEEE Transactions on Power Systems</u>*, vol. 34, no. 6, pp. 4503-4513, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-II/">[Link Here]</a>
 
 * Xingpeng Li, Pranavamoorthy Balasubramanian, Mojdeh Abdi-Khorsand, Akshay S. Korad, and Kory W. Hedman, “Effect of Topology Control on System Reliability: TVA Test Case,” *CIGRE US National Committee Grid of the Future Symposium*, Houston, TX, USA, Oct. 2014. <a class="" target="_blank" href="/papers/XLi-ASU-Cigre/">[Link Here]</a>
 
 * Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Xingpeng Li, and Kory W. Hedman, “Towards Smart Corrective Switching: Analysis and Advancement of PJM’s Switching Solutions,” *IET Generation, Transmission, and Distribution*, vol. 10, no. 8, pp. 1984-1992, May 2016. <a class="" target="_blank" href="/papers/Pranav-PJM_Switching_Soln/">[Link Here]</a>
 
-* Mostafa Sahraei-Ardakani, Xingpeng Li, Pranavamoorthy Balasubramanian, Kory W. Hedman, and Mojdeh Abdi-Khorsand, “Real-Time Contingency Analysis with Transmission Switching on Real Power System Data,” __*IEEE Transactions on Power Systems*__, vol. 31, no. 3, pp. 2501-2502, May 2016. <a class="" target="_blank" href="/papers/RTCAwTS-ASU-Letter/">[Link Here]</a>
+* Mostafa Sahraei-Ardakani, Xingpeng Li, Pranavamoorthy Balasubramanian, Kory W. Hedman, and Mojdeh Abdi-Khorsand, “Real-Time Contingency Analysis with Transmission Switching on Real Power System Data,” *<u>IEEE Transactions on Power Systems</u>*, vol. 31, no. 3, pp. 2501-2502, May 2016. <a class="" target="_blank" href="/papers/RTCAwTS-ASU-Letter/">[Link Here]</a>
 
 * Xingpeng Li, Pranavamoorthy Balasubramanian, and Kory W. Hedman, “A Data-driven Heuristic for Corrective Transmission Switching,” *North American Power Symposium (NAPS)*, Denver, CO, USA, Sep. 2016. <a class="" target="_blank" href="/papers/XLI-NAPS-DD-CTS/">[Link Here]</a>
 
-* Xingpeng Li and Kory W. Hedman, “Enhancing Power System Cyber-Security with Systematic Two-Stage Detection Strategy,” __*IEEE Transactions on Power Systems*__, vol. 35, no. 2, pp. 1549-1561, Mar. 2020. <a class="" target="_blank" href="/papers/XLI-CyberSecurity/">[Link Here]</a>
+* Xingpeng Li and Kory W. Hedman, “Enhancing Power System Cyber-Security with Systematic Two-Stage Detection Strategy,” *<u>IEEE Transactions on Power Systems</u>*, vol. 35, no. 2, pp. 1549-1561, Mar. 2020. <a class="" target="_blank" href="/papers/XLI-CyberSecurity/">[Link Here]</a>
 
 * Xingpeng Li, “Fast Heuristic AC Power Flow Analysis with Data-Driven Enhanced Linearized Model,” *Energies*, 13(13), 3308, Jun. 2020. <a class="" target="_blank" href="/papers/XLI-DD-ACPF-Energies/">[Link Here]</a>
 
