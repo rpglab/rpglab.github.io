@@ -16,6 +16,8 @@ description: "This is a software suite for power grid real-time energy managemen
 
 This is a software suite for power grid real-time energy management system (EMS). It consists of multiple modules: AC power flow, AC real-time contingency analysis (RTCA), AC transmission switching (TS), real-time security-constrained economic dispatch (RT-SCED), and interfacing of information flow between all these modules.
 
+This tool has multiple attributes: generation of sensitivity factors including PTDF, LODF, OTDF, TSDF; easy data retrieve capability such as bus group class; dynamic radial line identification, identification of nearby elements, calculation of distance between two elements in terms of number of buses in between; I/O classes; HPC/Parallel Computing versions for AC N-1 contingency analysis, and AC transmission switching. This tool enabled the publication of 10+ papers, including 5 TPWRS papers.
+
 
 #### Papers from this GRTOS software:
 With this software, we were able to publish multiple papers, some of which are provided below:
