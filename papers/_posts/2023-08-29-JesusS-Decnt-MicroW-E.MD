@@ -7,10 +7,10 @@ year: 2023
 ref: Jesus Silva-Rodriguez et al, arXiv 2023. 
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.01681.pdf
 codes: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2310.01681
 ---
 
 # Abstract
