@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Grid Real-Time Operation Simulator (GRTOS) software suite 
+title: Grid Real-Time Operation Simulator (GRTOS) software suite in Java
 authors: Xingpeng Li
 type: Java Code
 zip: 

@@ -8,6 +8,7 @@ ref: Jonathan Yang et al, arXiv, 2023.
 journal: "arXiv"
 pdf: 
 webpdf: 
+codes: /resources/ML-EROCT-LF_Python/
 doi: 
 arxiv: 
 researchgate: 
@@ -21,3 +22,6 @@ Deep learning, Electric power system, ERCOT, Feature selection, Long-term recurr
 
 # Cite this paper:
 Jonathan Yang, Mingjian Tuo, Jin Lu, and Xingpeng Li, “Analysis of Weather and Time Features in Machine Learning-aided ERCOT Load Forecasting", *arXiv*, Oct. 2023.
+
+# Contributions:
+Jonathan developed the codes, trained/evaluated the ML models, and analyzed the results. Mingjian provided guidance for ML structure and helped with code debugging. Jin processed and provided the ERCOT load data and the weather data. Xingpeng supervised this work and analyzed the results. All authors contributed to the paper writing and revisions.
