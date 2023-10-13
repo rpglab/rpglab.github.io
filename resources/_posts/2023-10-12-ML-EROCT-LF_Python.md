@@ -45,6 +45,9 @@ Raw weather data are from the Phase 2 of the North American Lan Data Assimilatio
 Please refer to the paper below for more details about the data sources.
 
 
+### Reference:
+Initial reference codes: <a class="off" href="/resources/ML-Price-Prdctn/"  target="_blank">https://rpglab.github.io/resources/ML-Price-Prdctn/</a>
+
 ## Citation:
 If you use any of our codes/data for your work, please cite the following paper as your reference:
 
