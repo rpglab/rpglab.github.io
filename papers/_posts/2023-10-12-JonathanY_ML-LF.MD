@@ -7,10 +7,10 @@ year: 2023
 ref: Jonathan Yang et al, arXiv, 2023.  
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.08793.pdf
 codes: /resources/ML-EROCT-LF_Python/
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2310.08793
 researchgate: 
 ---
 
