@@ -7,10 +7,11 @@ year: 2023
 ref: Jin Lu et al, arXiv, 2023. 
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.08857.pdf
 codes: 
+data: https://figshare.com/articles/dataset/Future_Profiles_of_TX-123BT/22266991
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2310.08857
 ---
 
 # Abstract
