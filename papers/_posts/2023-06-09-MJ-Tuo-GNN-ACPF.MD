@@ -20,4 +20,4 @@ Power flow analysis plays a crucial role in examining the electricity flow withi
 DC power flow, Machine learning, Neural network, Power flow, Renewable energy, Transmission network.
 
 # Cite this paper:
-Mingjian Tuo, Xingpeng Li, and Tianxia Zhao, “Graph Neural Network-based Power Flow Model”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023, accepted for publication.
+Mingjian Tuo, Xingpeng Li, and Tianxia Zhao, “Graph Neural Network-based Power Flow Model”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023.

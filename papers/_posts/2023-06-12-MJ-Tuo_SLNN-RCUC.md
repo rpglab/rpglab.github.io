@@ -20,4 +20,4 @@ Conventional synchronous generators are gradually being replaced by inverter-bas
 Deep learning, Frequency stability, Low-inertia power systems, ReLU linearization, Rate of change of frequency, Unit commitment.
 
 # Cite this paper:
-Mingjian Tuo and Xingpeng Li, "Selectively Linearized Neural Network based RoCoF-Constrained Unit Commitment in Low-Inertia Power Systems", *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023, accepted for publication.
+Mingjian Tuo and Xingpeng Li, "Selectively Linearized Neural Network based RoCoF-Constrained Unit Commitment in Low-Inertia Power Systems", *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023.

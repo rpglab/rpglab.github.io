@@ -20,4 +20,4 @@ The aim of distribution networks is to meet their local area power demand with m
 Distribution network topology, Dynamic distribution system, Mixed-integer linear programming, Network reconfiguration, Power system flexibility, Topology control.
 
 # Cite this paper:
-Rida Fatima, Hassan Zahid Butt, and Xingpeng Li, “Optimal Dynamic Reconfiguration of Distribution Networks”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023, accepted for publication.
+Rida Fatima, Hassan Zahid Butt, and Xingpeng Li, “Optimal Dynamic Reconfiguration of Distribution Networks”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023.
