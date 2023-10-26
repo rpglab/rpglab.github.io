@@ -9,7 +9,7 @@ journal: "IEEE PES General Meeting"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2211/2211.11097.pdf
 codes: 
-doi: 
+doi: 10.1109/PESGM52003.2023.10252376
 arxiv: https://arxiv.org/abs/2211.11097
 ---
 
