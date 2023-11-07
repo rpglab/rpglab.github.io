@@ -8,6 +8,8 @@ image: /images/team/Cunzhi_Zhao.jpg
 cv: 
 index: "Microgrid energy management, Learning based battery degradation modeling"
 scholar: 
+PhDissertation: 
+PhDefenseSlides: /pdfs/team/2023-11-07_Cunzhi_Presentation.pdf
 linkedin: cunzhi-zhao-b50788102
 website: 
 calendar: 
@@ -38,8 +40,10 @@ B.S., Electrical Engineering, McNeese State University, 2015
 8. Ali Siddique, Cunzhi Zhao, and Xingpeng Li, “Microgrid Optimal Energy Scheduling with Risk Analysis”, *Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2023.
 9. Cunzhi Zhao, Xingpeng Li, and Yan Yao, “Quality Analysis of Battery Degradation Models with Real Battery Aging Experiment Data”, *Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2023.
 10. Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile”, *arXiv:2303.03386*, Mar. 2023.
+11. Cunzhi Zhao and Xingpeng Li, “Computational Enhancement for Day-Ahead Energy Scheduling with Sparse Neural Network-based Battery Degradation Model” *arXiv:2309.08853*, Sep. 2023.
+12. Cunzhi Zhao and Xingpeng Li, “Linearization of ReLU Activation Function for Neural Network-Embedded Optimization:  Optimal Day-Ahead Energy Scheduling” *arXiv:2310.01758*, Oct. 2023.
 
 
 ## Research Interests
-Microgrid Energy Management Strategy, Power System Optimization and Smart grids.
+Microgrid Energy Management Strategy, Battery Degradation, Power System Optimization and Smart grids.
 
