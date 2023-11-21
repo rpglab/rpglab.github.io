@@ -23,27 +23,27 @@ A few group photos were taken as attached below.
 </p>
 </div>
 
-![](/images/blog/2023.11.18_Thanksgiving_party/P1_dinner_time_Pano.jpg)
+![](/images/blog/2023.11.18_Thanksgiving_party/P1_UNO-game.jpg)
+<p></p>
+<span class="text-figure-legend" style="font-size:15px;">
+Figure 1. Game Time - UNO. (People from me in clockwise around the table: <a class="off" href="/people/Xingpeng_Li/">Xingpeng Li</a>, Qianxue Xia, <a class="off" href="/people/Jin-Lu/">Jin Lu</a>, <a class="off" href="/people/Amaze-Anna-Toms/">Amaze Anna Toms</a>, <a class="off" href="/people/Ann-Mary-Toms/">Ann Mary Toms</a>, <a class="off" href="/people/Jesus-SilvaRodriguez/">Jesus Silva-Rodriguez</a>, <a class="off" href="/people/Cunzhi-Zhao/">Cunzhi Zhao</a>, <a class="off" href="/people/Arun-Venkatesh-Ramesh/">Arun Venkatesh Ramesh</a>, <a class="off" href="/people/Elias_Raffoul/">Elias Raffoul</a>, <a class="off" href="/people/Rida-Fatima/">Rida Fatima</a>, <a class="off" href="/people/Hassan-Zahid-Butt/">Hassan Zahid Butt</a>)
+</span>
+
+![](/images/blog/2023.11.18_Thanksgiving_party/P2_Texas-Poker-last-round.jpg)
+<p></p>
+<span class="text-figure-legend" style="font-size:15px;">
+Figure 2. Game Time - Texas Poker - Last Round.
+</span>
+
+![](/images/blog/2023.11.18_Thanksgiving_party/P3_dinner_time_Pano.jpg)
 <p></p>
 <span class="text-figure-legend"  style="font-size:15px;">
-Figure 1. Dinner Time. (People from left to right: <a class="off" href="/people/Elias_Raffoul/">Elias Raffoul</a>, <a class="off" href="/people/Jesus-SilvaRodriguez/">Jesus Silva-Rodriguez</a>, <a class="off" href="/people/Hassan-Zahid-Butt/">Hassan Zahid Butt</a>, <a class="off" href="/people/Ann-Mary-Toms/">Ann Mary Toms</a>, <a class="off" href="/people/Rida-Fatima/">Rida Fatima</a>, <a class="off" href="/people/Amaze-Anna-Toms/">Amaze Anna Toms</a>, Qianxue Xia, <a class="off" href="/people/Jin-Lu/">Jin Lu</a>, <a class="off" href="/people/Arun-Venkatesh-Ramesh/">Arun Venkatesh Ramesh</a>, <a class="off" href="/people/Cunzhi-Zhao/">Cunzhi Zhao</a>)
+Figure 3. Dinner Time. (People from left to right: <a class="off" href="/people/Elias_Raffoul/">Elias Raffoul</a>, <a class="off" href="/people/Jesus-SilvaRodriguez/">Jesus Silva-Rodriguez</a>, <a class="off" href="/people/Hassan-Zahid-Butt/">Hassan Zahid Butt</a>, <a class="off" href="/people/Ann-Mary-Toms/">Ann Mary Toms</a>, <a class="off" href="/people/Rida-Fatima/">Rida Fatima</a>, <a class="off" href="/people/Amaze-Anna-Toms/">Amaze Anna Toms</a>, Qianxue Xia, <a class="off" href="/people/Jin-Lu/">Jin Lu</a>, <a class="off" href="/people/Arun-Venkatesh-Ramesh/">Arun Venkatesh Ramesh</a>, <a class="off" href="/people/Cunzhi-Zhao/">Cunzhi Zhao</a>)
 </span>
 
-![](/images/blog/2023.11.18_Thanksgiving_party/P2_Food-after-one-round.jpg)
+![](/images/blog/2023.11.18_Thanksgiving_party/P4_Food-after-one-round.jpg)
 <p></p>
 <span class="text-figure-legend" style="font-size:15px;">
-Figure 2. Dinner Buffet - food after one round... 
-</span>
-
-![](/images/blog/2023.11.18_Thanksgiving_party/P3_UNO-game.jpg)
-<p></p>
-<span class="text-figure-legend" style="font-size:15px;">
-Figure 3. Game Time - UNO. (People from me in clockwise around the table: <a class="off" href="/people/Xingpeng_Li/">Xingpeng Li</a>, Qianxue Xia, <a class="off" href="/people/Jin-Lu/">Jin Lu</a>, <a class="off" href="/people/Amaze-Anna-Toms/">Amaze Anna Toms</a>, <a class="off" href="/people/Ann-Mary-Toms/">Ann Mary Toms</a>, <a class="off" href="/people/Jesus-SilvaRodriguez/">Jesus Silva-Rodriguez</a>, <a class="off" href="/people/Cunzhi-Zhao/">Cunzhi Zhao</a>, <a class="off" href="/people/Arun-Venkatesh-Ramesh/">Arun Venkatesh Ramesh</a>, <a class="off" href="/people/Elias_Raffoul/">Elias Raffoul</a>, <a class="off" href="/people/Rida-Fatima/">Rida Fatima</a>, <a class="off" href="/people/Hassan-Zahid-Butt/">Hassan Zahid Butt</a>)
-</span>
-
-![](/images/blog/2023.11.18_Thanksgiving_party/P4_Texas-Poker-last-round.jpg)
-<p></p>
-<span class="text-figure-legend" style="font-size:15px;">
-Figure 4. Game Time - Texas Poker - Last Round.
+Figure 4. Dinner Buffet - food after one round... 
 </span>
 
