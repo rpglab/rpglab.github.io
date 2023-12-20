@@ -2,12 +2,12 @@
 layout: member
 title: Cunzhi Zhao
 position: PhD Student
-time: 2020.01 - present
+time: 2020.01 - 2023.12
 email: czhao29@cougarnet.uh.edu
 image: /images/team/Cunzhi_Zhao.jpg
 cv: 
 index: "Microgrid energy management, Learning based battery degradation modeling"
-scholar: 
+scholar: BUID9M8AAAAJ
 PhDissertation: 
 PhDefenseSlides: /pdfs/team/2023-11-07_Cunzhi_Presentation.pdf
 linkedin: cunzhi-zhao-b50788102
@@ -17,13 +17,18 @@ handle:
 github: 
 twitter: 
 facebook: 
-alumni: 
+alumni: true
 ---
 
-Cunzhi Zhao is a PhD student with the Department of Electrical and Computer Engineering at the University of Houston, Houston, TX, USA. Cunzhi started working in the RPG lab as a PhD student here in Jan. 2020.
+Cunzhi Zhao has received his PhD degree in Electrical Engineering from the University of Houston, Houston, TX, USA in December 2023. Cunzhi had worked in the RPG lab as a PhD student from Jan. 2020 to Dec. 2023.
+
+PhD Dissertation title: *"Optimal Energy Management for Battery Energy Storage System-Integrated Microgrids"*
+
+First Job: Assistant Professor (tenure-track), McNeese State University, Lake Charles, Louisiana, USA.
+
 
 ## Education
-PhD, Electrical Engineering, University of Houston, 2020 - present
+PhD, Electrical Engineering, University of Houston, 2020 - 2023
 
 M.S., Electrical Engineering, McNeese State University, 2018
 
