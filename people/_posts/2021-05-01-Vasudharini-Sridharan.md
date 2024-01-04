@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Vasudharini Sridharan
-position: Master Student
+position: MS Student
 time: 2020.06 - 2021.05
 email: 
 image: /images/team/Vasudharini_Sridharan.png

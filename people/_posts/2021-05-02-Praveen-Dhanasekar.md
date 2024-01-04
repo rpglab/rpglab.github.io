@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Praveen Dhanasekar
-position: Master Student
+position: MS Student
 time: 2020.06 - 2021.05
 email: 
 image: /images/team/Praveen_Dhanasekar.jpg

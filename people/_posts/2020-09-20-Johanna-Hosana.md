@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Johanna Hosana
-position: Master Student
+position: MS Student
 time: 2020.05 - 2020.09
 email: 
 image: /images/team/female.jpg
