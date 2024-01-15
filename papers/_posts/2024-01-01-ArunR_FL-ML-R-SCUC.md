@@ -3,8 +3,8 @@ layout: paper
 title: "Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations"
 image: 
 authors: Arun Venkatesh Ramesh, Xingpeng Li.
-year: 2023
-ref: Arun Venkatesh Ramesh et al, IEEE Transactions on Power Systems, 2023.
+year: 2024
+ref: Arun Venkatesh Ramesh et al, IEEE Transactions on Power Systems, 2024.
 journal: "IEEE Transactions on Power Systems"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2208/2208.06742.pdf
@@ -21,5 +21,5 @@ Day-ahead operations involves a complex and computationally intensive optimizati
 Constraint reduction, Model reduction, Variable reduction, Logistic regression, Neural network, Random forest, K-nearest neighbor, Machine learning, Mixedinteger linear programming, Security-constrained unit commitment.
 
 # Cite this paper:
-Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations”, *IEEE Transactions on Power Systems*, Apr. 2023.
+Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations”, *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1594-1606, Jan. 2024.
 
