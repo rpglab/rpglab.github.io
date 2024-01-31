@@ -3,9 +3,9 @@ layout: paper
 title: "Decentralized Micro Water-Energy Co-Optimization for Small Communities"
 image: 
 authors: Jesus Silva-Rodriguez, Xingpeng Li.
-year: 2023
-ref: Jesus Silva-Rodriguez et al, arXiv 2023. 
-journal: "arXiv"
+year: 2024
+ref: Jesus Silva-Rodriguez et al, Electric Power Systems Research, 2024. 
+journal: "Electric Power Systems Research"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.01681.pdf
 codes: 
@@ -22,5 +22,5 @@ ADMM, Decentralized Co-Optimization, Objective-Based, Water-Energy Nexus.
 
 
 # Cite this paper:
-Jesus Silva-Rodriguez and Xingpeng Li, “Decentralized Micro Water-Energy Co-Optimization for Small Communities”, *arXiv*, Sep. 2023.
+Jesus Silva-Rodriguez and Xingpeng Li, “Decentralized Micro Water-Energy Co-Optimization for Small Communities”, *Electric Power Systems Research*, Accepted for publication, Feb. 2024.
 
