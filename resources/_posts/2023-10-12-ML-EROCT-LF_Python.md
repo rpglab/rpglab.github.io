@@ -52,7 +52,7 @@ Initial reference codes: <a class="off" href="/resources/ML-Price-Prdctn/"  targ
 ## Citation:
 If you use any of our codes/data for your work, please cite the following paper as your reference:
 
-Jonathan Yang, Mingjian Tuo, Jin Lu, and Xingpeng Li, “Analysis of Weather and Time Features in Machine Learning-aided ERCOT Load Forecasting”, *arXiv*, Oct. 2023.
+Jonathan Yang, Mingjian Tuo, Jin Lu, and Xingpeng Li, “Analysis of Weather and Time Features in Machine Learning-aided ERCOT Load Forecasting”, *Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2024.
 
 Paper website: <a class="off" href="/papers/JonathanY_ML-LF/"  target="_blank">https://rpglab.github.io/papers/JonathanY_ML-LF/</a>
 
