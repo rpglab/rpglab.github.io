@@ -5,21 +5,27 @@ authors: Xingpeng Li, and ALL
 type: OpenWork
 zip: 
 timeInit: 2023-07-25
-time: 2023-07-25
+time: 2024-02-22
 github: 
 doi: 
 description: "This is a list of our papers with open-source data and/or codes"
 ---
 
-Last updated on: September 13, 2023.
+Last updated on: February 22, 2024.
 
 ## Overview
-This is a list of our __29 papers__ with open-source data and/or codes, including *<u>11 paper published in IEEE Transactions journals</u>*. The following list will direct you to the paper webpage, where you can find the associated data/codes. Pre-prints may also be included here.
+This is a list of our __31 papers__ with open-source data and/or codes, including *<u>11 paper published in IEEE Transactions journals</u>*. The following list will direct you to the paper webpage, where you can find the associated data/codes. Pre-prints may also be included here.
 
 This list will be updated as we release more codes and data along with our research papers. Note that we also released some good codes/data that are not associated with any publications and thus are not covered by the following papers.
 
+
 ## The List in Reverse Chronological Order:
-* Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *<u>IEEE Transactions on Power Systems</u>*, early access, Sep. 2023. <a class="" target="_blank" href="/papers/ArunR_ST-C-V_R-SCUC/">[Link Here]</a>
+
+* Thuan Pham and Xingpeng Li, “Reduced Optimal Power Flow Using Graph Neural Network”, *North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022. <a class="" target="_blank" href="/papers/ThuanP-GNN-ROPF/">[Link Here]</a>
+
+* Jonathan Yang, Mingjian Tuo, Jin Lu, and Xingpeng Li, “Analysis of Weather and Time Features in Machine Learning-aided ERCOT Load Forecasting”, *Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2024. <a class="" target="_blank" href="/papers/JonathanY_ML-LF/">[Link Here]</a>
+
+* Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *<u>IEEE Transactions on Power Systems</u>*, Sep. 2023. <a class="" target="_blank" href="/papers/ArunR_ST-C-V_R-SCUC/">[Link Here]</a>
 
 * Mingjian Tuo and Xingpeng Li, “Selectively Linearized Neural Network based RoCoF-Constrained Unit Commitment in Low-Inertia Power Systems”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023, accepted for publication. <a class="" target="_blank" href="/papers/MJ-Tuo_SLNN-RCUC/">[Link Here]</a>
 
