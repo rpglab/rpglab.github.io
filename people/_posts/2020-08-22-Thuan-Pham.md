@@ -19,9 +19,9 @@ alumni:
 ---
 
 
-Thuan Pham is currently a Ph.D. student with the Electrical and Computer Engineering (ECE) department at the University of Houston. His research focuses on applying machine learning algorithm, specifically graph neural network, toward power system operation and optimization.
+Thuan Pham is currently a Ph.D. student in the Electrical and Computer Engineering (ECE) department at the University of Houston. His research focuses on applying machine learning algorithms, specifically graph neural networks, toward power system operation and optimization.
  
-Thuan is a licensed professional engineer in Texas with 6+ years of electrical substation design experience. He is currently working as Relay Engineer at Blue Ridge Power.
+Thuan is a licensed professional engineer in Texas with 8+ years of electrical substation design experience. He is currently working as a Senior Electrical Engineer at TotalEnergies Renewable.
 
 ## Education
 University of Houston, Houston, TX, USA
@@ -40,6 +40,7 @@ University of Houston, Houston, TX, USA
 ## Publications at UH RPG Lab 
 1. Thuan Pham and Xingpeng Li, “Neural Network-based Power Flow Model”, *IEEE Green Technology Conference*, Houston, TX, USA, Mar. 2022.
 2. Thuan Pham and Xingpeng Li, “Reduced Optimal Power Flow Using Graph Neural Network”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
+3. Thuan Pham and Xingpeng Li, “N-1 Reduced Optimal Power Flow Using Augmented Hierarchical Graph Neural Network”, *ArXiv*.
 
 
 
