@@ -7,7 +7,7 @@ title: Prospective Students
 
 <div class="smallhead mb-1" style="font-size:18px;">
       <p>
-For prospective students who are interested in our research and want to join our group, please feel free to send <a class="" href="/people/Xingpeng-Li/">me</a> your full CV, transcripts, test scores for GRE and TOEFL (if applicable). Openings for PhD students and Post-docs are highly dependent on funding availability. 
+For prospective students who are interested in our research and want to join our group, please feel free to send <a class="" href="/people/Xingpeng-Li/">me</a> your full CV, transcripts, test scores for GRE and TOEFL (if applicable).
       </p>
 </div>
 
