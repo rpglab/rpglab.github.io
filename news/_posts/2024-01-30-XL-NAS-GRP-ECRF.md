@@ -18,8 +18,8 @@ description: "Congratulations to Xingpeng Li for being selected as an Early-Care
 <span class="text-figure-legend" style="font-size:15px;">
 Figure 1. <a class="" href="https://www.nationalacademies.org/news/2024/01/gulf-research-program-announces-newest-cohorts-of-early-career-research-fellows-in-offshore-energy-safety-and-education-research" target="_blank">Snapshot of the official News Release for GRP ECRF 2023-2025</a>:
 </span>
-![](/images/news/2024.01.30_NASEM_GRP_ECRF/News_Release_1.jpg)
-![](/images/news/2024.01.30_NASEM_GRP_ECRF/News_Release_2.jpg)
+![](/images/news/2024.01.30_NASEM_GRP_ECRF/News_Release_1.JPG)
+![](/images/news/2024.01.30_NASEM_GRP_ECRF/News_Release_2.JPG)
 <span class="text-figure-legend" style="font-size:15px;">
      ...
 </span>
