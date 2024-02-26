@@ -13,5 +13,14 @@ description: "Congratulations to Xingpeng Li for being selected as an Early-Care
 * As one of the Five fellows in the Offshore Energy Safety track, LI will join the track working toward improving the understanding, management, and reduction of systemic risk in offshore energy activities.
 
 
-
+<div class="spacer"></div>
+<p></p>
+<span class="text-figure-legend" style="font-size:15px;">
+Figure 1. <a class="" href="https://www.nationalacademies.org/news/2024/01/gulf-research-program-announces-newest-cohorts-of-early-career-research-fellows-in-offshore-energy-safety-and-education-research" target="_blank">Snapshot of the official News Release for GRP ECRF 2023-2025</a>:
+</span>
+![](/images/news/2024.01.30_NASEM_GRP_ECRF/News_Release_1.jpg)
+![](/images/news/2024.01.30_NASEM_GRP_ECRF/News_Release_2.jpg)
+<span class="text-figure-legend" style="font-size:15px;">
+     ...
+</span>
 
