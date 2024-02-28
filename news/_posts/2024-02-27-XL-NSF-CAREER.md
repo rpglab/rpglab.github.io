@@ -8,6 +8,9 @@ description: "Congratulations to Xingpeng Li for receiving the prestigious NSF C
 
 * Congratulations to <a href="/people/Xingpeng-Li" class="">Xingpeng Li</a> for receiving the prestigious <a class="" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337598&HistoricalAwards=false" target="_blank">NSF CAREER Award</a>, from the National Science Foundation (NSF). NSF CAREER Award is a major milestone and achievement for Early-Career Faculties.
 
+* Project Title: "CAREER: Frequency-Constrained Energy Scheduling for Renewable-Dominated Low-Inertia Power Systems
+"
+
 * The total amount of NSF fund is $503,619, supporting our relevant research activities. 
 
 * The estimated Period of Performance is: 5 years or 60 months.
