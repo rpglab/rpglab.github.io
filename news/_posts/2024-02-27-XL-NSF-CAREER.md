@@ -6,11 +6,11 @@ link:
 description: "Congratulations to Xingpeng Li for receiving the prestigious NSF CAREER Award, a major milestone and achievement for an Early-Career Faculty. Funding: $503,619, an award over five years."
 ---
 
-* Congratulations to <a href="/people/Xingpeng-Li" class="">Xingpeng Li</a> for receiving the prestigious <a class="" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337598&HistoricalAwards=false" target="_blank">NSF CAREER Award</a>, the National Science Foundation.
+* Congratulations to <a href="/people/Xingpeng-Li" class="">Xingpeng Li</a> for receiving the prestigious <a class="" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337598&HistoricalAwards=false" target="_blank">NSF CAREER Award</a>, from the National Science Foundation (NSF). NSF CAREER Award is a major milestone and achievement for Early-Career Faculties.
 
-* The fund of this NSF CAREER Award is $503,619, supporting our relevant research activities. 
+* The total amount of NSF fund is $503,619, supporting our relevant research activities. 
 
-* The project period is 5 years or 60 months.
+* The estimated Period of Performance is: 5 years or 60 months.
 
 
 
