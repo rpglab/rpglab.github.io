@@ -4,7 +4,7 @@ title: Xingpeng Li
 rolePI: true
 position: Assistant Professor
 email: xli83@central.uh.edu
-image: /images/team/Xingpeng_Li_3.jpg
+image: /images/team/Xingpeng_Li_4.jpg
 cv: 
 scholar: h-7IdisAAAAJ
 PhDissertation: /pdfs/team/2017-XLi-Dissertation.pdf
