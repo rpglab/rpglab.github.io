@@ -1,12 +1,12 @@
 ---
 layout: newsitem
-title: Three RPGLab members at the UH Energy Symposuim "The Gulf Coast Hydrogen Ecosystem - Opportunities and Solutions"
+title: Three RPGLab members at the Hydrogen Energy Symposuim 
 time: 2024-04-17
 link: 
 description: "Ann Mary Toms, Jin Lu, and Jesus Silva-Rodriguez presented their hydrogen energy-related work at this Symposuim."
 ---
 
-Three PhD students from our lab, Ann Mary Toms, Jin Lu, and Jesus Silva-Rodriguez, presented their hydrogen energy-related work at the Hydrogen Symposuim organized by UH Energy on April 17, including <a href="/people/Ann-Mary-Toms" class="" target="_blank">Ann Mary Toms</a>, <a href="/people/Jin-Lu" class="" target="_blank">Jin Lu</a>, <a href="/people/Jesus-SilvaRodriguez" class="" target="_blank">Jesus Silva-Rodriguez</a>.
+Three PhD students from our lab presented their hydrogen energy-related work at the Symposuim of "The Gulf Coast Hydrogen Ecosystem - Opportunities and Solutions" organized by UH Energy on April 17. They are <a href="/people/Ann-Mary-Toms" class="off" target="_blank">Ann Mary Toms</a>, <a href="/people/Jin-Lu" class="off" target="_blank">Jin Lu</a>, <a href="/people/Jesus-SilvaRodriguez" class="off" target="_blank">Jesus Silva-Rodriguez</a>.
 
 Their poster presentation titles are:
 * Achieving Offshore Microgrid Energy Independence: Optimized On-site Renewable Resource Capacity @<a href="/people/Ann-Mary-Toms" class="" target="_blank">Ann Mary Toms</a>
