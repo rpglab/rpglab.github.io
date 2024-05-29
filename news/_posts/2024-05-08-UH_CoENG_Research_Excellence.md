@@ -21,9 +21,9 @@ Figure 1. The award certificate.
 <div class="spacer"></div>
 
 
-![](/images/news/2024.05.08_XL_ENG_Research_Excellence/News_release_1.jpg)
+![](/images/news/2024.05.08_XL_ENG_Research_Excellence/News_release_1.JPG)
 <p></p>
-![](/images/news/2024.05.08_XL_ENG_Research_Excellence/News_release_2.jpg)
+![](/images/news/2024.05.08_XL_ENG_Research_Excellence/News_release_2.JPG)
 <p></p>
 <span class="text-figure-legend" style="font-size:15px;">
 Figure 2. <a href="https://www.egr.uh.edu/news/202405/college-recognizes-outstanding-personnel-2023-24-faculty-and-staff-excellence-awards" class="" target="_blank">The news release</a>. 
