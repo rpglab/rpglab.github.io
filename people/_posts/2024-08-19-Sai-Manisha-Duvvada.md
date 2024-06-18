@@ -4,7 +4,7 @@ title: Sai Manisha Duvvada
 position: Incoming PhD Student
 time: 2024.08 - present
 email: sduvvada@cougarnet.uh.edu
-image: /images/team/Sai_Manisha_Duvvada.jpg
+image: /images/team/Sai_Manisha_Duvvada.JPG
 cv: 
 index: "Machine learning, microgrid energy management, "
 scholar: 
