@@ -48,6 +48,7 @@ He is also the Associate Director of the Power Electronics, Microgrids & Subsea 
 * ECE 3340 Numerical Methods
 
 ## Awards & Honors
+* <a class="" href="/news/UH_CoENG_Research_Excellence/" target="_blank">Junior Faculty Research Excellence Award</a>, College of Engineering, University of Houston, 2024
 * <a class="" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337598&HistoricalAwards=false" target="_blank">NSF CAREER Award</a>, National Science Foundation (NSF), USA, 2024
 * <a class="" href="https://www.nationalacademies.org/news/2024/01/gulf-research-program-announces-newest-cohorts-of-early-career-research-fellows-in-offshore-energy-safety-and-education-research" target="_blank">Early-Career Research Follow</a>, NAS Gulf Research Program, USA, 2023
 * <a class="" href="/news/NASA-Recogntn_LunarPower/" target="_blank">Recognition of Excellence</a>, EVA and Human Surface Mobility Program of NASA, USA, 2023
