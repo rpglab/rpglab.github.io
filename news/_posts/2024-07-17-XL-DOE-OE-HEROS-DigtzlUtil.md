@@ -14,7 +14,7 @@ description: "Our lab is selected as a Phase-I Data Track winner for the DOE Off
 
 * The short Entry title: EV load-accelerated Cable Failure and Replacement.
 
-* Our Utility Partner: CenterPoint Energy (CNP).
+* Our Utility Partner: CenterPoint Energy (CNP), serving 2.8 million customers in the Greater Houston region.
 
 * Summary of proposed work: "This team plans to develop a data-driven proactive cable replacement method, aiming to address CNP’s concern on accelerated cable degradation and failure due to fast-growing EVs. Particularly, they will focus on projecting EV adoption rate and estimate future load profiles, as well as predicting cable remaining useful life (RUL) and estimating when the cable would fail and must be replaced."
 
