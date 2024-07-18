@@ -1,6 +1,6 @@
 ---
 layout: newsitem
-title: Selected as a Winning Team by DOE OE for Digitizing Utilities Prize (Round 2)
+title: Selected as a Winning Team by DOE OE for Digitizing Utilities Prize
 time: 2024-07-17
 link: 
 description: "Our lab is selected as a Phase-I Data Track winner for the DOE Office of Electricity (OE)'s Digitizing Utilities Prize (Round 2) competition program. Phase-I cash/prize award amount: $75,000."
