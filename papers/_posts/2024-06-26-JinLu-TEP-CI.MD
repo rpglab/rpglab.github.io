@@ -3,9 +3,9 @@ layout: paper
 title: "Transmission Planning for Climate-impacted Renewable Energy Grid: Data Preparation, Model Improvement, and Evaluation"
 image: 
 authors: Jin Lu, Xingpeng Li.
-year: 2023
-ref: Jin Lu et al, arXiv, 2023. 
-journal: "arXiv"
+year: 2024
+ref: Jin Lu et al, Journal of Modern Power Systems and Clean Energy, 2024. 
+journal: "Journal of Modern Power Systems and Clean Energy"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.08857.pdf
 codes: 
@@ -21,4 +21,4 @@ As renewable energy is becoming the major resource in future grids, the weather 
 Generation investment, Power system dataset, Power system planning, Renewable energy, Reliability index and evaluation, Transmission expansion planning.
 
 # Cite this paper:
-Jin Lu and Xingpeng Li, “Transmission Planning for Climate-impacted Renewable Energy Grid: Data Preparation, Model Improvement, and Evaluation”, *arXiv*, Oct. 2023.
+Jin Lu and Xingpeng Li, “Transmission Planning for Climate-impacted Renewable Energy Grid: Data Preparation, Model Improvement, and Evaluation”, *Journal of Modern Power Systems and Clean Energy*, accepted for publication, 2024.
