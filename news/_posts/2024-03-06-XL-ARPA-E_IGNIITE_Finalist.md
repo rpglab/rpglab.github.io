@@ -25,43 +25,43 @@ description: "Congratulations to Xingpeng Li for being selected as a finalist fo
 
 Figure 1. IGNIITE Poster session - ARPA-E banner:
 <div class="smallspacer"></div>
-![](/images/news/2024.03.06_IGNIITE-Finalist/ARPA-E.JPG)
+![](/images/news/2024.03.06_IGNIITE-Finalist/ARPA-E.jpg)
 <div class="spacer"></div>
 <div class="spacer"></div>
 
 Figure 2. IGNIITE Finalist meeting event Brochure page 2 - program introduction:
 <div class="smallspacer"></div>
-![](/images/news/2024.03.06_IGNIITE-Finalist/Page_02.JPG)
+![](/images/news/2024.03.06_IGNIITE-Finalist/Page_02.jpg)
 <div class="spacer"></div>
 <div class="spacer"></div>
 
 Figure 3. IGNIITE Finalist meeting event Brochure page 3 - Agenda:
 <div class="smallspacer"></div>
-![](/images/news/2024.03.06_IGNIITE-Finalist/Page_03.JPG)
+![](/images/news/2024.03.06_IGNIITE-Finalist/Page_03.jpg)
 <div class="spacer"></div>
 <div class="spacer"></div>
 
 Figure 4. IGNIITE Finalist meeting event Brochure page 5 - list of 49 finalists:
 <div class="smallspacer"></div>
-![](/images/news/2024.03.06_IGNIITE-Finalist/Page_05.JPG)
+![](/images/news/2024.03.06_IGNIITE-Finalist/Page_05.jpg)
 <div class="spacer"></div>
 <div class="spacer"></div>
 
 Figure 5. IGNIITE Finalist poster session:
 <div class="smallspacer"></div>
-![](/images/news/2024.03.06_IGNIITE-Finalist/poster_session_1.JPG)
+![](/images/news/2024.03.06_IGNIITE-Finalist/poster_session_1.jpg)
 <div class="spacer"></div>
 <div class="spacer"></div>
 
 Figure 6. IGNIITE Finalist poster session:
 <div class="smallspacer"></div>
-![](/images/news/2024.03.06_IGNIITE-Finalist/poster_session_2.JPG)
+![](/images/news/2024.03.06_IGNIITE-Finalist/poster_session_2.jpg)
 <div class="spacer"></div>
 <div class="spacer"></div>
 
 Figure 7. IGNIITE Finalist pitch session - ARPA-E Visitor badge:
 <div class="smallspacer"></div>
-![](/images/news/2024.03.06_IGNIITE-Finalist/Visitor_Badge_for_Pitch_session.JPG)
+![](/images/news/2024.03.06_IGNIITE-Finalist/Visitor_Badge_for_Pitch_session.jpg)
 <div class="spacer"></div>
 <div class="spacer"></div>
 
