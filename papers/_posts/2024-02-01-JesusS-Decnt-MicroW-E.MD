@@ -8,8 +8,8 @@ ref: Jesus Silva-Rodriguez et al, Electric Power Systems Research, 2024.
 journal: "Electric Power Systems Research"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.01681.pdf
-codes: 
-doi: 
+codes: /resources/MWEN_OB-ADMM-Python/
+doi: 10.1016/j.epsr.2024.110611
 arxiv: https://arxiv.org/abs/2310.01681
 ---
 
@@ -22,5 +22,5 @@ ADMM, Decentralized Co-Optimization, Objective-Based, Water-Energy Nexus.
 
 
 # Cite this paper:
-Jesus Silva-Rodriguez and Xingpeng Li, “Decentralized Micro Water-Energy Co-Optimization for Small Communities”, *Electric Power Systems Research*, Accepted for publication, Feb. 2024.
+Jesus Silva-Rodriguez and Xingpeng Li, “Decentralized Micro Water-Energy Co-Optimization for Small Communities”, *Electric Power Systems Research*, vol. 234, 110611, Sep. 2024.
 
