@@ -1,6 +1,6 @@
 ---
 layout: newsitem
-title: Selected as a semi-finalist Team for the Chevron Innovation Competition
+title: Selected as a Semi-Finalist Team for the Chevron Innovation Competition
 time: 2024-08-05
 link: 
 description: "A team from our lab was selected as a semi-finalist team, receiving an award of $2,000, to move to the final pitch presentations in September. Congratulations to Ann Mary Toms, Hassan Zahid Butt, and Jin Lu. "

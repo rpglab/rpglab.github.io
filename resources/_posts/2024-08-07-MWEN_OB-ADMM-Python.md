@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Water-Energy Co-Optimization with Enhanced OB-ADMM
+title: Water-Energy Optimization with Enhanced OB-ADMM in Python Notebook
 authors: Jesus Silva-Rodriguez
 type: Python Code
 zip: 
