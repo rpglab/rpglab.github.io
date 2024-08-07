@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Small-Scale Water-Energy Distribution Co-Optimization
+title: Water-Energy Co-Optimization with Enhanced OB-ADMM
 authors: Jesus Silva-Rodriguez
 type: Python Code
 zip: 
