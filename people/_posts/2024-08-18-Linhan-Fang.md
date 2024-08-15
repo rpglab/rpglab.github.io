@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Linhan Fang
-position: Incoming PhD Student
+position: PhD Student
 time: 2024.08 - present
 email: lfang7@cougarnet.uh.edu
 image: /images/team/Linhan_Fang.jpg
@@ -19,7 +19,7 @@ alumni:
 ---
 
 
-Linhan Fang is an incoming PhD Student with the Department of Electrical and Computer Engineering at RPG lab (Fall 2024) at the University of Houston, Houston, TX, USA. 
+Linhan Fang is a current PhD Student with the Department of Electrical and Computer Engineering at RPG lab (Fall 2024) at the University of Houston, Houston, TX, USA. 
 
 
 ## Education

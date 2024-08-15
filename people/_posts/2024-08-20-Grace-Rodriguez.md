@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Grace Rodriguez
-position: Incoming PhD Student
+position: PhD Student
 time: 2024.08 - present
 email: 
 image: /images/team/Grace_Rodriguez.jpg
@@ -19,7 +19,7 @@ alumni:
 ---
 
 
-Grace Rodriguez is an incoming PhD student at the RPG Lab at the University of Houston, where she is set to begin in Fall 2024. She is also a Senior System Studies Engineer in the Power Systems Engineering Division at Mitsubishi Electric Power Products, Inc., Pittsburgh, Pennsylvania, USA.
+Grace Rodriguez is a current PhD student at the RPG Lab at the University of Houston, where she started in Fall 2024. She is also a Senior System Studies Engineer in the Power Systems Engineering Division at Mitsubishi Electric Power Products, Inc., Pittsburgh, Pennsylvania, USA.
 
 Grace's previous engineering roles include nine years as a transmission planning engineer at CenterPoint Energy in Houston, Texas, USA, and five years as an operations engineer at CADAFE in Caracas, Capital District, Venezuela. Additionally, she served as an educator at the Houston Independent School District for about eight years, teaching Spanish for PK through 4th grade and Mathematics for PK through 12th grade. 
 
