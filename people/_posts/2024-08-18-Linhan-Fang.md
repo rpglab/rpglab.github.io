@@ -19,7 +19,7 @@ alumni:
 ---
 
 
-Linhan Fang is a current PhD Student with the Department of Electrical and Computer Engineering at RPG lab (Fall 2024) at the University of Houston, Houston, TX, USA. 
+Linhan Fang is a current PhD Student with the Department of Electrical and Computer Engineering at RPG lab at the University of Houston, Houston, TX, USA. 
 
 
 ## Education

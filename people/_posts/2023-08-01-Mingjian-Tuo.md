@@ -20,7 +20,7 @@ facebook:
 alumni: true
 ---
 
-Mingjian Tuo has received his PhD degree in Electrical Engineering from the University of Houston, Houston, TX, USA in August 2023. Mingjian had worked in the RPG lab as a PhD student from Aug. 2019 to Aug. 2023.
+Mingjian Tuo has received his PhD degree in Electrical Engineering from the University of Houston, Houston, TX, USA in August 2023. Mingjian worked in the RPG lab as a PhD student from Aug. 2019 to Aug. 2023.
 
 PhD Dissertation title: *"Enhancing Frequency Stability of Low-Inertia Grids with Novel Security Constrained Unit Commitment Approaches"*
 
