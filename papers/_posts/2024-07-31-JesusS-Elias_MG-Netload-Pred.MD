@@ -4,8 +4,8 @@ title: "LSTM-Based Net Load Forecasting for Wind and Solar Power-Equipped Microg
 image: 
 authors: Jesus Silva-Rodriguez, Elias Raffoul, Xingpeng Li.
 year: 2024
-ref: Jesus Silva-Rodriguez, Elias Raffoul et al, arXiv, 2024. 
-journal: "arXiv"
+ref: Jesus Silva-Rodriguez, Elias Raffoul et al, North American Power Symposium, 2024. 
+journal: "North American Power Symposium"
 pdf: 
 webpdf: https://arxiv.org/pdf/2408.00136
 codes: 
@@ -21,5 +21,5 @@ The rising integration of variable renewable energy sources (RES), like solar an
 Long Short-Term Memory, Microgrid, Net Load Forecasting, Recurrent Neural Network, Renewable Energy.
 
 # Cite this paper:
-Jesus Silva-Rodriguez, Elias Raffoul, and Xingpeng Li, “LSTM-Based Net Load Forecasting for Wind and Solar Power-Equipped Microgrids”, *arXiv*, Jul. 2024.
+Jesus Silva-Rodriguez, Elias Raffoul, and Xingpeng Li, “LSTM-Based Net Load Forecasting for Wind and Solar Power-Equipped Microgrids”, *North American Power Symposium*, El Paso, TX, USA, Oct. 2024.
 
