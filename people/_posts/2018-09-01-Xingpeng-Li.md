@@ -21,7 +21,7 @@ facebook:
 alumni: 
 ---
 
-Dr. Xingpeng Li is an <a class="off" href="https://www.ece.uh.edu/faculty/li" target="_blank">Assistant Professor</a> with the <a class="off" href="https://www.ece.uh.edu/" target="_blank">Department of Electrical and Computer Engineering</a> at <a class="off" href="https://www.uh.edu/" target="_blank">University of Houston (UH)</a>, Houston, TX, USA. He is a Senior Member of IEEE.
+Dr. Xingpeng Li is an <a class="off" href="https://www.ece.uh.edu/faculty/li" target="_blank">Associate Professor</a> with the <a class="off" href="https://www.ece.uh.edu/" target="_blank">Department of Electrical and Computer Engineering</a> at <a class="off" href="https://www.uh.edu/" target="_blank">University of Houston (UH)</a>, Houston, TX, USA. He is a Senior Member of IEEE.
 
 He is also the Associate Director of the Power Electronics, Microgrids & Subsea Electrical Systems Center <a class="off" href="https://pemses.ece.uh.edu/" target="_blank">(PEMSEC)</a> at UH. 
 
@@ -35,7 +35,8 @@ He is also the Associate Director of the Power Electronics, Microgrids & Subsea 
 
 
 ## Professional Experience
-* Assistant Professor, University of Houston, Houston, TX, 2018 - present
+* Associate Professor, University of Houston, Houston, TX, 09/2024 - present
+* Assistant Professor, University of Houston, Houston, TX, 09/2018 - 08/2024
 * Visiting Faculty, Georgia Institute of Technology, Atlant, GA, 05/2023 - 07/2023
 * Senior Application Engineer, ABB (now Hitachi Energy), San Jose, CA, 2017-2018
 * Intern, PJM Interconnection, Audubon, PA, 2016
