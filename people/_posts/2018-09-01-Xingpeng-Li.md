@@ -2,7 +2,7 @@
 layout: member
 title: Xingpeng Li
 rolePI: true
-position: Assistant Professor
+position: Associate Professor
 email: xli83@central.uh.edu
 image: /images/team/Xingpeng_Li_4.jpg
 cv: 
