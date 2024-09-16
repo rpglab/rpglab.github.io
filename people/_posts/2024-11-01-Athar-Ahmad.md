@@ -6,7 +6,7 @@ time: 2024.11 - present
 email: 
 image: /images/team/Athar_Ahmad.png
 cv: 
-index: "Microgrid energy management, hybrid battery/hydrogen storage"
+index: "Hybrid battery/hydrogen energy storage, microgrid energy management"
 scholar: 
 linkedin: 
 website: 
