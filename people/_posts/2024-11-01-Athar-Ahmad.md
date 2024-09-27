@@ -57,8 +57,8 @@ His research topic is: *Energy management control strategies in microgrid powere
 * Optimization of the RES-microgrid
 
 ## Publications
-* A battery-to-electrolyzer pathway for energy management in a hybrid battery/hydrogen microgrid.
-* A Nernst-Based Approach for Modeling of Lithium-Ion Batteries with Non-Flat Voltage Characteristics.
+*  <a target="_blank" href="https://iopscience.iop.org/article/10.1088/1742-6596/2648/1/012094" class="off">A battery-to-electrolyzer pathway for energy management in a hybrid battery/hydrogen microgrid</a>.
+* <a target="_blank" href="https://www.mdpi.com/1996-1073/17/16/3914" class="off">A Nernst-Based Approach for Modeling of Lithium-Ion Batteries with Non-Flat Voltage Characteristics</a>.
 
 ## Conferences
 * Attended a conference to present our recent research work on implementing the EMS strategies on the RES-microgrid based on various Köppen climate classifications at 78th Congresso Nazionale ATI which was held in Carpi (MO), Italy on 14-15 September 2023 under the theme: Transizione Energetica: Ricerca Innovazione per l’Industria, le comunità ed il territorio.
