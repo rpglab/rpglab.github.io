@@ -3,9 +3,9 @@ layout: paper
 title: "Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile"
 image: 
 authors: Cunzhi Zhao, Xingpeng Li.
-year: 2023
-ref: Cunzhi Zhao et al, arXiv, 2023.  
-journal: "arXiv"
+year: 2024
+ref: Cunzhi Zhao et al, IEEE Transactions on Smart Grid, 2024.  
+journal: "IEEE Transactions on Smart Grid"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2303/2303.03386.pdf
 doi: 
@@ -20,4 +20,4 @@ Batteries can effectively improve the security of energy systems and mitigate cl
 Battery degradation, Battery energy storage system, Deep learning, Energy management system, Machine learning, Microgrid generation resource scheduling, Neural network, Optimization.
 
 # Cite this paper:
-Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile", *arXiv:2303.03386*, Mar. 2023.
+Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile", *IEEE Transactions on Smart Grid*, accepted for publication, Sep. 2024.
