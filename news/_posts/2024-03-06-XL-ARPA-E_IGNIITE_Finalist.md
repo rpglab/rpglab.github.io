@@ -8,11 +8,9 @@ description: "Congratulations to Xingpeng Li for being selected as a finalist fo
 
 * Congratulations to <a href="/people/Xingpeng-Li" class="off">Xingpeng Li</a> for being selected as a _Finalist_ for the <a class="" href="https://arpa-e.energy.gov/technologies/programs/igniite" target="_blank">ARPA-E IGNIITE Program</a>, which is a single-PI early-career award program. Researchers from academia, national labs or the industry can apply as long as they meet the eligibility requirements. 
 
-* Our Proposal Title: "Dynamics-Constrained Energy Management Systems"
-
 * In total, 49 finalists were selected and invited to attend the pitch session in Washington D.C. on March 6, 2024. 
 
-* Roughly, 20 finalists will be selected for award (each selectee will receive $500,000). The winning/success rate among finalists is slightly over 40% at this stage.
+* Roughly 20 finalists will be selected for award (each selectee will receive $500,000). The winning/success rate among finalists is slightly over 40% at this stage.
 
 * Among all 49 finalists, Dr. Li is the only person whose proposal is in the power system area. 
 
