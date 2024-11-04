@@ -23,3 +23,4 @@ Long Short-Term Memory, Microgrid, Net Load Forecasting, Recurrent Neural Networ
 # Cite this paper:
 Jesus Silva-Rodriguez, Elias Raffoul, and Xingpeng Li, “LSTM-Based Net Load Forecasting for Wind and Solar Power-Equipped Microgrids”, *North American Power Symposium*, El Paso, TX, USA, Oct. 2024.
 
+(Jesus Silva-Rodriguez and Elias Raffoul contributed equally to this work.)
