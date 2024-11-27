@@ -17,8 +17,7 @@ Power system networks are often modeled as homogeneous graphs, which limits the 
 
 
 # Index Terms
-Economic dispatch, Hierarchical graph neural
-network, Machine learning, Optimal power flow, Power flow, Virtual node, Split bus, Transmission network.
+Economic dispatch, Hierarchical graph neural network, Machine learning, Optimal power flow, Power flow, Virtual node, Split bus, Transmission network.
 
 # Cite this paper:
 Thuan Pham and Xingpeng Li, "Constraints and Variables Reduction for Optimal Power Flow Using Hierarchical Graph Neural Networks with Virtual Node-Splitting", *arXiv*, Oct. 2024.
