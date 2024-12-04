@@ -3,7 +3,7 @@ layout: newsitem
 title: Passing MS Defense - Elias Raffoul
 time: 2024-12-02
 link: 
-description: "Congratulations to Elias Raffoul for successfully passing his MS thesis defense. Elias is our group's 2nd thesis-based MS graduate. Great work was done during his 1.5-year MS studies!"
+description: "Congratulations to Elias Raffoul for successfully passing his MS thesis defense. Elias is our group's 2nd thesis-based MS graduate. Great work was done during his 1.5-year MS research studies!"
 ---
 
 * Congratulations to <a target="_blank" href="/people/Elias_Raffoul/" class="">Elias Raffoul</a> for successfully passing his PhD dissertation defense today on December 2, 2024. Elias is our group's 2nd thesis-based MS graduate. Great work was done during his 1.5-year MS studies!
