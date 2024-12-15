@@ -20,7 +20,7 @@ facebook:
 alumni: true
 ---
 
-Cunzhi Zhao has received his PhD degree in Electrical Engineering from the University of Houston, Houston, TX, USA in December 2023. Cunzhi worked in the RPG lab as a PhD student from Jan. 2020 to Dec. 2023.
+Dr. Cunzhi Zhao received his PhD degree in Electrical Engineering from the University of Houston, Houston, TX, USA in December 2023. Cunzhi worked in the RPG lab as a PhD student from Jan. 2020 to Dec. 2023.
 
 PhD Dissertation title: *"Optimal Energy Management for Battery Energy Storage System-Integrated Microgrids"*
 

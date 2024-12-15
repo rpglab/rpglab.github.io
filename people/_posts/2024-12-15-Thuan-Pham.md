@@ -2,7 +2,7 @@
 layout: member
 title: Thuan Pham
 position: PhD Student
-time: 2020.08 - present
+time: 2020.08 - 2024.12
 email: tdpham7@cougarnet.uh.edu
 image: /images/team/Thuan_Pham.jpg
 cv: 
@@ -15,18 +15,23 @@ handle:
 github: 
 twitter: 
 facebook: 
-alumni: 
+alumni: true
 ---
 
-Thuan Pham is currently a Ph.D. student in the Electrical and Computer Engineering (ECE) department at the University of Houston. His research focuses on applying machine learning algorithms, specifically graph neural networks, toward power system operation and optimization. 
+Dr. Thuan Pham received his PhD degree in Electrical Engineering from the University of Houston, Houston, TX, USA in December 2024. Thuan worked in the RPG lab as a PhD student from Aug. 2020 to Dec. 2024. His research focused on applying machine learning algorithms, specifically graph neural networks, toward power system operation and optimization. 
 
-Thuan is a licensed professional engineer in Texas with 9+ years of experience. His work spans multiple aspects of solar farm development, including utilities, Engineering, Procurement, and Construction (EPC), and developers. He has broad exposure to different facets of solar energy with a comprehensive understanding of the industry’s technical and operational challenges. Currently, Thuan serves as a Senior Electrical Engineer at TotalEnergies Renewable, where he applies his specialized knowledge to large-scale transmission solar projects. His role involves overseeing the design and execution of electrical systems while contributing to the strategic integration of renewable energy sources as part of the company’s global push toward sustainability.
+Thuan was also the very first student from the industry completing a PhD degree from the RPG lab. After graduation, Thuan continued his role at TotalEnergies Renewable.
+
+PhD Dissertation title: *"Faster Optimal Power Flow Using Graph Neural Network-Assisted Methods"*
+
+As of 2024, Thuan is a licensed professional engineer in Texas with 9+ years of experience. His work spans multiple aspects of solar farm development, including utilities, Engineering, Procurement, and Construction (EPC), and developers. He has broad exposure to different facets of solar energy with a comprehensive understanding of the industry’s technical and operational challenges. Currently, Thuan serves as a Senior Electrical Engineer at TotalEnergies Renewable, where he applies his specialized knowledge to large-scale transmission solar projects. His role involves overseeing the design and execution of electrical systems while contributing to the strategic integration of renewable energy sources as part of the company’s global push toward sustainability.
+
 
 ## Education
 University of Houston, Houston, TX, USA
 
 
-    Doctor of Philosophy in Electrical Engineering                      2020 - Present
+    Doctor of Philosophy in Electrical Engineering                      2020 - 2024
 
     Master in Engineering Management                                    Dec 2020
 
