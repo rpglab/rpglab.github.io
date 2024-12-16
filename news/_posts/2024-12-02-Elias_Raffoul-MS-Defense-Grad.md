@@ -6,7 +6,7 @@ link:
 description: "Congratulations to Elias Raffoul for successfully passing his MS thesis defense. Elias is our group's 2nd thesis-based MS graduate. Great work was done during his 1.5-year MS research studies!"
 ---
 
-* Congratulations to <a target="_blank" href="/people/Elias_Raffoul/" class="">Elias Raffoul</a> for successfully passing his PhD dissertation defense today on December 2, 2024. Elias is our group's 2nd thesis-based MS graduate. Great work was done during his 1.5-year MS studies!
+* Congratulations to <a target="_blank" href="/people/Elias_Raffoul/" class="">Elias Raffoul</a> for successfully passing his MS dissertation defense today on December 2, 2024. Elias is our group's 2nd thesis-based MS graduate. Great work was done during his 1.5-year MS studies!
 
 * Elias Raffoul's MS Thesis title: *"Advanced Forecasting and System Integration Impact Analysis of Renewable Energy and Electric Vehicles on Power Distribution Networks"*
 
