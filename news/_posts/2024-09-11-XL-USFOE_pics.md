@@ -25,5 +25,13 @@ Figure. Photos from the NAE USFOE Symposium 2024:
 ![](/images/news/2024.09.11_USFOE/p03.JPG)
 <div class="smallspacer"></div>
 ![](/images/news/2024.09.11_USFOE/p02.JPG)
+<div class="smallspacer"></div>
+![](/images/news/2024.09.11_USFOE/p04.JPG)
+<div class="smallspacer"></div>
+![](/images/news/2024.09.11_USFOE/p05.JPG)
+<div class="smallspacer"></div>
+![](/images/news/2024.09.11_USFOE/p06.JPG)
+<div class="smallspacer"></div>
+![](/images/news/2024.09.11_USFOE/p09.JPG)
 <div class="spacer"></div>
 
