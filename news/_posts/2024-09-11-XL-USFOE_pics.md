@@ -20,18 +20,18 @@ description: "Attended the US Frontiers of Engineering (USFOE) Symposium of NAE 
 
 Figure. Photos from the NAE USFOE Symposium 2024:
 <div class="smallspacer"></div>
-![](/images/news/2024.09.11_USFOE/p01.JPG)
+![](/images/news/2024.09.11_USFOE/p01.jpg)
 <div class="smallspacer"></div>
-![](/images/news/2024.09.11_USFOE/p03.JPG)
+![](/images/news/2024.09.11_USFOE/p03.jpg)
 <div class="smallspacer"></div>
-![](/images/news/2024.09.11_USFOE/p02.JPG)
+![](/images/news/2024.09.11_USFOE/p02.jpg)
 <div class="smallspacer"></div>
-![](/images/news/2024.09.11_USFOE/p04.JPG)
+![](/images/news/2024.09.11_USFOE/p04.jpg)
 <div class="smallspacer"></div>
-![](/images/news/2024.09.11_USFOE/p05.JPG)
+![](/images/news/2024.09.11_USFOE/p05.jpg)
 <div class="smallspacer"></div>
-![](/images/news/2024.09.11_USFOE/p06.JPG)
+![](/images/news/2024.09.11_USFOE/p06.jpg)
 <div class="smallspacer"></div>
-![](/images/news/2024.09.11_USFOE/p09.JPG)
+![](/images/news/2024.09.11_USFOE/p09.jpg)
 <div class="spacer"></div>
 
