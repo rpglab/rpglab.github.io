@@ -1,25 +1,33 @@
 ---
 layout: resource
-title: List of Papers with Data/Codes
+title: List of Papers with Data/Codes (updated)
 authors: Xingpeng Li, and ALL
 type: OpenWork
 zip: 
 timeInit: 2023-07-25
-time: 2024-02-22
+time: 2024-12-23
 github: 
 doi: 
 description: "This is a list of our papers with open-source data and/or codes"
 ---
 
-Last updated on: February 22, 2024.
+Last updated on: December 23, 2024.
 
 ## Overview
-This is a list of our __31 papers__ with open-source data and/or codes, including *<u>11 paper published in IEEE Transactions journals</u>*. The following list will direct you to the paper webpage, where you can find the associated data/codes. Pre-prints may also be included here.
+This is a list of our __35 papers__ with open-source data and/or codes, including *<u>12 papers published in IEEE Transactions journals</u>*. The following list will direct you to the paper webpage, where you can find the associated data/codes. Pre-prints may also be included here.
 
 This list will be updated as we release more codes and data along with our research papers. Note that we also released some good codes/data that are not associated with any publications and thus are not covered by the following papers.
 
 
 ## The List in Reverse Chronological Order:
+
+* Jesus Silva-Rodriguez and Xingpeng Li, “Centralized Networked Micro Water-Energy Nexus with Proportional Exchange Among Participants”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022. <a class="" target="_blank" href="/papers/JesusSilvaR-CN-MWEN-PEA/">[Link Here]</a>
+
+* Jesus Silva-Rodriguez and Xingpeng Li, “Water-Energy Co-Optimization for Community-Scale Microgrids”, *53rd North American Power Symposium*, College Station, TX, USA, Nov. 2021. <a class="" target="_blank" href="/papers/JesusSilvaRodriguez-XLi-WECoOp_CSM/">[Link Here]</a>
+
+* Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile”, *IEEE Transactions on Smart Grid*, Sep. 2024. <a class="" target="_blank" href="/papers/Cunzhi-HDL_Batry-Degrdtn-Mdl/">[Link Here]</a>
+
+* Jesus Silva-Rodriguez and Xingpeng Li, “Decentralized Micro Water-Energy Co-optimization for Small Communities”, *Electric Power Systems Research*, vol. 234, 110611, Sep. 2024. <a class="" target="_blank" href="/papers/JesusS-Decnt-MicroW-E/">[Link Here]</a>
 
 * Thuan Pham and Xingpeng Li, “Reduced Optimal Power Flow Using Graph Neural Network”, *North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022. <a class="" target="_blank" href="/papers/ThuanP-GNN-ROPF/">[Link Here]</a>
 
