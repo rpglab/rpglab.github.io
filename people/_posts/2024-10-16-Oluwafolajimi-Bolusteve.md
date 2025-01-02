@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Oluwafolajimi_Bolusteve
+title: Oluwafolajimi Bolusteve
 position: Undergraduate Student
 time: 2024.10 - present
 email: osbolust@cougarnet.uh.edu
