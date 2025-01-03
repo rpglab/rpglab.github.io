@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Sai Manisha Duvvada
-position: Incoming PhD Student
+position: PhD Student
 time: 2025.01 - present
 email: sduvvada@cougarnet.uh.edu
 image: /images/team/Sai_Manisha_Duvvada.JPG
