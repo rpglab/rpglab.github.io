@@ -8,6 +8,7 @@ ref: Cunzhi Zhao et al, IEEE Transactions on Smart Grid, 2025.
 journal: "IEEE Transactions on Smart Grid"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2303/2303.03386.pdf
+codes: /resources/HDL-BDQ/
 doi: 10.1109/TSG.2024.3475221
 arxiv: https://arxiv.org/abs/2303.03386
 researchgate: 
