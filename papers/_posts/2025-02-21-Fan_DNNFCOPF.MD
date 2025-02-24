@@ -4,8 +4,8 @@ title: "A Deep Neural Network-based Frequency Predictor for Frequency-Constraine
 image: 
 authors: Fan Jiang, Xingpeng Li, Pascal Van Hentenryck.
 year: 2025
-ref: Fan Jiang et al, Electric Power Systems Research, 2025. 
-journal: "Electric Power Systems Research"
+ref: Fan Jiang et al, arXiv, 2025. 
+journal: "arXiv"
 pdf: 
 webpdf: https://arxiv.org/pdf/2502.15641
 codes: 
