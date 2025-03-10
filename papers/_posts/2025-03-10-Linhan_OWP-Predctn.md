@@ -3,9 +3,9 @@ layout: paper
 title: "Analysis of Learning-based Offshore Wind Power Prediction Models with Various Feature Combinations"
 image: 
 authors: Linhan Fang, Fan Jiang, Ann Mary Toms, Xingpeng Li.
-year: 2024
-ref: Linhan Fang et al, arXiv, 2024.
-journal: "arXiv"
+year: 2025
+ref: Linhan Fang et al, IEEE PES General Meeting, 2025.
+journal: "IEEE PES General Meeting"
 pdf: 
 webpdf: 
 doi: 
@@ -19,4 +19,4 @@ Accurate wind speed prediction is crucial for designing and selecting sites for 
 Fully Connected Neural Network model, feature combination, machine learning, wind power prediction, wind turbine
 
 # Cite this paper:
-Linhan Fang, Fan Jiang, Ann Mary Toms, and Xingpeng Li, "Analysis of Learning-based Offshore Wind Power Prediction Models with Various Feature Combinations", *arXiv*, Nov. 2024.
+Linhan Fang, Fan Jiang, Ann Mary Toms, and Xingpeng Li, "Analysis of Learning-based Offshore Wind Power Prediction Models with Various Feature Combinations", *IEEE PES General Meeting*, Austin, TX, USA, Jul. 2025.
