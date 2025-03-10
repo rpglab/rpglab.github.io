@@ -9,7 +9,7 @@ journal: "Electric Power Systems Research"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2309/2309.07237.pdf
 codes: 
-doi: 
+doi: 10.1016/j.epsr.2025.111570
 arxiv: https://arxiv.org/abs/2309.07237
 ---
 
@@ -20,5 +20,5 @@ An immediate need in the transmission system is to find alternative solutions th
 Battery Storage, Congestion Analysis, Market Implications, Power System Operations, Virtual Transmission.
 
 # Cite this paper:
-Qiushi Wang and Xingpeng Li, “Evaluation of Battery Energy Storage System to Provide Virtual Transmission Service”, *Electric Power Systems Research*, accepted for publication, Feb. 2025.
+Qiushi Wang and Xingpeng Li, “Evaluation of Battery Energy Storage System to Provide Virtual Transmission Service”, *Electric Power Systems Research*, vol. 244, Jul. 2025.
 
