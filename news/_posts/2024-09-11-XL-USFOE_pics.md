@@ -1,12 +1,12 @@
 ---
 layout: newsitem
-title: Attended the US Frontiers of Engineering (USFOE) Symposium of NAE
+title: X.Li Attended the US Frontiers of Engineering (USFOE) Symposium of NAE
 time: 2024-09-11
 link: 
-description: "Attended the US Frontiers of Engineering (USFOE) Symposium of NAE (by invite only)."
+description: "Xingpeng Li attended the US Frontiers of Engineering (USFOE) Symposium of NAE (by invite only)."
 ---
 
-* As an invited General Participate, I attended the 2024 USFOE during September 11-14 at the National Academies’ Beckman Center in Irvine, California. 
+* As an invited General Participate, Dr. Xingpeng Li attended the 2024 USFOE during September 11-14 at the National Academies’ Beckman Center in Irvine, California. 
 
 * There were seventy-six (76) highly accomplished early-career engineers that was selected to participate in the 2024 The Grainger Foundation Frontiers of Engineering Symposium, a signature activity of NAE. 
 
