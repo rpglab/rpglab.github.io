@@ -3,9 +3,9 @@ layout: paper
 title: "Constraints and Variables Reduction for Optimal Power Flow Using Hierarchical Graph Neural Networks with Virtual Node-Splitting"
 image: 
 authors: Thuan Pham, Xingpeng Li.
-year: 2024
-ref: Thuan Pham et al, arXiv, 2024.
-journal: "arXiv"
+year: 2025
+ref: Thuan Pham et al, IEEE IAS Annual Meeting, 2025.
+journal: "IEEE IAS Annual Meeting"
 pdf: 
 webpdf: https://arxiv.org/abs/2411.06268
 doi: 
@@ -20,4 +20,4 @@ Power system networks are often modeled as homogeneous graphs, which limits the 
 Economic dispatch, Hierarchical graph neural network, Machine learning, Optimal power flow, Power flow, Virtual node, Split bus, Transmission network.
 
 # Cite this paper:
-Thuan Pham and Xingpeng Li, "Constraints and Variables Reduction for Optimal Power Flow Using Hierarchical Graph Neural Networks with Virtual Node-Splitting", *arXiv*, Oct. 2024.
+Thuan Pham and Xingpeng Li, "Constraints and Variables Reduction for Optimal Power Flow Using Hierarchical Graph Neural Networks with Virtual Node-Splitting", *IEEE IAS Annual Meeting*, New Taipei, Jun. 2025.
