@@ -1,6 +1,6 @@
 ---
 layout: newsitem
-title: X.Li Attended the US Frontiers of Engineering (USFOE) Symposium of NAE
+title: Attended the US Frontiers of Engineering (USFOE) Symposium of NAE
 time: 2024-09-11
 link: 
 description: "Xingpeng Li attended the US Frontiers of Engineering (USFOE) Symposium of NAE (by invite only)."
