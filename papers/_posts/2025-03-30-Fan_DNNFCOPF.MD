@@ -4,8 +4,8 @@ title: "A Deep Neural Network-based Frequency Predictor for Frequency-Constraine
 image: 
 authors: Fan Jiang, Xingpeng Li, Pascal Van Hentenryck.
 year: 2025
-ref: Fan Jiang et al, arXiv, 2025. 
-journal: "arXiv"
+ref: Fan Jiang et al, IEEE IAS Annual Meeting, 2025. 
+journal: "IEEE IAS Annual Meeting"
 pdf: 
 webpdf: https://arxiv.org/pdf/2502.15641
 codes: 
@@ -20,5 +20,5 @@ Rate of change of frequency (RoCoF) and frequency nadir should be considered in 
 Deep neural network, frequency nadir, grid synchronous inertia, optimal power flow, rate of change of frequency, system frequency response.
 
 # Cite this paper:
-Fan Jiang, Xingpeng Li, and Pascal Van Hentenryck, “A Deep Neural Network-based Frequency Predictor for Frequency-Constrained Optimal Power Flow”, *arXiv*, Feb. 2025.
+Fan Jiang, Xingpeng Li, and Pascal Van Hentenryck, “A Deep Neural Network-based Frequency Predictor for Frequency-Constrained Optimal Power Flow”, *IEEE IAS Annual Meeting*, New Taipei, Jun. 2025.
 
