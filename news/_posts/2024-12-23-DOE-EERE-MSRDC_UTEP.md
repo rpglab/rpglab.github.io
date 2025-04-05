@@ -23,7 +23,7 @@ description: "New project was funded by DOE EERE through MSRDC and UTEP. Funding
 
 Figure. Snapshot from the printed DOE newsletter webpage:
 <div class="smallspacer"></div>
-![](/images/news/2024.03.27_DOE_HACEER.jpg)
+![](/images/news/2024.03.27_DOE_HACEER.JPG)
 <div class="spacer"></div>
 
 
