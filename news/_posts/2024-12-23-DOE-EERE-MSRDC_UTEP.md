@@ -18,4 +18,13 @@ description: "New project was funded by DOE EERE through MSRDC and UTEP. Funding
 
 * The funding to UH is $320,000, with UH PI of Dr. Xingpeng Li, and Co-PI of Dr. Kaushik Rajashekara. The IDC rate for this project is set to 8%.
 
+<div class="spacer"></div>
+<div class="spacer"></div>
+
+Figure. Snapshot from the printed DOE newsletter webpage:
+<div class="smallspacer"></div>
+![](/images/news/2024.03.27_DOE_HACEER.jpg)
+<div class="spacer"></div>
+
+
 
