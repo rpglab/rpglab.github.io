@@ -3,9 +3,9 @@ layout: paper
 title: "Assessing the Impact of Electric Vehicle Charging on Residential Distribution Grids"
 image: 
 authors: Elias Raffoul, Xingpeng Li.
-year: 2024
-ref: Elias Raffoul et al, arXiv, 2024. 
-journal: "arXiv"
+year: 2025
+ref: Elias Raffoul et al, IEEE IAS Annual Meeting, 2025. 
+journal: "IEEE IAS Annual Meeting"
 pdf: 
 webpdf: https://arxiv.org/pdf/2411.13710
 codes: 
@@ -21,5 +21,5 @@ To achieve net-zero carbon emissions, electrification in the transportation sect
 Ampacity Violation, Distribution Network, Electric Vehicle, EV Adoption Rate, Line Current, Line Loading, Residential Grid, Voltage Level
 
 # Cite this paper:
-Elias Raffoul and Xingpeng Li, “Assessing the Impact of Electric Vehicle Charging on Residential Distribution Grids”, *arXiv*, Nov. 2024.
+Elias Raffoul and Xingpeng Li, “Assessing the Impact of Electric Vehicle Charging on Residential Distribution Grids”, *IEEE IAS Annual Meeting*, New Taipei, Jun. 2025.
 
