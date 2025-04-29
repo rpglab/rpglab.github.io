@@ -2,7 +2,7 @@
 layout: member
 title: Athar Ahmad
 position: Visiting PhD Student
-time: 2024.11 - present
+time: 2024.11 - 2025.04
 email: 
 image: /images/team/Athar_Ahmad.png
 cv: 
@@ -15,15 +15,15 @@ handle:
 github: 
 twitter: 
 facebook: 
-alumni: 
+alumni: true
 ---
 
-Athar Ahmad is an active PhD student from Università degli studi della Basilicata, Italy. He is an exchange visitor at the University of Houston.
+He was an exchange visitor at the University of Houston, visiting from Università degli studi della Basilicata, Italy, as a PhD student.
 
 His research topic is: *Energy management control strategies in microgrid powered by renewable energy sources with hybrid battery/hydrogen storage*.
 
 ## Education
-* Visiting PhD student, University of Houston, 2024.11 - present
+* Visiting PhD student, University of Houston, 2024.11 - 2025.04
 
 * PhD student, Università degli studi della Basilicata, 2023 - present
 
