@@ -21,5 +21,5 @@ The transition to renewable energy has positioned photovoltaic (PV) systems and 
 Battery energy storage system, battery degradation, microgrid, MILP, optimal resource sizing, PV degradation, renewable energy.
 
 # Cite this paper:
-Hassan Zahid Butt and Xingpeng Li, “Enhancing Optimal Microgrid Planning with Adaptive BESS Degradation Costs and PV Asset Management: An Iterative Post-Optimization Correction Framework", *Electric Power Systems Research*, Apr. 2025.
+Hassan Zahid Butt and Xingpeng Li, “Enhancing Optimal Microgrid Planning with Adaptive BESS Degradation Costs and PV Asset Management: An Iterative Post-Optimization Correction Framework", *Electric Power Systems Research*, vol. 247, Oct. 2025.
 
