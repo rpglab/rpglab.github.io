@@ -9,7 +9,7 @@ journal: "Electric Power Systems Research"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2402/2402.01989.pdf
 codes: 
-doi: 
+doi: 10.1016/j.epsr.2025.111785
 arxiv: https://arxiv.org/abs/2402.01989
 researchgate: 
 ---
