@@ -4,7 +4,7 @@ title: "Analysis of Learning-based Offshore Wind Power Prediction Models with Va
 image: 
 authors: Linhan Fang, Fan Jiang, Ann Mary Toms, Xingpeng Li.
 year: 2025
-ref: Linhan Fang et al, IEEE PES General Meeting, 2025.
+ref: Linhan Fang, Fan Jiang, Ann Mary Toms, et al, IEEE PES General Meeting, 2025.
 journal: "IEEE PES General Meeting"
 pdf: 
 webpdf: 
