@@ -12,3 +12,5 @@ description: "Congratulations to Fan Jiang for receiving the UH Chevron Energy G
 
 * Over 60 competitive applications were received, and only 8 top students were selected. Congratulations Fan!
 
+* Here is the <a href="https://www.uh.edu/energy/opportunities/graduate-energy-fellow.php" class="" target="_blank">website</a> of the UH Chevron Energy Graduate Fellows Awards program.
+
