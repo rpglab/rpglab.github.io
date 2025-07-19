@@ -3,9 +3,9 @@ layout: paper
 title: "Comparative Analysis of Machine Learning Models for Short-Term Distribution System Load Forecasting"
 image: 
 authors: Elias Raffoul, Mingjian Tuo, Cunzhi Zhao, Tianxia Zhao, Meng Ling, Xingpeng Li.
-year: 2024
-ref: Elias Raffoul et al, arXiv, 2024. 
-journal: "arXiv"
+year: 2025
+ref: Elias Raffoul, Mingjian Tuo, Cunzhi Zhao, et al, IEEE Canada Electrical Power and Energy Conference, 2025. 
+journal: "IEEE Canada Electrical Power and Energy Conference"
 pdf: 
 webpdf: https://arxiv.org/pdf/2411.16118
 codes: 
@@ -21,5 +21,5 @@ Accurate electrical load forecasting is crucial for optimizing power system oper
 Attention Temporal Graph Convolutional Network, Distribution system, Energy Corridor, Gated Recurrent Unit, Load Forecasting, Long Short-Term Memory, Machine Learning, Recurrent Neural Network. 
 
 # Cite this paper:
-Elias Raffoul, Mingjian Tuo, Cunzhi Zhao, Tianxia Zhao, Meng Ling, and Xingpeng Li, “Comparative Analysis of Machine Learning Models for Short-Term Distribution System Load Forecasting”, *arXiv*, Nov. 2024.
+Elias Raffoul, Mingjian Tuo, Cunzhi Zhao, Tianxia Zhao, Meng Ling, and Xingpeng Li, “Comparative Analysis of Machine Learning Models for Short-Term Distribution System Load Forecasting”, *IEEE Canada Electrical Power and Energy Conference*, Waterloo, ON, Canada, Oct. 2025.
 

@@ -8,7 +8,7 @@ ref: Thuan Pham et al, IEEE IAS Annual Meeting, 2025.
 journal: "IEEE IAS Annual Meeting"
 pdf: 
 webpdf: https://arxiv.org/abs/2411.06268
-doi: 
+doi: 10.1109/IAS62731.2025.11061754
 arxiv: https://arxiv.org/abs/2411.06268
 ---
 
