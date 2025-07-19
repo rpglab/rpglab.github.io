@@ -6,7 +6,7 @@ time: 2024.08 - present
 email: lfang7@cougarnet.uh.edu
 image: /images/team/Linhan_Fang.jpg
 cv: 
-index: "Grid integration of clean energy"
+index: "Distribution system operations, reliability and optimization, Grid Integration of DER and EV, Voltage regulation"
 scholar: 
 linkedin: 
 website: 
@@ -29,6 +29,7 @@ Linhan Fang is a current PhD Student with the Department of Electrical and Compu
 
 
 ## Research Interests
-* Grid integration of clean energy and energy storage
-* Power system cyber-security
+* Distribution system operations and reliability
+* Grid integration of DER and EV
+* Voltage regulation
 * Machine learning, deep learning

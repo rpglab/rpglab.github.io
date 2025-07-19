@@ -6,7 +6,7 @@ time: 2023.01 - present
 email: 
 image: /images/team/Qiushi_Wang.jpg
 cv: 
-index: "Grid integration of battery & solar, Power system stability & control"
+index: "Energy storage-based virtual transmission, Congestion management, Grid integration of renewables"
 scholar: 
 linkedin: qiushi-cho-wang
 website: 
