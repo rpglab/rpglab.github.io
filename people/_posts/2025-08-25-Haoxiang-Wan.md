@@ -6,7 +6,7 @@ time: 2025.08 - present
 email: hwan6@CougarNet.UH.EDU
 image: /images/team/Haoxiang_Wan.jpg
 cv: 
-index: "Power system operations, Microgrids, DER management systems"
+index: "Power system operations, Microgrids, DER management"
 scholar: 
 linkedin: 
 website: 
