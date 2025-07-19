@@ -4,7 +4,7 @@ title: Xiaolei (Melody) Zhang
 position: Incoming PhD Student
 time: 2025.08 - present
 email: 
-image: /images/team/Xiaolei_Zhang.jpg
+image: /images/team/Xiaolei_Zhang.JPG
 cv: 
 index: "Distribution system automation and operations"
 scholar: 
