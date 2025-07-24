@@ -10,7 +10,7 @@ pdf:
 webpdf: https://www.arxiv.org/pdf/2507.14450
 codes: 
 doi: 
-arxiv: https://www.arxiv.org/abs/2507.14450
+arxiv: https://arxiv.org/abs/2507.14450
 ---
 
 # Abstract
