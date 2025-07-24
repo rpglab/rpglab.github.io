@@ -7,10 +7,10 @@ year: 2025
 ref: Jin Lu, Linhan Fang, Fan Jiang, et al, IEEE International Conference on Energy Technologies for Future Grids, 2025. 
 journal: "IEEE International Conference on Energy Technologies for Future Grids"
 pdf: 
-webpdf: 
+webpdf: https://www.arxiv.org/pdf/2507.14450
 codes: 
 doi: 
-arxiv: 
+arxiv: https://www.arxiv.org/abs/2507.14450
 ---
 
 # Abstract
