@@ -7,10 +7,10 @@ year: 2025
 ref: Hassan Zahid Butt et al, arXiv, 2025.  
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2507.18853
 codes: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2507.18853
 researchgate: 
 ---
 
