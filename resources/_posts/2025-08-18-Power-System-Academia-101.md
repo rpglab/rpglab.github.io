@@ -3,13 +3,15 @@ layout: resource
 title: Power System Academia 101
 authors: Xingpeng Li
 type: Documents
-zip: /pdfs/documents/Power-System-Academia-101_v1_UH-RPGLab.pdf
+zip: /pdfs/documents/Power-System-Academia-101_v1.7_UH-RPGLab.pdf
 timeInit: 2023-07-13
-time: 2023-07-13
+time: 2025-08-18
 github: 
 doi: 
 description: "This is a mini 101 'course' for power system academia beginners such as PhD students."
 ---
+
+Last updated on: August 18, 2025.
 
 ## Overview
 This is a mini 101 'course' for power system academia beginners such as PhD students.
