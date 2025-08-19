@@ -49,13 +49,19 @@ He is also the Associate Director of the Power Electronics, Microgrids & Subsea 
 * ECE 3340 Numerical Methods
 
 ## Awards & Honors
+* <a class="" href="https://www.nae.edu/333803/NAE-Awards-The-Grainger-Foundation-Frontiers-of-Engineering-Grants-for-Advancement-of-Interdisciplinary-Research" target="_blank">NAE Frontiers of Engineering Grant winner</a>, U.S. National Academy of Engineering, 2025
+* <a class="" href="https://tamest.org/news/tamest-welcomes-2025-protege-class/" target="_blank">Early-Career Researcher, Invited Protégé</a>, Texas Academy of Medicine, Engineering, Science & Technology (TAMEST), USA, 2025
+* <a class="" href="/news/NSF-CMMI-Panel-Fellow/"  target="_blank">NSF CMMI Panel Fellow</a>, National Science Foundation, USA, 2024
+* <a class="" href="https://www.naefrontiers.org/217563/Innovative-EarlyCareer-Engineers-Selected-to-Participate-in-The-Grainger-Foundation-Frontiers-of-Engineering-2024-Symposium-of-the-National-Academy-of-Engineering" target="_blank">Early-Career Engineer</a>, US Frontiers of Engineering (USFOE) Symposium, U.S. NAE, 2024
+* <a class="" href="https://www.energy.gov/oe/articles/energy-department-awards-prizes-transform-electric-grid-give-us-utilities-new-analytic?utm_medium=email&utm_source=govdelivery" target="_blank">American-Made Digitizing Utilities Prize Round-2 Phase-I winner</a>, U.S. DOE, 2024
 * <a class="" href="/news/UH_CoENG_Research_Excellence/" target="_blank">Junior Faculty Research Excellence Award</a>, College of Engineering, University of Houston, 2024
 * <a class="" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337598&HistoricalAwards=false" target="_blank">NSF CAREER Award</a>, National Science Foundation (NSF), USA, 2024
-* <a class="" href="https://www.nationalacademies.org/news/2024/01/gulf-research-program-announces-newest-cohorts-of-early-career-research-fellows-in-offshore-energy-safety-and-education-research" target="_blank">Early-Career Research Follow</a>, NAS Gulf Research Program, USA, 2023
+* <a class="" href="https://www.nationalacademies.org/news/2024/01/gulf-research-program-announces-newest-cohorts-of-early-career-research-fellows-in-offshore-energy-safety-and-education-research" target="_blank">Early-Career Research Follow</a>, National Academies Gulf Research Program, USA, 2023
 * <a class="" href="/news/NASA-Recogntn_LunarPower/" target="_blank">Recognition of Excellence</a>, EVA and Human Surface Mobility Program of NASA, USA, 2023
 * <a class="" href="https://www.otcnet.org/press-releases/otc-2023-announces-emerging-leaders-class" target="_blank">Emerging Leader</a>, Offshore Technology Conference (OTC), 2023
 * <a class="" href="https://research.gatech.edu/sei-summer-faculty-fellows-presented-research-work-takeaways-grow-and-nurture-collaborations" target="_blank">Energy Faculty Fellow</a>, Georgia Tech, 2023
 * Fellow of the NSF Convergence Research (CORE) Institute, USA, 2023
+* Senior Member of IEEE, 2022
 * <a class="" href="https://www.energy.gov/oe/articles/eitpic-awardee-profile-university-houston-investigates-resilient-grid-strategies" target="_blank">Tier-1 Silver Award</a> for the <a class="off" href="https://netl.doe.gov/OEElectricityChallenge" target="_blank">EITPIC prize competition</a>, U.S. Department of Energy, 2019
 * <a class="" href="https://www.energy.gov/oe/articles/eitpic-awardee-profile-university-houston-investigates-resilient-grid-strategies" target="_blank">Tier-2 Silver Award</a> for the <a class="off" href="https://netl.doe.gov/OEElectricityChallenge" target="_blank">EITPIC prize competition</a>, U.S. Department of Energy, 2019
 * IEEE Phoenix Section Student Scholarship, IEEE, 2016

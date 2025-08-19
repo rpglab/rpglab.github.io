@@ -14,6 +14,7 @@ description: "Xingpeng Li attended the US Frontiers of Engineering (USFOE) Sympo
 
 * It was a great event to get to know experts in other areas and expand our professional network.
 
+* <a class="" href="https://www.naefrontiers.org/217563/Innovative-EarlyCareer-Engineers-Selected-to-Participate-in-The-Grainger-Foundation-Frontiers-of-Engineering-2024-Symposium-of-the-National-Academy-of-Engineering" target="_blank">Here is the official news article<a>.
 
 <div class="spacer"></div>
 <div class="spacer"></div>
