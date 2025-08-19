@@ -16,12 +16,12 @@ Last updated on: August 18, 2025.
 ## Overview
 This is a mini 101 'course' for power system academia beginners such as PhD students.
 
-The first version (v1.0) of this document is a public shrinked version of “UH RPG Lab Resources Version 1.6.2” that was shared with RPG Lab members on June 20, 2023.
+The very first version (v1.0) of this document is a public shrinked version of “UH RPG Lab Resources and Student Handbook", released on June 20, 2023.
 
 ## Citation:
 To cite this document, please cite the following as a reference:
 
-* Xingpeng Li, "Power System Academia 101", Jul. 2023. [Online]. Available at: https://rpglab.github.io/resources/Power-System-Academia-101/
+* Xingpeng Li, "Power System Academia 101", Aug. 2025. [Online]. Available at: https://rpglab.github.io/resources/Power-System-Academia-101/
 
 
 ## Contact:
