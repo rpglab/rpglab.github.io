@@ -4,8 +4,8 @@ title: "Approximating CCCV charging using SOC-dependent tapered charging power c
 image: 
 authors: Hassan Zahid Butt, Xingpeng Li.
 year: 2025
-ref: Hassan Zahid Butt et al, arXiv, 2025.  
-journal: "arXiv"
+ref: Hassan Zahid Butt et al, North American Power Symposium, 2025.  
+journal: "North American Power Symposium"
 pdf: 
 webpdf: https://arxiv.org/pdf/2507.18853
 codes: 
@@ -21,5 +21,5 @@ Traditional long-term microgrid planning models assume constant power charging f
 Battery energy storage systems, CCCV charging, tapering, microgrid planning, long-term optimization.
 
 # Cite this paper:
-Hassan Zahid Butt and Xingpeng Li, “Approximating CCCV charging using SOC-dependent tapered charging power constraints in long-term microgrid planning", *arXiv*, 2025.
+Hassan Zahid Butt and Xingpeng Li, “Approximating CCCV charging using SOC-dependent tapered charging power constraints in long-term microgrid planning", *North American Power Symposium*, Hartford, CT, USA, Oct. 2025.
 
