@@ -7,10 +7,10 @@ year: 2025
 ref: Jesus Silva-Rodriguez et al, arXiv, 2025. 
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2508.14297
 codes: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2508.14297
 ---
 
 # Abstract
