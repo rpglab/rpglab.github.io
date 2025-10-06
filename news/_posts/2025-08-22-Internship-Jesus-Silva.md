@@ -1,7 +1,7 @@
 ---
 layout: newsitem
 title: ERCOT Internship - Jesus Silva-Rodriguez - Summer 2025
-time: 2024-05-03
+time: 2025-08-22
 link: 
 description: "Jesus Silva-Rodriguez completed his summer internship at Electric Reliability Council of Texas (ERCOT) in Summer 2025."
 ---
