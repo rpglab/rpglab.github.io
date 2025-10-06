@@ -6,6 +6,8 @@ link:
 description: "Jesus Silva-Rodriguez completed his summer internship at Electric Reliability Council of Texas (ERCOT) in Summer 2025."
 ---
 
+ERCOT is the Grid Operator for Texas. ERCOT: Electric Reliability Council of Texas.
+
 <div class="smallhead" style="font-size:20px;">
 <!--      <p style="color:black; font-size:20px;"> -->
       <p>
