@@ -3,7 +3,7 @@ layout: newsitem
 title: Received DOE EERE Award
 time: 2024-12-23
 link: 
-description: "New project was funded by DOE EERE through MSRDC and UTEP. Funding: $320,000."
+description: "New project was funded by DOE EERE through MSRDC and UTEP. UH Funding: $320,000."
 ---
 
 * Our project entitled "Hispanic Alliance for Clean Energy Education and Research (HACEER)" has been selected by MSRDC that is a collective of high-performing researchers and collaborative partners on a mission to elevate research.
