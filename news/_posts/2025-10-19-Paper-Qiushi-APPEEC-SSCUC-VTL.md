@@ -1,6 +1,6 @@
 ---
 layout: newsitem
-title: Paper Accepted by IEEE PES Asia-Pacific Power & Energy Engineering Conference (APPEEC)
+title: Paper Accepted by IEEE Asia-Pacific Power & Energy Engineering Conference (APPEEC)
 time: 2025-10-19
 link: 
 description: "Congratulations to Qiushi Wang for her paper 'A Scenario-based Stochastic Model of using BESS-based Virtual Transmission Lines in Day-Ahead Unit Commitment' accepted by APPEEC."
