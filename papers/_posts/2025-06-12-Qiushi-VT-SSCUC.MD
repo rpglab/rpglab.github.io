@@ -1,11 +1,11 @@
 ---
 layout: paper
-title: "Scenario-based Stochastic Day-Ahead Energy Scheduling for Power Systems with BESS-based Virtual Transmission Line"
+title: "A Scenario-based Stochastic Model of using BESS-based Virtual Transmission Lines in Day-Ahead Unit Commitment"
 image: 
 authors: Qiushi Wang, Xingpeng Li.
 year: 2025
-ref: Qiushi Wang et al, arXiv, 2025. 
-journal: "arXiv"
+ref: Qiushi Wang et al, IEEE PES APPEEC, 2025. 
+journal: "IEEE PES APPEEC"
 pdf: 
 webpdf: 
 codes: 
@@ -20,5 +20,5 @@ The rapid increase in renewable energy sources (RES) implementation in the power
 Virtual transmission line, BESS, Stochastic optimization, Security-constrained unit commitment.
 
 # Cite this paper:
-Qiushi Wang and Xingpeng Li, “Scenario-based Stochastic Day-Ahead Energy Scheduling for Power Systems with BESS-based Virtual Transmission Line”, *arXiv*, 2025.
+Qiushi Wang and Xingpeng Li, “A Scenario-based Stochastic Model of using BESS-based Virtual Transmission Lines in Day-Ahead Unit Commitment”, *IEEE PES Asia-Pacific Power & Energy Engineering Conference (APPEEC)*, Auckland, New Zealand, Dec. 2025.
 
