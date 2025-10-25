@@ -4,8 +4,8 @@ title: "A Scenario-based Stochastic Model of using BESS-based Virtual Transmissi
 image: 
 authors: Qiushi Wang, Xingpeng Li.
 year: 2025
-ref: Qiushi Wang et al, IEEE PES APPEEC, 2025. 
-journal: "IEEE PES APPEEC"
+ref: Qiushi Wang et al, IEEE PES Asia-Pacific Power & Energy Engineering Conference, 2025. 
+journal: "IEEE PES Asia-Pacific Power & Energy Engineering Conference"
 pdf: 
 webpdf: 
 codes: 
