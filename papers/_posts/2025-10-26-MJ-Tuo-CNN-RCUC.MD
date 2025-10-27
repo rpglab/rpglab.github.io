@@ -2,7 +2,7 @@
 layout: paper
 title: "Machine Learning-assisted Dynamics-Constrained Day-Ahead Energy Scheduling"
 image: 
-authors: Mingjian Tuo, Xingpeng Li.
+authors: Mingjian Tuo, Xingpeng Li, Pascal Van Hentenryck.
 year: 2025
 ref: Mingjian Tuo et al, Electric Power Systems Research, 2025.
 journal: "Electric Power Systems Research"
