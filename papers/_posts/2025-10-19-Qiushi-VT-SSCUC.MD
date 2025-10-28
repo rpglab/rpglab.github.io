@@ -7,10 +7,10 @@ year: 2025
 ref: Qiushi Wang et al, IEEE PES Asia-Pacific Power & Energy Engineering Conference, 2025. 
 journal: "IEEE PES Asia-Pacific Power & Energy Engineering Conference"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2510.22483
 codes: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2510.22483
 ---
 
 # Abstract
