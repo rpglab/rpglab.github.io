@@ -7,7 +7,7 @@ year: 2023
 ref: Cunzhi Zhao, Jesus Silva-Rodriguez et al, Hawaii International Conference on System Sciences, 2023.
 journal: "Hawaii International Conference on System Sciences"
 pdf: https://arxiv.org/ftp/arxiv/papers/2206/2206.07887.pdf
-doi: 
+doi: 10.24251/HICSS.2023.315
 arxiv: https://arxiv.org/abs/2206.07887
 ---
 

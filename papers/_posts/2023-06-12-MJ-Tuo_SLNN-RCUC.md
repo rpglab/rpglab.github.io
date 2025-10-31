@@ -9,7 +9,7 @@ journal: "IEEE North American Power Symposium (NAPS)"
 webpdf: https://arxiv.org/ftp/arxiv/papers/2211/2211.08502.pdf
 pdf: 
 data: /resources/FCUC-24bus-Sys_PSSE-TimeDmn-Data/
-doi: 
+doi: 10.1109/NAPS58826.2023.10318640
 arxiv: https://arxiv.org/abs/2211.08502
 ---
 

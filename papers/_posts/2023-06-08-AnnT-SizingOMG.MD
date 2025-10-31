@@ -9,7 +9,7 @@ journal: "IEEE North American Power Symposium (NAPS)"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2308/2308.02374.pdf
 codes: 
-doi: 
+doi: 10.1109/NAPS58826.2023.10318718
 arxiv: https://arxiv.org/abs/2308.02374
 ---
 
