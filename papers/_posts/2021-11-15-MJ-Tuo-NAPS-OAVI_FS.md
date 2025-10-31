@@ -7,7 +7,7 @@ year: 2021
 ref: Mingjian Tuo et al, North American Power Symposium (NAPS), 2021. 
 journal: "2021 IEEE North American Power Symposium (NAPS)"
 pdf: /pdfs/papers/20211115_MJ-Tuo-NAPS-OAVI_FS.pdf
-doi: 
+doi: 10.1109/NAPS52732.2021.9654729
 arxiv: https://arxiv.org/abs/2110.11497
 ---
 
