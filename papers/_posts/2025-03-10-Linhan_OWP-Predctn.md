@@ -7,9 +7,9 @@ year: 2025
 ref: Linhan Fang, Fan Jiang, Ann Mary Toms, et al, IEEE PES General Meeting, 2025.
 journal: "IEEE PES General Meeting"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2503.13493
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2503.13493
 ---
 
 # Abstract
