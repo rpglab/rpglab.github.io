@@ -7,7 +7,7 @@ year: 2021
 ref: Arun Venkatesh Ramesh et al, IEEE PES General Meeting, 2021. 
 journal: "IEEE PES General Meeting 2021"
 pdf: /pdfs/papers/20210726_A-Ramesh_NR_RES_ESS.pdf
-doi: 
+doi: 10.1109/PESGM46819.2021.9638033
 arxiv: https://arxiv.org/abs/2103.13321
 ---
 

@@ -8,7 +8,7 @@ ref: Jesus Silva-Rodriguez et al, IEEE North American Power Symposium, 2021.
 journal: "North American Power Symposium"
 pdf: /pdfs/papers/20211113_J-SilvaRodriguez_WECoOp_CSM.pdf
 codes: /resources/SingleMicroWEN-Matlab/
-doi: 
+doi: 10.1109/NAPS52732.2021.9654518
 researchgate: https://www.researchgate.net/publication/355484837_Water-Energy_Co-Optimization_for_Community-Scale_Microgrids
 ---
 

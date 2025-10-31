@@ -7,7 +7,7 @@ year: 2021
 ref: Cunzhi Zhao et al, IEEE PES General Meeting, 2021. 
 journal: "IEEE PES General Meeting 2021"
 pdf: /pdfs/papers/20210726_Cunzhi-PESGM-SupportingMG.pdf
-doi: 
+doi: 10.1109/PESGM46819.2021.9637899
 arxiv: https://arxiv.org/abs/2104.14635
 ---
 

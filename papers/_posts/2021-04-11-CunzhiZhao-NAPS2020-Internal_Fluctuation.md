@@ -7,7 +7,7 @@ year: 2021
 ref: Cunzhi Zhao et al, 52nd North American Power Symposium (NAPS), 2020. 
 journal: "52nd North American Power Symposium (NAPS)"
 pdf: /pdfs/papers/20210415_Cunzhi-NAPS-FriendlyMG.pdf
-doi: 
+doi: 10.1109/NAPS50074.2021.9449807
 arxiv: https://arxiv.org/abs/2006.11521
 ---
 
