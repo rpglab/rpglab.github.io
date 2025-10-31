@@ -9,7 +9,7 @@ journal: "Energies"
 pdf: 
 webpdf: https://www.mdpi.com/1996-1073/15/20/7606/pdf?version=1666690711
 codesdata: /resources/ML-Price-Prdctn/
-doi: 
+doi: 10.3390/en15207606
 arxiv: https://arxiv.org/abs/2112.13681
 ---
 

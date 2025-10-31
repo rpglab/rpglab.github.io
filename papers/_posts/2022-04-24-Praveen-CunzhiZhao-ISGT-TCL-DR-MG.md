@@ -8,7 +8,7 @@ ref: Praveen Dhanasekar, Cunzhi Zhao et al, IEEE PES Innovative Smart Grid Techn
 journal: "IEEE PES Innovative Smart Grid Technology (ISGT)"
 pdf: /pdfs/papers/20220221_DR-TCL-MG.pdf
 codes: /resources/HVAC_DR/
-doi: 
+doi: 10.1109/ISGT50606.2022.9817502
 arxiv: https://arxiv.org/abs/2110.12345
 ---
 
