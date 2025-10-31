@@ -7,7 +7,7 @@ year: 2021
 ref: Jin Lu et al, 53rd North American Power Symposium, 2021. 
 journal: "53rd North American Power Symposium"
 pdf: /pdfs/papers/20211114_J-Lu_OSNR_TC_TP.pdf
-doi: 
+doi: 10.1109/NAPS52732.2021.9654724
 arxiv: https://arxiv.org/abs/2110.03060
 ---
 
