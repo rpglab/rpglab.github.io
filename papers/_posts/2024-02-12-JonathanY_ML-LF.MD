@@ -9,7 +9,7 @@ journal: "Texas Power and Energy Conference"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.08793.pdf
 codes: /resources/ML-EROCT-LF_Python/
-doi: 
+doi: 10.1109/TPEC60005.2024.10472183
 arxiv: https://arxiv.org/abs/2310.08793
 researchgate: 
 ---

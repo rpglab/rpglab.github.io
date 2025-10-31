@@ -9,7 +9,7 @@ journal: "North American Power Symposium"
 pdf: 
 webpdf: https://arxiv.org/pdf/2408.00136
 codes: 
-doi: 
+doi: 10.1109/NAPS61145.2024.10741801
 arxiv: https://arxiv.org/abs/2408.00136
 ---
 
