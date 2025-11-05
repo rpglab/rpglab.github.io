@@ -21,5 +21,5 @@ The rapid expansion of inverter-based resources, such as wind and solar power pl
 Frequency stability, Low-inertia power systems, Machine Learning, Mixed-integer linear programming, Optimal energy scheduling, Unit commitment.
 
 # Cite this paper:
-Mingjian Tuo, Xingpeng Li, and Pascal Van Hentenryck, “Machine Learning-assisted Dynamics-Constrained Day-Ahead Energy Scheduling”, *Electric Power Systems Research*, Oct. 2025.
+Mingjian Tuo, Xingpeng Li, and Pascal Van Hentenryck, “Machine Learning-assisted Dynamics-Constrained Day-Ahead Energy Scheduling”, *Electric Power Systems Research*, vol. 252, Jan. 2026.
 
