@@ -7,11 +7,11 @@ year: 2025
 ref: Mingjian Tuo et al, Electric Power Systems Research, 2025.
 journal: "Electric Power Systems Research"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2309.02650
 codes: 
 data: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2309.02650
 ---
 
 # Abstract
