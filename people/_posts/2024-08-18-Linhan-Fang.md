@@ -8,7 +8,7 @@ image: /images/team/Linhan_Fang.jpg
 cv: 
 index: "Distribution system operations, reliability and optimization, Grid Integration of DER and EV, Voltage regulation"
 scholar: 
-linkedin: 
+linkedin: linhan-fang-b4a29037b
 website: 
 calendar: 
 handle: 
