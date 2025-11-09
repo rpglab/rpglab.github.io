@@ -1,9 +1,9 @@
 ---
 layout: member
 title: Xiaolei (Melody) Zhang
-position: Incoming PhD Student
+position: PhD Student
 time: 2025.08 - present
-email: 
+email: xzhang81@CougarNet.UH.EDU
 image: /images/team/Xiaolei_Zhang.JPG
 cv: 
 index: "Distribution system automation and operations"

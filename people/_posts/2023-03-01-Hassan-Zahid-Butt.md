@@ -3,12 +3,12 @@ layout: member
 title: Hassan Zahid Butt
 position: PhD Student
 time: 2023.03 - present
-email: 
+email: hbutt@CougarNet.UH.EDU
 image: /images/team/Hassan_Zahid_Butt.jpeg
 cv: 
 index: "Microgrid sizing and design with battery energy storage"
 scholar: 
-linkedin: 
+linkedin: hassan-zahid-butt-02587211a
 website: 
 calendar: 
 handle: 

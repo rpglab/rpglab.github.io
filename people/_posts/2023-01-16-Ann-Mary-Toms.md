@@ -3,7 +3,7 @@ layout: member
 title: Ann Mary Toms
 position: PhD Student
 time: 2023.01 - present
-email: 
+email: atoms2@CougarNet.UH.EDU
 image: /images/team/Ann_Mary_Toms.jpg
 cv: 
 index: "Microgrid optimal energy management, control and sizing"

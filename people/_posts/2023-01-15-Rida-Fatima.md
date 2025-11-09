@@ -3,12 +3,12 @@ layout: member
 title: Rida Fatima
 position: PhD Student
 time: 2023.01 - present
-email: 
+email: rfatima4@CougarNet.UH.EDU
 image: /images/team/Rida_Fatima.png
 cv: 
 index: "Distribution network operations and DER integration"
 scholar: 
-linkedin: 
+linkedin: rida-fatima-81a127118
 website: 
 calendar: 
 handle: 

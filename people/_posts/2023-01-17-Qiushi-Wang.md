@@ -3,7 +3,7 @@ layout: member
 title: Qiushi Wang
 position: PhD Student
 time: 2023.01 - present
-email: 
+email: qwang45@CougarNet.UH.EDU
 image: /images/team/Qiushi_Wang.jpg
 cv: 
 index: "Energy storage-based virtual transmission, Congestion management, Grid integration of renewables"
