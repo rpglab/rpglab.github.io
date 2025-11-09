@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Haoxiang Wan
-position: Incoming PhD Student
+position: PhD Student
 time: 2025.08 - present
 email: hwan6@CougarNet.UH.EDU
 image: /images/team/Haoxiang_Wan.jpg
