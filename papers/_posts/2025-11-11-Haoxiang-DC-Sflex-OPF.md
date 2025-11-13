@@ -4,7 +4,7 @@ title: "Grid Operational Benefit Analysis of Data Center Spatial Flexibility: Co
 image: 
 authors: Haoxiang Wan, Linhan Fang, Xingpeng Li.
 year: 2025
-ref: Rida Fatima, Linhan Fang et al, arXiv, 2025.
+ref: Haoxiang Wan, Linhan Fang et al, arXiv, 2025.
 journal: "arXiv"
 pdf: 
 webpdf: https://arxiv.org/pdf/2511.08759
