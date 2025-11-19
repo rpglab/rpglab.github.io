@@ -22,8 +22,4 @@ Cost-benefit analysis, electrolyzer, fuel cell, HVDC, hydrogen pipeline, offshor
 # Cite this paper:
 Jesus Silva-Rodriguez, Jin Lu and Xingpeng Li, “Cost-Benefit Analysis and Comparisons for Different Offshore Wind Energy Transmission Systems”, *Offshore Technology Conference*, Houston, TX, USA, May 2023.
 
-# Contributions:
-* Jesus Silva-Rodriguez proposed the optimization models. 
-* Jin Lu wrote the python codes. 
-* Xingpeng Li supervised this work.
-* Both Jesus Silva-Rodriguez and Jin Lu contributed to the original paper writing. They contributed equally to this work.
+(Jesus Silva-Rodriguez and Jin Lu contributed equally to this work.)
