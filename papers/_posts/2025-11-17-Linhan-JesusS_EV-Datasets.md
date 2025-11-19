@@ -4,19 +4,19 @@ title: "Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Loa
 image: 
 authors: Linhan Fang, Jesus Silva-Rodriguez, Xingpeng Li.
 year: 2025
-ref: Jesus Silva-Rodriguez et al, arXiv, 2025.
+ref: Linhan Fang, Jesus Silva-Rodriguez et al, arXiv, 2025.
 journal: "arXiv"
 pdf: 
-webpdf: https://arxiv.org/pdf/2511.08750
+webpdf: https://arxiv.org/pdf/2511.13861
 doi: 
-arxiv: https://arxiv.org/abs/2511.08750
+arxiv: https://arxiv.org/abs/2511.13861
 ---
 
 # Abstract
-The alternating direction method of multipliers (ADMM) is a powerful algorithm for solving decentralized optimization problems including networked microgrid energy management (NetMEM). However, its performance is highly sensitive to the selection of its penalty parameter ρ, which can lead to slow convergence, suboptimal solutions, or even algorithm divergence. This paper evaluates and compares three district ADMM formulations to solve the NetMEM problem, which explore different methods to determine appropriate stopping points, aiming to yield high-quality solutions. Furthermore, an adaptive penalty heuristic is also incorporated into each method to analyze its potential impact on ADMM performance. Different case studies on networks of varying sizes demonstrate that an objective-based ADMM approach, denominated as OB-ADMM, is significantly more robust to the choice of ρ, consistently yielding solutions closer to the centralized optimal benchmark by preventing premature algorithm stopping.
+Widespread electric vehicle (EV) adoption introduces new challenges for distribution grids due to large, localized load increases, stochastic charging behavior, and limited data availability. This paper proposes two data-driven methods to estimate residential EV charging profiles using real-world customer meter data from CenterPoint Energy serving the Houston area. The first approach applies a least-squares estimation to extract average charging rates by comparing aggregated EV and non-EV meter data, enabling a statistical method for starting and ending charge times. The second method isolates EV load from meter profiles and applies a kernel density estimation (KDE) to develop a probabilistic charging model. Both methods produce a distinct "u-shaped" daily charging profile, with most charging occurring overnight. The validated profiles offer a scalable tool for utilities to better anticipate EV-driven demand increases and support proactive grid planning.
 
 # Index Terms
-Alternating Direction Method of Multipliers, Decentralized Optimization, Energy Management, Networked Microgrids.
+Data-Driven, Electric Vehicles, Kernel Density Estimation, Load Profile Estimation, Probability Distributions. 
 
 # Cite this paper:
 Linhan Fang, Jesus Silva-Rodriguez, and Xingpeng Li, "Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Load Dataset Generation", *arXiv*, Nov. 2025.
