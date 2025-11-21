@@ -30,7 +30,7 @@ This dataset was developed for distribution system studies, but it could also be
 ### Data Generation Methods:
 * Two independent methods were implemented to analyze real utility data to generate two groups of EV charging load data respectively. The details can be found in the paper below.
 * <a class="off" href="/people/Jesus-SilvaRodriguez/"  target="_blank">Jesus Silva-Rodriguez</a> implemented the STATISTICAL AGGREGATE CONSTANT LOAD METHOD.
-* <a class="off" href="/people/Linhan-Fang/"  target="_blank">Linhan Fang</a> implemented the NORMALIZED SUBTRACTON METHOD.
+* <a class="off" href="/people/Linhan-Fang/"  target="_blank">Linhan Fang</a> implemented the NORMALIZED SUBTRACTION METHOD.
 
 
 ### Data Loading Methods:
