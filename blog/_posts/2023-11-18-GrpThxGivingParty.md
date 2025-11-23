@@ -26,7 +26,7 @@ A few group photos were taken as attached below.
 ![](/images/blog/2023.11.18_Thanksgiving_party/P1_UNO-game.jpg)
 <p></p>
 <span class="text-figure-legend" style="font-size:15px;">
-Figure 1. Game Time - UNO. (People from me in clockwise around the table: <a class="off" href="/people/Xingpeng_Li/">Xingpeng Li</a>, Qianxue Xia, <a class="off" href="/people/Jin-Lu/">Jin Lu</a>, <a class="off" href="/people/Amaze-Anna-Toms/">Amaze Anna Toms</a>, <a class="off" href="/people/Ann-Mary-Toms/">Ann Mary Toms</a>, <a class="off" href="/people/Jesus-SilvaRodriguez/">Jesus Silva-Rodriguez</a>, <a class="off" href="/people/Cunzhi-Zhao/">Cunzhi Zhao</a>, <a class="off" href="/people/Arun-Venkatesh-Ramesh/">Arun Venkatesh Ramesh</a>, <a class="off" href="/people/Elias_Raffoul/">Elias Raffoul</a>, <a class="off" href="/people/Rida-Fatima/">Rida Fatima</a>, <a class="off" href="/people/Hassan-Zahid-Butt/">Hassan Zahid Butt</a>)
+Figure 1. Game Time - UNO. (People from me in clockwise around the table: <a class="off" href="/people/Xingpeng-Li/">Xingpeng Li</a>, Qianxue Xia, <a class="off" href="/people/Jin-Lu/">Jin Lu</a>, <a class="off" href="/people/Amaze-Anna-Toms/">Amaze Anna Toms</a>, <a class="off" href="/people/Ann-Mary-Toms/">Ann Mary Toms</a>, <a class="off" href="/people/Jesus-SilvaRodriguez/">Jesus Silva-Rodriguez</a>, <a class="off" href="/people/Cunzhi-Zhao/">Cunzhi Zhao</a>, <a class="off" href="/people/Arun-Venkatesh-Ramesh/">Arun Venkatesh Ramesh</a>, <a class="off" href="/people/Elias_Raffoul/">Elias Raffoul</a>, <a class="off" href="/people/Rida-Fatima/">Rida Fatima</a>, <a class="off" href="/people/Hassan-Zahid-Butt/">Hassan Zahid Butt</a>)
 </span>
 
 ![](/images/blog/2023.11.18_Thanksgiving_party/P2_Texas-Poker-last-round.jpg)
