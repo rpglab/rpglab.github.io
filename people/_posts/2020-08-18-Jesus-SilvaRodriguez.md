@@ -7,7 +7,7 @@ email: jasilvarodriguez@uh.edu
 image: /images/team/Jesus_SilvaRodriguez.jpg
 cv: 
 index: "Water-energy nexus, Microgrid energy management, Lunar Power Systems"
-scholar: 
+scholar: skVFX8cAAAAJ
 PhDissertation: 
 PhDefenseSlides: /pdfs/team/2025-11-24_Jesus_Silva-Rodriguez_Presentation.pdf
 linkedin: jesus-silva-rodriguez-759446167
