@@ -7,10 +7,10 @@ year: 2025
 ref: Fan Jiang et al, arXiv, 2025. 
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://www.arxiv.org/pdf/2512.01814
 codes: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2512.01814
 ---
 
 # Abstract
