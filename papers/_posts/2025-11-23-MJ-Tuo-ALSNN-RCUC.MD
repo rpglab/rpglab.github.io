@@ -10,7 +10,7 @@ pdf:
 webpdf: 
 codes: 
 data: /resources/FCUC-24bus-Sys_PSSE-TimeDmn-Data/
-doi: 
+doi: 10.1109/TPWRS.2025.3639407
 arxiv: 
 ---
 
