@@ -7,11 +7,11 @@ year: 2025
 ref: Mingjian Tuo, Fan Jiang et al, IEEE Transactions on Power Systems, 2025.
 journal: "IEEE Transactions on Power Systems"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2307.04880
 codes: 
 data: /resources/FCUC-24bus-Sys_PSSE-TimeDmn-Data/
 doi: 10.1109/TPWRS.2025.3639407
-arxiv: 
+arxiv: https://arxiv.org/abs/2307.04880
 ---
 
 # Abstract
