@@ -9,7 +9,7 @@ journal: "IEEE Canada Electrical Power and Energy Conference"
 pdf: 
 webpdf: https://arxiv.org/pdf/2411.16118
 codes: 
-doi: 
+doi: 10.1109/EPEC65543.2025.11230475
 arxiv: https://arxiv.org/abs/2411.16118
 ---
 
