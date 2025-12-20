@@ -8,7 +8,7 @@ ref: Cunzhi Zhao et al, IEEE Transactions on Sustainable Energy, 2025.
 journal: "IEEE Transactions on Sustainable Energy"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2309/2309.08853.pdf
-doi: 
+doi: 10.1109/TSTE.2025.3645573
 arxiv: https://arxiv.org/abs/2309.08853
 researchgate: 
 ---
