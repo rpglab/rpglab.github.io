@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Arun Venkatesh Ramesh
-position: PhD Student
+position: Ph.D.
 time: 2019.01 - 2022.12
 email: aramesh4@uh.edu
 image: /images/team/Arun_Venkatesh_Ramesh.jpg
@@ -36,15 +36,15 @@ Banchelors of Engineering, Anna University, India 2009-2013
 
 
 ## Publication at UH RPG Lab
-* Arun Venkatesh Ramesh and Xingpend Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *IEEE Transactions on Power Systems*, Sep. 2023.
-* Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day Ahead Operations”, *IEEE Transactions on Power Systems*, Apr. 2023. DOI: 10.1109/TPWRS.2023.3266192
-* Arun Venkatesh Ramesh and Xingpeng Li, “Machine Learning Assisted Model Reduction for Security Constrained Unit Commitment”, *North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
-* Arun Venkatesh Ramesh, Xingpeng Li and Kory W. Hedman, "An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment with Corrective Network Reconfiguration," in *IEEE Transactions on Power Systems*, vol. 37, no. 2, pp. 887-900, Mar. 2022. doi: 10.1109/TPWRS.2021.3098771.
-* Arun Venkatesh Ramesh and Xingpeng Li, "Network Reconfiguration Impact on Renewable Energy System and Energy Storage System in Day-Ahead Scheduling", *IEEE Power & Energy Society General Meeting (PESGM)*, Jul. 2021. 
-* Arun Venkatesh Ramesh and Xingpeng Li, "Enhancing System Flexibility through Corrective Demand Response in Security-Constrained Unit Commitment," *2020 52nd North American Power Symposium (NAPS)*, Apr. 2021, pp. 1-6, doi: 10.1109/NAPS50074.2021.9449717.
-* Mingjian Tuo, Arun Venkatesh Ramesh and Xingpeng Li, "Benefits and Cyber-Vulnerability of Demand Response System in Real-Time Grid Operations," *2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*, Oct. 2020, pp. 1-6, doi: 10.1109/SmartGridComm47815.2020.9302964.
-* Arun Venkatesh Ramesh and Xingpeng Li, "Reducing Congestion-Induced Renewable Curtailment with Corrective Network Reconfiguration in Day-Ahead Scheduling," *2020 IEEE Power & Energy Society General Meeting (PESGM)*, Aug. 2020, pp. 1-5, doi: 10.1109/PESGM41954.2020.9281399.
-* Arun Venkatesh Ramesh and Xingpeng Li, "Security Constrained Unit Commitment with Corrective Transmission Switching," *2019 North American Power Symposium (NAPS)*, Oct. 2019, pp. 1-6, doi: 10.1109/NAPS46351.2019.9000308.
+1. Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment,” *IEEE Transactions on Power Systems*, vol. 39, no. 2, pp. 4735-4746, Mar. 2024. 
+2. Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations,” *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1594-1606, Jan. 2024. 
+3. Arun Venkatesh Ramesh, Xingpeng Li and Kory Hedman, “An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment with Corrective Network Reconfiguration,” *IEEE Transactions on Power Systems*, vol. 37, no. 2, pp. 887-900, Mar. 2022. 
+4. Arun Venkatesh Ramesh and Xingpeng Li, "Network Reconfiguration Impact on Renewable Energy System and Energy Storage System in Day-Ahead Scheduling", *IEEE PES General Meeting*, Washington, DC, USA, Jul. 2021. 
+5. Arun Venkatesh Ramesh and Xingpeng Li, "Reducing Congestion-Induced Renewable Curtailment with Corrective Network Reconfiguration in Day-Ahead Scheduling," *IEEE PES General Meeting*, Montreal, QC, Canada, Aug. 2020.
+6. Arun Venkatesh Ramesh and Xingpeng Li, “Machine Learning Assisted Model Reduction for Security Constrained Unit Commitment”, *North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
+7. Arun Venkatesh Ramesh and Xingpeng Li, "Enhancing System Flexibility through Corrective Demand Response in Security-Constrained Unit Commitment," *2020 52nd North American Power Symposium (NAPS)*, Apr. 2021.
+8. Mingjian Tuo, Arun Venkatesh Ramesh and Xingpeng Li, "Benefits and Cyber-Vulnerability of Demand Response System in Real-Time Grid Operations," *2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*, Oct. 2020.
+9. Arun Venkatesh Ramesh and Xingpeng Li, "Security Constrained Unit Commitment with Corrective Transmission Switching," *2019 North American Power Symposium (NAPS)*, Oct. 2019.
 
 ## Classes:
 * ECE 6327 Smart Grid Systems 

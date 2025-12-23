@@ -21,4 +21,4 @@ As renewable energy is becoming the major resource in future grids, the weather 
 Generation investment, Power system dataset, Power system planning, Renewable energy, Reliability index and evaluation, Transmission expansion planning.
 
 # Cite this paper:
-Jin Lu and Xingpeng Li, “Transmission Expansion Planning for Renewable-Energy-Dominated Power Grids Considering Climate Impact”, *Journal of Modern Power Systems and Clean Energy*, early access, Aug. 2024.
+Jin Lu and Xingpeng Li, “Transmission Expansion Planning for Renewable-Energy-Dominated Power Grids Considering Climate Impact”, *Journal of Modern Power Systems and Clean Energy*, vol. 12, no. 6, pp. 1737-1748, Nov. 2024.

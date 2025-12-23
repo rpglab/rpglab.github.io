@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Thuan Pham
-position: PhD Student
+position: Ph.D.
 time: 2020.08 - 2024.12
 email: tdpham7@cougarnet.uh.edu
 image: /images/team/Thuan_Pham.jpg
@@ -44,9 +44,9 @@ University of Houston, Houston, TX, USA
 ## Publications at UH RPG Lab 
 1. Thuan Pham and Xingpeng Li, “Neural Network-based Power Flow Model”, *IEEE Green Technologies Conference*, Houston, TX, USA, Mar. 2022.
 2. Thuan Pham and Xingpeng Li, “Reduced Optimal Power Flow Using Graph Neural Network”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
-3. Thuan Pham and Xingpeng Li, “N-1 Reduced Optimal Power Flow Using Augmented Hierarchical Graph Neural Network”, *ArXiv*.
-4. Thuan Pham and Xingpeng Li, “Graph Neural Network-Accelerated Network-Reconfigured Optimal Power Flow”, *ArXiv*.
-5. Thuan Pham and Xingpeng Li, “Constraints and Variables Reduction for Optimal Power Flow Using Hierarchical Graph Neural Networks with Virtual Node-Splitting”, *ArXiv*.
+3. Thuan Pham and Xingpeng Li, “Constraints and Variables Reduction for Optimal Power Flow Using Hierarchical Graph Neural Networks with Virtual Node-Splitting”, *IEEE IAS Annual Meeting*, New Taipei, Jun. 2025.
+4. Thuan Pham and Xingpeng Li, “N-1 Reduced Optimal Power Flow Using Augmented Hierarchical Graph Neural Network”, *ArXiv*.
+5. Thuan Pham and Xingpeng Li, “Graph Neural Network-Accelerated Network-Reconfigured Optimal Power Flow”, *ArXiv*.
 
 
 
