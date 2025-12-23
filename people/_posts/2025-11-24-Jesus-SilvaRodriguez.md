@@ -26,7 +26,7 @@ Jesus worked in the RPG lab as a PhD student from Jan. 2021 to Dec. 2025.
 
 PhD Dissertation title: *"Decentralized Co-Optimization of Water and Energy Distribution Systems"*
 
-First Job: Large Load Integration Engineer, Electric Reliability Council of Texas (ERCOT), Taylor, Texas, USA.
+First Job: Large Load Integration Engineer, Electric Reliability Council of Texas (ERCOT), Texas, USA.
 
 ## Education
 
