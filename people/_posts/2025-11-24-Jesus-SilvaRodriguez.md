@@ -24,13 +24,13 @@ Dr. Jesus Silva-Rodriguez received his PhD degree in Electrical Engineering from
 
 Jesus worked in the RPG lab as a PhD student from Jan. 2021 to Dec. 2025. 
 
-PhD Dissertation title: *"Decentralized Cooptimization of Water and Energy Distribution Systems"*
+PhD Dissertation title: *"Decentralized Co-Optimization of Water and Energy Distribution Systems"*
 
-First Job: Engineer, Electric Reliability Council of Texas (ERCOT), Taylor, Texas, USA.
+First Job: Large Load Integration Engineer, Electric Reliability Council of Texas (ERCOT), Taylor, Texas, USA.
 
 ## Education
 
-PhD, Electrical Engineering, University of Houston, 2021 - 2025
+Ph.D., Electrical Engineering, University of Houston, 2021 - 2025
 
 B.S., Electrical Engineering, University of Houston, 2020
 
