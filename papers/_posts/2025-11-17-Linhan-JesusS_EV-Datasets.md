@@ -8,6 +8,7 @@ ref: Linhan Fang, Jesus Silva-Rodriguez et al, arXiv, 2025.
 journal: "arXiv"
 pdf: 
 webpdf: https://arxiv.org/pdf/2511.13861
+codes: /resources/EV-load-data/
 doi: 
 arxiv: https://arxiv.org/abs/2511.13861
 ---
