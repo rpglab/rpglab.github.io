@@ -9,7 +9,7 @@ journal: "Offshore Technology Conference"
 pdf: 
 webpdf: https://arxiv.org/ftp/arxiv/papers/2301/2301.11208.pdf
 codes: /resources/OffshoreEgyTransm_Cable_H2Pipeline/
-doi: 
+doi: 10.4043/32440-MS
 arxiv: https://arxiv.org/abs/2301.11208
 ---
 
