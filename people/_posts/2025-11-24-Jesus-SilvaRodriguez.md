@@ -1,8 +1,8 @@
 ---
 layout: member
 title: Jesus Silva-Rodriguez
-position: (i) B.S. (ii) Ph.D. 
-time: 2020.08 to 2025.12
+position: (ii) 2021.01 - 2025.12, Ph.D.
+time: (i) 2020.08 - 2020.12, BS stdnt
 email: jasilvarodriguez@uh.edu
 image: /images/team/Jesus_SilvaRodriguez.jpg
 cv: 
