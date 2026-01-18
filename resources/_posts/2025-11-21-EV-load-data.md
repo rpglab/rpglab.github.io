@@ -13,6 +13,9 @@ doi: 10.6084/m9.figshare.30601655
 description: "This is for our arXiv paper: *Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Load Dataset Generation*. This dataset includes EV starting/ending charge times, duration, and energy drawn from charging events."
 ---
 
+(if the download/Figshare link shows '403' error, please use a different browser or the Chrome Incognito mode)
+
+
 This dataset includes two sets of real-utility-data-derived synthetic multi-year residential level-2 EV charging load data, since two different/independent methods were developed to analyze the real utility data and generate this dataset.
 
 This dataset can be used for both short-term operation studies and long-term planning studies.

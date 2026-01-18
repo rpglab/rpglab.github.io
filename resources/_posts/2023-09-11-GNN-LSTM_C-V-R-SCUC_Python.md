@@ -8,10 +8,12 @@ timeInit: 2023-09-11
 time: 2023-09-11
 github: https://github.com/rpglab/GNN-LSTM_C-V-R-SCUC
 paper: /papers/ArunR_ST-C-V_R-SCUC/
-link: https://figshare.com/articles/dataset/Spatio-Temporal_Deep_Learning-Assisted_Reduced_Security-Constrained_Unit_Commitment/24116394
-doi: 
+link: https://figshare.com/ndownloader/files/42307935
+doi: 10.6084/m9.figshare.24116394
 description: "This is for our TPWRS paper: *Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment*. LSTM-GNN is used to reduce variables and constraints for SCUC; warm-start is enabled for remaining variables."
 ---
+
+(if the download/Figshare link shows '403' error, please use a different browser or the Chrome Incognito mode)
 
 
 This set of codes implements our TPWRS paper "Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment". LSTM-GNN is used to reduce variables and constraints for SCUC; warm-start is enabled for remaining variables.
