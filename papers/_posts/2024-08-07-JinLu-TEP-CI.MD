@@ -8,8 +8,8 @@ ref: Jin Lu et al, Journal of Modern Power Systems and Clean Energy, 2024.
 journal: "Journal of Modern Power Systems and Clean Energy"
 pdf: https://ieeexplore.ieee.org/abstract/document/10630585
 webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.08857.pdf
-codes: 
-data: https://figshare.com/articles/dataset/Future_Profiles_of_TX-123BT/22266991
+codes: /resources/TX-123BT-FutureSysProfile/
+data: 
 doi: 10.35833/MPCE.2023.000990
 arxiv: https://arxiv.org/abs/2310.08857
 ---
