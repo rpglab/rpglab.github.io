@@ -4,7 +4,7 @@ title: "A Two-Stage Hierarchical GNN for Computationally Efficient Reduced Optim
 image: 
 authors: Linhan Fang, Thuan Pham, Xingpeng Li.
 year: 2026
-ref: Linhan Fang et al, arXiv, 2026.
+ref: Linhan Fang, Thuan Pham et al, arXiv, 2026.
 journal: "arXiv"
 pdf: 
 webpdf: 
