@@ -43,7 +43,7 @@ This dataset was developed for distribution system studies, but it could also be
 ## Citation:
 If you use this dataset and/or the attached sample codes in your work, please cite the following paper. 
 
-Linhan Fang, Jesus Silva-Rodriguez, and Xingpeng Li, “Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Load Dataset Generation”, arXiv, Nov. 2025.
+Linhan Fang, Jesus Silva-Rodriguez, and Xingpeng Li, “Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Load Dataset Generation”, *IEEE PES General Meeting*, Montreal, Quebec, Canada, Jul. 2026.
 
 
 Paper website: <a class="off" href="/papers/Linhan-JesusS_EV-Datasets/"  target="_blank">https://rpglab.github.io/papers/Linhan-JesusS_EV-Datasets/</a>
