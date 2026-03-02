@@ -3,9 +3,9 @@ layout: paper
 title: "Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Load Dataset Generation"
 image: 
 authors: Linhan Fang, Jesus Silva-Rodriguez, Xingpeng Li.
-year: 2025
-ref: Linhan Fang, Jesus Silva-Rodriguez et al, arXiv, 2025.
-journal: "arXiv"
+year: 2026
+ref: Linhan Fang, Jesus Silva-Rodriguez et al, IEEE PES General Meeting, 2026.
+journal: "IEEE PES General Meeting"
 pdf: 
 webpdf: https://arxiv.org/pdf/2511.13861
 codes: /resources/EV-load-data/
@@ -20,6 +20,6 @@ Widespread electric vehicle (EV) adoption introduces new challenges for distribu
 Data-Driven, Electric Vehicles, Kernel Density Estimation, Load Profile Estimation, Probability Distributions. 
 
 # Cite this paper:
-Linhan Fang, Jesus Silva-Rodriguez, and Xingpeng Li, "Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Load Dataset Generation", *arXiv*, Nov. 2025.
+Linhan Fang, Jesus Silva-Rodriguez, and Xingpeng Li, "Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Load Dataset Generation", *IEEE PES General Meeting*, Montreal, Quebec, Canada, Jul. 2026.
 
 (Linhan Fang and Jesus Silva-Rodriguez contributed equally to this work.)
