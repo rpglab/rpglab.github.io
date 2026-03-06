@@ -36,7 +36,7 @@ The codes in this repo was initially included in the following package uploaded 
 
 
 ## Citation:
-<a class="off" href="https://doi.org/10.6084/m9.figshare.17161805.v1"  target="_blank">Li, Xingpeng (2021): ECE6379_PSOM.zip. figshare. Online resource. https://doi.org/10.6084/m9.figshare.17161805.v1</a>
+<a class="off" href="https://doi.org/10.6084/m9.figshare.17161805"  target="_blank">Li, Xingpeng: ECE6379_PSOM.zip. figshare. Online resource. https://doi.org/10.6084/m9.figshare.17161805</a>
 
 
 ## License:
