@@ -3,9 +3,9 @@ layout: paper
 title: "ADMM Penalty Parameter Evaluation for Networked Microgrid Energy Management"
 image: 
 authors: Jesus Silva-Rodriguez, Xingpeng Li.
-year: 2025
-ref: Jesus Silva-Rodriguez et al, arXiv, 2025.
-journal: "arXiv"
+year: 2026
+ref: Jesus Silva-Rodriguez et al, IEEE PES General Meeting, 2026.
+journal: "IEEE PES General Meeting"
 pdf: 
 webpdf: https://arxiv.org/pdf/2511.08750
 doi: 
@@ -19,4 +19,4 @@ The alternating direction method of multipliers (ADMM) is a powerful algorithm f
 Alternating Direction Method of Multipliers, Decentralized Optimization, Energy Management, Networked Microgrids.
 
 # Cite this paper:
-Jesus Silva-Rodriguez and Xingpeng Li, "ADMM Penalty Parameter Evaluation for Networked Microgrid Energy Management", *arXiv*, Nov. 2025.
+Jesus Silva-Rodriguez and Xingpeng Li, "ADMM Penalty Parameter Evaluation for Networked Microgrid Energy Management", *IEEE PES General Meeting*, Montreal, Quebec, Canada, Jul. 2026.
