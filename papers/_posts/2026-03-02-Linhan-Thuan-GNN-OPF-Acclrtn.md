@@ -19,4 +19,4 @@ Power system networks are often modeled as homogeneous graphs, which limits the 
 Constraint matrix, Economic dispatch, Hierarchical graph neural network, Machine learning, Optimal power flow, Real-time grid operations, Split bus, Transmission network, TX-123BT system, Virtual node.
 
 # Cite this paper:
-Linhan Fang, Elias Raffoul, and Xingpeng Li, "A Two-Stage Hierarchical GNN for Computationally Efficient Reduced Optimal Power Flow", *arXiv*, Feb. 2026.
+Linhan Fang, Thuan Pham, and Xingpeng Li, "A Two-Stage Hierarchical GNN for Computationally Efficient Reduced Optimal Power Flow", *arXiv*, Feb. 2026.
