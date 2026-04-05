@@ -18,7 +18,7 @@ Conference Location: Montreal, Quebec, Canada.
 
 * <a href="/papers/Linhan-JesusS_EV-Datasets/" class="" target="_blank">Linhan Fang, Jesus Silva-Rodriguez, and Xingpeng Li, “Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Load Dataset Generation”, *IEEE PES General Meeting*, Montreal, Quebec, Canada, Jul. 2026.</a>
 
-	(Jesus Silva-Rodriguez and Elias Raffoul contributed equally to this work.)
+	(Linhan Fang and Jesus Silva-Rodriguez contributed equally to this work.)
 
 * <a href="/papers/Haoxiang-DC-Sflex-OPF/" class="" target="_blank">Haoxiang Wan, Linhan Fang, and Xingpeng Li, “Grid Operational Benefit Analysis of Data Center Spatial Flexibility: Congestion Relief, Renewable Energy Curtailment Reduction, and Cost Saving”, *IEEE PES General Meeting*, Montreal, Quebec, Canada, Jul. 2026.</a>
 
