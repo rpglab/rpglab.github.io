@@ -6,7 +6,7 @@ authors: Mingjian Tuo, Xingpeng Li.
 year: 2022
 ref: Mingjian Tuo et al, North American Power Symposium, 2022.
 journal: "2022 IEEE North American Power Symposium (NAPS)"
-webpdf: https://arxiv.org/ftp/arxiv/papers/2208/2208.08028.pdf
+webpdf: https://arxiv.org/pdf/2208.08028
 pdf: 
 data: /resources/FCUC-24bus-Sys_PSSE-TimeDmn-Data/
 doi: 10.1109/NAPS56150.2022.10012162

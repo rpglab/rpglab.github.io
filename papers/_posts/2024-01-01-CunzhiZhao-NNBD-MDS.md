@@ -7,7 +7,7 @@ year: 2024
 ref: Cunzhi Zhao et al, IEEE Transactions on Power Systems, 2024.
 journal: "IEEE Transactions on Power Systems"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2202/2202.12416.pdf
+webpdf: https://arxiv.org/pdf/2202.12416
 doi: 10.1109/TPWRS.2023.3239113
 arxiv: https://arxiv.org/abs/2202.12416
 ---

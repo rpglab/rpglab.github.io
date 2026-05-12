@@ -7,7 +7,7 @@ year: 2023
 ref: Jin Lu et al, arXiv, 2023. 
 journal: "arXiv"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2312/2312.10823.pdf
+webpdf: https://arxiv.org/pdf/2312.10823
 codes: 
 data: 
 doi: 

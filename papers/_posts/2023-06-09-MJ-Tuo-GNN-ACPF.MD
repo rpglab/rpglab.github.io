@@ -7,7 +7,7 @@ year: 2023
 ref: Mingjian Tuo et al, North American Power Symposium, 2023.
 journal: "IEEE North American Power Symposium (NAPS)"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2307/2307.02049.pdf
+webpdf: https://arxiv.org/pdf/2307.02049
 codes: 
 doi: 10.1109/NAPS58826.2023.10318768
 arxiv: https://arxiv.org/abs/2307.02049

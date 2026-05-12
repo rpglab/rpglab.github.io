@@ -7,7 +7,7 @@ year: 2022
 ref: Cunzhi Zhao et al, North American Power Symposium, 2022. 
 journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2208/2208.06771.pdf
+webpdf: https://arxiv.org/pdf/2208.06771
 codes: /resources/OHRES-Sizing/
 doi: 10.1109/NAPS56150.2022.10012189
 arxiv: https://arxiv.org/abs/2208.06771

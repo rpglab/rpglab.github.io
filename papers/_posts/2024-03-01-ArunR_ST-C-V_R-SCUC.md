@@ -7,7 +7,7 @@ year: 2024
 ref: Arun Venkatesh Ramesh et al, IEEE Transactions on Power Systems, 2024.
 journal: "IEEE Transactions on Power Systems"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2306/2306.01570.pdf
+webpdf: https://arxiv.org/pdf/2306.01570
 codes: /resources/GNN-LSTM_C-V-R-SCUC_Python/
 doi: 10.1109/TPWRS.2023.3313430
 arxiv: https://arxiv.org/abs/2306.01570

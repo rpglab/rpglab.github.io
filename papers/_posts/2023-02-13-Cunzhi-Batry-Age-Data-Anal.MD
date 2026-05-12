@@ -7,7 +7,7 @@ year: 2023
 ref: Cunzhi Zhao et al, Texas Power and Energy Conference, 2023.  
 journal: "Texas Power and Energy Conference"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2211/2211.12481.pdf
+webpdf: https://arxiv.org/pdf/2211.12481
 doi: 10.1109/TPEC56611.2023.10078599
 arxiv: https://arxiv.org/abs/2211.12481
 researchgate: 

@@ -7,7 +7,7 @@ year: 2022
 ref: Arun Venkatesh Ramesh et al, North American Power Symposium, 2022. 
 journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2111/2111.09824.pdf
+webpdf: https://arxiv.org/pdf/2111.09824
 doi: 10.1109/NAPS56150.2022.10012236
 arxiv: https://arxiv.org/abs/2111.09824
 ---

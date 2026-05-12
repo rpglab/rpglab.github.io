@@ -7,7 +7,7 @@ year: 2024
 ref: Thuan Pham et al, arXiv, 2024.
 journal: "arXiv"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2402/2402.06226.pdf
+webpdf: https://arxiv.org/pdf/2402.06226
 doi: 
 arxiv: https://arxiv.org/abs/2402.06226
 ---

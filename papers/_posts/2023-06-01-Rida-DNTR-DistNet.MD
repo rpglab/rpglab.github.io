@@ -7,7 +7,7 @@ year: 2023
 ref: Rida Fatima et al, North American Power Symposium, 2023.
 journal: "IEEE North American Power Symposium (NAPS)"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2308/2308.01984.pdf
+webpdf: https://arxiv.org/pdf/2308.01984
 codes: 
 doi: 10.1109/NAPS58826.2023.10318612
 arxiv: https://arxiv.org/abs/2308.01984

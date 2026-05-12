@@ -7,7 +7,7 @@ year: 2022
 ref: Arun Venkatesh Ramesh et al, IEEE Transactions on Power Systems, 2022. 
 journal: "IEEE Transactions on Power Systems"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/1912/1912.01764.pdf
+webpdf: https://arxiv.org/pdf/1912.01764
 codes: /resources/ABD_N-1_SCUC_CNR_AMPL/
 doi: 10.1109/TPWRS.2021.3098771
 arxiv: https://arxiv.org/abs/1912.01764

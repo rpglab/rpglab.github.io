@@ -7,7 +7,7 @@ year: 2024
 ref: Jonathan Yang et al, Texas Power and Energy Conference, 2024.  
 journal: "Texas Power and Energy Conference"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.08793.pdf
+webpdf: https://arxiv.org/pdf/2310.08793
 codes: /resources/ML-EROCT-LF_Python/
 doi: 10.1109/TPEC60005.2024.10472183
 arxiv: https://arxiv.org/abs/2310.08793

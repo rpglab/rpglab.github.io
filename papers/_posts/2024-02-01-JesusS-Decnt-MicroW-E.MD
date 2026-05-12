@@ -7,7 +7,7 @@ year: 2024
 ref: Jesus Silva-Rodriguez et al, Electric Power Systems Research, 2024. 
 journal: "Electric Power Systems Research"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.01681.pdf
+webpdf: https://arxiv.org/pdf/2310.01681
 codes: /resources/MWEN_OB-ADMM-Python/
 doi: 10.1016/j.epsr.2024.110611
 arxiv: https://arxiv.org/abs/2310.01681

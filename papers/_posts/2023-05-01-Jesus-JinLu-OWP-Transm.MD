@@ -7,7 +7,7 @@ year: 2023
 ref: Jesus Silva-Rodriguez, Jin Lu et al, Offshore Technology Conference 2023. 
 journal: "Offshore Technology Conference"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2301/2301.11208.pdf
+webpdf: https://arxiv.org/pdf/2301.11208
 codes: /resources/OffshoreEgyTransm_Cable_H2Pipeline/
 doi: 10.4043/32440-MS
 arxiv: https://arxiv.org/abs/2301.11208

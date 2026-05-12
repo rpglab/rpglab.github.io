@@ -7,7 +7,7 @@ year: 2025
 ref: Hassan Zahid Butt et al, Electric Power Systems Research, 2025.  
 journal: "Electric Power Systems Research"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2402/2402.01989.pdf
+webpdf: https://arxiv.org/pdf/2402.01989
 codes: 
 doi: 10.1016/j.epsr.2025.111785
 arxiv: https://arxiv.org/abs/2402.01989

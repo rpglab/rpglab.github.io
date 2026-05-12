@@ -7,7 +7,7 @@ year: 2025
 ref: Qiushi Wang et al, Electric Power Systems Research, 2025. 
 journal: "Electric Power Systems Research"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2309/2309.07237.pdf
+webpdf: https://arxiv.org/pdf/2309.07237
 codes: 
 doi: 10.1016/j.epsr.2025.111570
 arxiv: https://arxiv.org/abs/2309.07237

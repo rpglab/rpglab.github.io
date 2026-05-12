@@ -7,7 +7,7 @@ year: 2022
 ref: Jin Lu et al, 	North American Power Symposium, 2022. 
 journal: "2022 IEEE North American Power Symposium (NAPS)"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2206/2206.14279.pdf
+webpdf: https://arxiv.org/abs/2206.14279
 codes: /resources/SCUC-H2-Python/
 doi: 10.1109/NAPS56150.2022.10012154
 arxiv: https://arxiv.org/abs/2206.14279

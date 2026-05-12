@@ -7,7 +7,7 @@ year: 2023
 ref: Cunzhi Zhao et al, arXiv, 2023.  
 journal: "arXiv"
 pdf: 
-webpdf: https://arxiv.org/ftp/arxiv/papers/2310/2310.01758.pdf
+webpdf: https://arxiv.org/pdf/2310.01758
 doi: 
 arxiv: https://arxiv.org/abs/2310.01758
 researchgate: 
