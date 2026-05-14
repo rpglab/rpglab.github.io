@@ -6,7 +6,7 @@ link:
 description: "Dr. Li joined the Editorial Board of IEEE Transactions on Power Delivery as an Associate Editor."
 ---
 
-* Dr. Xingpeng Li joined the Editorial Board of *IEEE Transactions on Power Delivery* (TPWRD) as an Associate Editor, starting May 2026. 
+* <a href="/people/Xingpeng-Li/" class="on">Dr. Xingpeng Li</a> joined the Editorial Board of *IEEE Transactions on Power Delivery* (TPWRD) as an Associate Editor, starting May 2026. 
 
 * IEEE TPWRD is a leading journal of the IEEE Power & Energy Society (PES) covering power delivery, transmission and distribution systems, grid modernization, protection, equipment, resilience, and emerging technologies.
 
