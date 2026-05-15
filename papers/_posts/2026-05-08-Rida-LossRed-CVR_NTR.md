@@ -7,9 +7,9 @@ year: 2026
 ref: Rida Fatima, Hassan Zahid Butt et al, arXiv, 2026.
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2605.09912
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2605.09912
 ---
 
 # Abstract
