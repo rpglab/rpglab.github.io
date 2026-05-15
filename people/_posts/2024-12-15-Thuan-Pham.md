@@ -8,6 +8,8 @@ image: /images/team/Thuan_Pham.jpg
 cv: 
 index: "Power flow and optimal power flow, Neural network, Graph convolutional network"
 scholar: https://scholar.google.com/citations?hl=en&user=W0qqTJsAAAAJ
+PhDissertation: 
+PhDefenseSlides: /pdfs/team/2024-12-03_Thuan_Pham_Presentation.pdf
 linkedin: thuan-pham-2017
 website: 
 calendar: 

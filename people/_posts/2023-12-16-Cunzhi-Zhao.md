@@ -8,7 +8,7 @@ image: /images/team/Cunzhi_Zhao.jpg
 cv: 
 index: "Microgrid energy management, Learning based battery degradation modeling"
 scholar: BUID9M8AAAAJ
-PhDissertation: 
+PhDissertation: /pdfs/team/2023-11-07_Cunzhi_Dissertation.pdf
 PhDefenseSlides: /pdfs/team/2023-11-07_Cunzhi_Presentation.pdf
 linkedin: cunzhi-zhao-b50788102
 website: 
