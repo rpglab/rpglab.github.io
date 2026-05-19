@@ -1,25 +1,27 @@
 ---
 layout: resource
-title: Sample AMPL Codes (ECE6327)
+title: Sample AMPL Codes (ECE6327 - 2026 Spring)
 authors: Xingpeng Li
 type: AMPL Code
-zip: /zips/ampl_codes/ECE6327_AMPL_Samples.zip
-timeInit: 2022-05-13
-time: 2022-05-13
+zip: 
+timeInit: 2026-05-19
+time: 2026-05-19
 github: https://github.com/rpglab/ECE6327_SGS_AMPL_Sample_Codes
 doi: 
-description: "40 AMPL programs, including tutorial-level examples and course-level DCOPF, SCUC, DSM, SUC, TS, FACTS, energy storage, and microgrid examples for ECE6327 Smart Grid Systems at University of Houston in 2022 Spring."
+description: "40 AMPL programs, including tutorial-level examples and course-level DCOPF, SCUC, DSM, SUC, TS, FACTS, energy storage, and microgrid examples for ECE6327 Smart Grid Systems at University of Houston in 2026 Spring."
 ---
 
 ## AMPL Codes for Examples in ECE6327 SGS
-This repo provides about 40 AMPL programs, including codes for tutorial-level examples and codes for course-level DCOPF, SCUC, DSM, SUC, transmission switching, FACTS, energy storage, and microgrid energy management and sizing examples that are used for the class ECE6327 Smart Grid Systems at University of Houston for 2022 Spring.
+This repo provides about 40 AMPL programs, including codes for tutorial-level examples and codes for course-level DCOPF, SCUC, DSM, SUC, transmission switching, FACTS, energy storage, and microgrid energy management and sizing examples that are used for the class ECE6327 Smart Grid Systems at University of Houston for 2026 Spring.
 
 This repo is part of the open source materials for the following course taught by Dr. Xingpeng Li.
-* *<a class="off" href="/resources/ECE6327-SGS/" target="_blank">ECE6327 Smart Grid Systems (SGS)</a>* at University of Houston for 2022 Spring
+* *<a class="off" href="/resources/ECE6327-SGS/" target="_blank">ECE6327 Smart Grid Systems (SGS)</a>* at University of Houston for 2026 Spring
 
 The course materials such as lecture slides and assignments can be found <a class="" href="/resources/ECE6327-SGS/" target="_blank">here</a>.
 
 The example codes in the folder "00_AMPL_Tutorial_Codes" and the DCOPF & SCUC codes are also used for my other class <a class="" href="/resources/ECE6379-PSOM/" target="_blank">ECE6379</a>.
+
+This is our second release, after its first version was released in May 2022. Special thanks for Haoxiang Wan for reorganizing the AMPL code files per the updated lectures and slides. Haoxiang started his PhD program with us in August 2025.
 
 
 ## AMPL Tutorial Lecture:
@@ -43,7 +45,7 @@ The codes in this repo was initially included in the following package uploaded 
 
 
 ## Citation:
-Li, Xingpeng (2022): ECE6327_SmartGrid. figshare. Online resource. https://doi.org/10.6084/m9.figshare.19761268.v1
+Li, Xingpeng: ECE6327_SmartGrid. figshare. Online resource. https://doi.org/10.6084/m9.figshare.19761268
 
 
 ## License:

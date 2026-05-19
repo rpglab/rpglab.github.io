@@ -11,7 +11,7 @@ doi:
 description: 30 Python programs, including simple tutorial-level examples and codes for course-level DCOPF, SCUC and LMP examples that are covered in ECE6379 at University of Houston for 2025 Fall.
 ---
 
-## AMPL Codes for Examples in ECE6379 PSOM
+## Python/Pyomo Codes for Examples in ECE6379 PSOM
 This repo provides 30 Python/Pyomo programs, including simple tutorial-level examples and codes for course-level DCOPF, SCUC and LMP examples. They match the AMPL codes that were used for the class ECE6379 Power System Operations and Modeling at University of Houston in 2025 Fall.
 
 Special thanks to our PhD student Haoxiang Wan for translating the AMPL programs into Python programs, including the project codes.
