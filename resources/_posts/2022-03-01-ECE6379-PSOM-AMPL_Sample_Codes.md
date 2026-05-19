@@ -12,7 +12,7 @@ description: 30 AMPL programs, including simple tutorial-level examples and code
 ---
 
 ## AMPL Codes for Examples in ECE6379 PSOM
-This repo provides 30 AMPL programs, including simple tutorial-level examples and codes for course-level DCOPF, SCUC and LMP examples that are used for the class ECE6379 Power System Operations and Modeling at University of Houston for 2021 Fall.
+This repo provides 30 AMPL programs, including simple tutorial-level examples and codes for course-level DCOPF, SCUC and LMP examples that are used for the class ECE6379 Power System Operations and Modeling at University of Houston for 2021 Fall, and remained the same for 2025 Fall.
 
 This repo is part of the open source materials for the following course taught by Dr. Xingpeng Li.
 * *ECE6379 Power System Operations and Modeling (PSOM)* at University of Houston for 2021 Fall
