@@ -7,9 +7,9 @@ year: 2026
 ref: Haoxiang Wan, et al, IEEE IAS Annual Meeting, 2026.
 journal: "IEEE IAS Annual Meeting"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2605.18517
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2605.18517
 ---
 
 # Abstract
