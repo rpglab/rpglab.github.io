@@ -18,3 +18,5 @@ description: "Hassan Zahid Butt won Third Place in the Graduate Student category
 <div class="spacer"></div>
 <div class="spacer"></div>
 
+<div class="smallspacer"></div>
+![](/images/news/2026.05.04_T-D/p13_Hassan_Poster_winner.jpg)
