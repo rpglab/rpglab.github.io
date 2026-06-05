@@ -7,9 +7,9 @@ year: 2026
 ref: Fan Jiang et al, IEEE IAS Annual Meeting, 2026.
 journal: "IEEE IAS Annual Meeting"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2606.05534
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2606.05534
 ---
 
 # Abstract
