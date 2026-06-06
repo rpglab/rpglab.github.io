@@ -10,7 +10,8 @@
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
 
-	  gtag('config', 'G-Y1QMR8T1YZ', { 'debug_mode': true });
+	  <!-- gtag('config', 'G-Y1QMR8T1YZ', { 'debug_mode': true }); -->
+	  gtag('config', 'G-Y1QMR8T1YZ');
 	</script>
 
 
@@ -178,15 +179,74 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 			</div>
 
-		    <!-- This is the code for ClustrMaps that tracks visitors. -->
+		    <!-- This is the code for ClustrMaps that tracks visitors.  / commented out on 06/06/2026
 		    <div class="col-lg-4 memberbox">
-				<div class="row">
+				<div class="row">   -->
 					<!-- <script type='text/javascript' id='clustrmaps'  target="_blank" src='//cdn.clustrmaps.com/map_v2.js?cl=a9caa5&w=325&t=m&d=j-n5lXQIyldfuPlRN_6qmu40j5vPWr-yAfiEYvkyxZs&co=8d79f1&ct=010000&cmo=040000&cmn=000900'></script> -->
-					<a href="https://clustrmaps.com/site/1buke" target="_blank">
+			<!-- 		<a href="https://clustrmaps.com/site/1buke" target="_blank">
 						 <img src="//www.clustrmaps.com/map_v2.png?cl=a9caa5&w=325&t=m&d=j-n5lXQIyldfuPlRN_6qmu40j5vPWr-yAfiEYvkyxZs&co=8d79f1&ct=010000&cmo=040000&cmn=000900" />
 					</a>
 				</div>
-		    </div>	  
+		    </div>	-->
+
+			<!-- Visitor map: use ClustrMaps if available; otherwise show MapMyVisitors / added on 06/06/2026 -->
+			<script>
+			  function showVisitorMapFallback() {
+				var clustrmapsWidget = document.getElementById("clustrmaps-widget");
+				var mapmyvisitorsWidget = document.getElementById("mapmyvisitors-widget");
+
+				if (clustrmapsWidget) {
+				  clustrmapsWidget.style.display = "none";
+				}
+
+				if (mapmyvisitorsWidget) {
+				  mapmyvisitorsWidget.style.display = "block";
+				}
+			  }
+
+			  document.addEventListener("DOMContentLoaded", function () {
+				  setTimeout(function () {
+					var img = document.getElementById("clustrmaps-map");
+
+					// If ClustrMaps is still not loaded after 6 seconds, switch to MapMyVisitors.
+					if (!img || !img.complete || img.naturalWidth === 0) {
+					  showVisitorMapFallback();
+					}
+				  }, 6000);
+				});
+			</script>
+
+			<div class="col-lg-4 memberbox">
+			  <div class="row">
+
+				<!-- Primary visitor map: ClustrMaps -->
+				<div id="clustrmaps-widget">
+				  <a href="https://clustrmaps.com/site/1buke"
+					 target="_blank"
+					 rel="noopener"
+					 aria-label="View RPGLab visitor map on ClustrMaps">
+					<img id="clustrmaps-map"
+						 src="//www.clustrmaps.com/map_v2.png?cl=a9caa5&w=325&t=m&d=j-n5lXQIyldfuPlRN_6qmu40j5vPWr-yAfiEYvkyxZs&co=8d79f1&ct=010000&cmo=040000&cmn=000900"
+						 alt=""
+						 style="max-width:100%; height:auto;"
+						 onerror="showVisitorMapFallback();" />
+				  </a>
+				</div>
+
+				<!-- Backup visitor map: MapMyVisitors -->
+				<div id="mapmyvisitors-widget" style="display:none;">
+				  <!-- my MapMyVisitors embed code here / Map Widget Installation -->
+					<script type="text/javascript" id="mapmyvisitors"
+					src="https://mapmyvisitors.com/map.js?l=ffffff&w=a&t=m&d=7IS6SAllOCszOrUO5gri8HUNiddAeakyk06AYe4SPwM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+				  <!-- my MapMyVisitors embed code here / Globe Widget Installation -->				  
+				  <!-- <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=1ZDQRcoiEd3VdKLGDDGHrobx5_Bo_0hPEaNQBF6hcRc"></script> -->	
+				</div>
+
+			  </div>
+			</div>
+
+
+			
 		</div>		
 		<div class="spacer"></div>
 		<div class="spacer"></div>
