@@ -189,6 +189,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 		    </div>	-->
 
+
 			<!-- Visitor map: use ClustrMaps if available; otherwise show MapMyVisitors / added on 06/06/2026 -->
 			<script>
 			  (function () {
@@ -205,7 +206,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				  if (mapmyvisitorsWidget) {
 					mapmyvisitorsWidget.style.display = "block";
 
-					// Load MapMyVisitors only once, and only when fallback is needed.
 					if (!document.getElementById("mapmyvisitors")) {
 					  var script = document.createElement("script");
 					  script.type = "text/javascript";
@@ -220,7 +220,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				  setTimeout(function () {
 					var img = document.getElementById("clustrmaps-map");
 
-					// If ClustrMaps is still not loaded after 6 seconds, switch to MapMyVisitors.
 					if (!img || !img.complete || img.naturalWidth === 0) {
 					  window.showVisitorMapFallback();
 					}
@@ -246,7 +245,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				  </a>
 				</div>
 
-				<!-- Backup visitor map: MapMyVisitors. The script will be inserted here only if ClustrMaps fails. -->
+				<!-- Backup visitor map: MapMyVisitors. Keep this empty initially. -->
 				<div id="mapmyvisitors-widget" style="display:none;"></div>
 
 			  </div>
