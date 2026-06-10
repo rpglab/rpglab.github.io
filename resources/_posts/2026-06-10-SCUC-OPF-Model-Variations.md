@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Grid Operational Models: SCUC and OPF Formulations
+title: Grid Operational Models - SCUC and OPF Formulations
 authors: Xingpeng Li
 type: Documents
 zip: /pdfs/documents/SCUC_OPF_Models.pdf
@@ -12,7 +12,7 @@ description: "Multiple formulation variations of SCUC and OPF models are present
 ---
 
 ## Overview
-This document presents the SCUC/OPF models. Different model variations are provided. 
+This document presents the SCUC and SCED/OPF models. Multiple model variations are provided. 
 
 * Security-Constrained Unit Commitment (SCUC)
 * PTDF-based vs B-theta-based Models
