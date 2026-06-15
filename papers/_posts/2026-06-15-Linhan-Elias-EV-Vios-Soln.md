@@ -20,3 +20,10 @@ Ampacity violation, Battery storage energy system, Distribution network, Diagnos
 
 # Cite this paper:
 Linhan Fang, Elias Raffoul, and Xingpeng Li, "Diagnosis-Driven Co-planning of Network Reinforcement and BESS for Distribution Grid with High Penetration of Electric Vehicles", *IEEE Transactions on Industry Applications*, Jun. 2026.
+
+
+<div class="spacer"></div>
+
+<div class="smallspacer"></div>
+![](/images/papers/2026.06.15_DDCP_EV_TIA.png)
+<div class="spacer"></div>

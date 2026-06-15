@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part I: Methodology"
-image: /images/papers/20190614_X-Li_EMSwCTS_Part-I.png
+image: /images/papers/2019.06.14_X-Li_EMSwCTS_Part-I.png
 authors: Xingpeng Li, Kory W. Hedman.
 year: 2019
 ref: Xingpeng Li et al, IEEE Transactions on Power Systems, 2019. 

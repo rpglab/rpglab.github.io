@@ -27,5 +27,5 @@ Ann Mary Toms and Xingpeng Li, "WAKE-NET: A 3D-Wake-Aware Economic Turbine Layou
 <div class="spacer"></div>
 
 <div class="smallspacer"></div>
-![](/images/papers/WAKE_NET_2026-RENE.png)
+![](/images/papers/2026.06.09_WAKE_NET_RENE.png)
 <div class="spacer"></div>
