@@ -25,5 +25,5 @@ Linhan Fang, Elias Raffoul, and Xingpeng Li, "Diagnosis-Driven Co-planning of Ne
 <div class="spacer"></div>
 
 <div class="smallspacer"></div>
-![](/images/papers/2026.06.15_DDCP_EV_TIA.png)
+![](/images/papers/2026.06.15_DDCP_EV_TIA.jpg)
 <div class="spacer"></div>
