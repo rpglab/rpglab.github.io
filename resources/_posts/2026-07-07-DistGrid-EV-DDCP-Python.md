@@ -15,7 +15,7 @@ description: "This is for our TIA paper: *Diagnosis-Driven Co-planning of Networ
 
 Optimal Planning for Distribution Grid with EV.
 
-This set of codes/data implements our TIA paper "Diagnosis-Driven Co-planning of Network Reinforcement and BESS for Distribution Grid with High Penetration of Electric Vehicles". It implemented the proposed three-stage Diagnosis-Driven Co-Planning (DDCP) framework, which jointly optimizing grid infrastructure reinforcements and Battery Energy Storage System (BESS) investment.
+This set of codes/data implements our TIA paper "Diagnosis-Driven Co-planning of Network Reinforcement and BESS for Distribution Grid with High Penetration of Electric Vehicles". It implements the proposed three-stage Diagnosis-Driven Co-Planning (DDCP) framework for coordinated network reinforcement and BESS planning.
 
 
 ## Repository Summary:
@@ -23,7 +23,7 @@ This repository contains the five core Jupyter notebooks used in the TIA paper t
 
 | File name | Roles and functions |
 | 1_IAS_EV load impact_violation analysis.ipynb	|  EV impact and charger power sensitivity analysis 
-| 2_IAS_Triger_BESS.ipynb 			|  EV adoption trigger analysis 
+| 2_IAS_Trigger_BESS.ipynb 			|  EV adoption trigger analysis 
 | 3_IAS_Upgrade lines.ipynb 			|  EV impact assessment and line-upgrade benchmark 
 | 4_IAS_DDCP.ipynb 				|  Proposed DDCP optimization model with BESS planning decisions 
 | 5_IAS_BESS_operation.ipynb 			|  BESS operation and post-upgrade validation 
@@ -172,7 +172,7 @@ The notebooks are intended to be executed in the following order:
 1_IAS_EV load impact_violation analysis.ipynb
  -> Screen EV-induced stress across voltage levels and EV charger power cases.
 
-2_IAS_Triger_BESS.ipynb 
+2_IAS_Trigger_BESS.ipynb 
  -> Identify EV adoption thresholds and violation patterns.
 
 3_IAS_Upgrade lines.ipynb 
@@ -237,7 +237,7 @@ Paper website: <a class="off" href="/papers/Linhan-Elias-EV-Vios-Soln/"  target=
 
 
 ## Contributions:
-Linhan Fang developed this set of programs/data and implemented the proposed DDCA framework. Elias Raffoul analyzed EV counts for each bus and conducted the initial EV grid impact analysis. Xingpeng Li supervised this work.
+Linhan Fang developed this set of programs/data and implemented the proposed DDCP framework. Elias Raffoul analyzed EV counts for each bus and conducted the initial EV grid impact analysis. Xingpeng Li supervised this work.
 
 
 ## Contact:
