@@ -6,8 +6,6 @@ link:
 description: "Three of our PhD students attended 2026 ESIG Summer Workshop: Hassan, Rida, and Ann."
 ---
 
-[Hassan Zahid Butt](/people/Hassan-Zahid-Butt/), [Rida Fatima](/people/Rida-Fatima/), and [Ann Mary Toms](/people/Ann-Mary-Toms/) attended the 2026 Energy Systems Integration Group (ESIG) Summer Workshops in Denver, Colorado, from June 15–17, 2026.
-
 * Three of our PhD students, [Hassan Zahid Butt](/people/Hassan-Zahid-Butt/), [Rida Fatima](/people/Rida-Fatima/), and [Ann Mary Toms](/people/Ann-Mary-Toms/), attended the 2026 Energy Systems Integration Group (ESIG) Summer Workshop in Denver, Colorado, from June 15–17, 2026.
 
 * The workshops brought together participants from utilities, system operators, national laboratories, industry, and academia to discuss emerging challenges and practical solutions for future power systems.
