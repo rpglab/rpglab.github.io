@@ -29,6 +29,7 @@ The panel brought together perspectives from a national laboratory, a grid opera
 
 I delivered the opening remarks, highlighting the growing need to connect inertia and frequency monitoring, frequency-aware energy management, grid-forming resources, and practical scheduling and operational decision support.
 
+The session drew a full house - an encouraging reflection of the rapidly growing interest in frequency-constrained grid operations for low-inertia power systems.
 
 <div class="bigspacer"></div>
 <div class="bigspacer"></div>
