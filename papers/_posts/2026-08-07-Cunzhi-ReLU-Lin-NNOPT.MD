@@ -21,3 +21,10 @@ Day-ahead energy scheduling, Learning-embedded optimization, Linearization, Mixe
 
 # Cite this paper:
 Cunzhi Zhao, Fan Jiang, and Xingpeng Li, “Linearization of ReLU Activation Function for Neural Network-Embedded Optimization: Optimal Day-Ahead Energy Scheduling", *Sustainable Energy, Grids and Networks*, Aug. 2026.
+
+
+<div class="spacer"></div>
+
+<div class="smallspacer"></div>
+![](/images/papers/2026.08.07_ReLU_Lnrztn_SEGN.png)
+<div class="spacer"></div>
