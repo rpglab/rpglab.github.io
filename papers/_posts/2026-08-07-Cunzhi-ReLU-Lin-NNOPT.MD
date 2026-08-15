@@ -8,7 +8,7 @@ ref: Cunzhi Zhao, Fan Jiang et al, Sustainable Energy, Grids and Networks, 2026.
 journal: "Sustainable Energy, Grids and Networks"
 pdf: 
 webpdf: https://arxiv.org/pdf/2310.01758
-doi: 
+doi: 10.1016/j.segan.2026.102488
 arxiv: https://arxiv.org/abs/2310.01758
 researchgate: 
 ---
