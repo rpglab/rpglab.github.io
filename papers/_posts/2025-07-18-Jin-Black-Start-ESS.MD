@@ -20,4 +20,4 @@ With the increasing integration of renewable energy, the reliability and resilie
 Battery storage, Black start, Fuel cells, Grid restoration, Generator startup sequence.
 
 # Cite this paper:
-Jin Lu, Linhan Fang, Fan Jiang, and Xingpeng Li, “A Black Start Strategy for Hydrogen-integrated Renewable Grids with Energy Storage Systems”, *IEEE International Conference on Energy Technologies for Future Grids*, Wollongon, Australia, Dec. 2025.
+Jin Lu, Linhan Fang, Fan Jiang, and Xingpeng Li, “A Black Start Strategy for Hydrogen-integrated Renewable Grids with Energy Storage Systems”, *IEEE International Conference on Energy Technologies for Future Grids*, Wollongong, Australia, Dec. 2025.
