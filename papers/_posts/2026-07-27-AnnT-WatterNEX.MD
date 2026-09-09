@@ -2,9 +2,9 @@
 layout: paper
 title: "WATTER-NEX: An Integrated Water-Energy Nexus Framework for Co-optimized Community Scale Renewable Microgrids and Water Infrastructure"
 image: 
-authors: Ann Mary Toms, Jesus Silva-Rodrigueza, Xingpeng Li.
+authors: Ann Mary Toms, Jesus Silva-Rodriguez, Xingpeng Li.
 year: 2026
-ref: Ann Mary Toms, Jesus Silva-Rodrigueza et al, arXiv, 2026. 
+ref: Ann Mary Toms, Jesus Silva-Rodriguez et al, arXiv, 2026. 
 journal: "arXiv"
 pdf: 
 webpdf: 
@@ -20,7 +20,7 @@ The transition toward renewable energy has accelerated the development of self-s
 Water-Energy nexus; Cooptimization; Renewable microgrids; Self sufficient communities; Sustainable infrastructure.
  
 # Cite this paper:
-Ann Mary Toms, Jesus Silva-Rodrigueza, and Xingpeng Li, "WATTER-NEX: An Integrated Water-Energy Nexus Framework for Co-optimized Community Scale Renewable Microgrids and Water Infrastructure", *arXiv*, Jul. 2026.
+Ann Mary Toms, Jesus Silva-Rodriguez, and Xingpeng Li, "WATTER-NEX: An Integrated Water-Energy Nexus Framework for Co-optimized Community Scale Renewable Microgrids and Water Infrastructure", *arXiv*, Jul. 2026.
 
 
 
