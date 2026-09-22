@@ -8,8 +8,8 @@ ref: Ann Mary Toms et al, Renewable Energy, 2026.
 journal: "Renewable Energy"
 pdf: 
 webpdf: https://arxiv.org/pdf/2603.23372
-codes: 
-doi: 
+codes: /resources/WAKE-NET/
+doi: 10.1016/j.renene.2026.126078
 arxiv: https://arxiv.org/abs/2603.23372
 ---
 
