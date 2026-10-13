@@ -10,7 +10,7 @@ github: https://github.com/rpglab/ML_ERCOT-NetLoad_Forecasting
 paper: /papers/Samuel-Linhan-NetLoad-forecast/
 link: 
 doi: 
-description: "This is for our TPEC paper: *Net Load Forecasting with Renewable Capacity Features: A Comparison of Direct and Indirect Neural Network Methods*. It implements direct and indirect FCNN and LSTM models for one-hour-ahead ERCOT net-load forecasting."
+description: "This is for our TPEC paper: *Net Load Forecasting with Renewable Capacity Features: A Comparison of Direct and Indirect Neural Network Methods*. It implements direct & indirect FCNN and LSTM models for ERCOT net-load forecasting."
 ---
 
 
