@@ -12,6 +12,12 @@ description: "Congratulations to Ann Mary Toms for successfully passing her PhD 
 
 * Here are <a class="" target="_blank" href="/pdfs/team/2026-10-13_Ann_Mary_Toms_Presentation.pdf">Ann Mary Toms's PhD Defense Presentation Slides</a>.
 
+Her work includes:
+* REMO – degradation-aware planning of renewable energy microgrids
+* WAKE-NET – 3D wake-aware wind farm layout and economic optimization
+* WATTER-NEX – co-optimization of community-scale water and energy infrastructure
+* Hyperscale WATTER-NEX – integrated planning of power, cooling, water, and IT workloads for autonomous data centers.
+
 <div class="spacer"></div>
 <p></p>
 

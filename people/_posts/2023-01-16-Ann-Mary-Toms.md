@@ -6,7 +6,7 @@ time: 2023.01 - present
 email: atoms2@CougarNet.UH.EDU
 image: /images/team/Ann_Mary_Toms.jpg
 cv: 
-index: "Microgrid planning and resource sizing, water-energy nexus, data center microgrid"
+index: "Data center microgrids, WAKE-NET, optimal design and sizing, integrated energy-water-cooling infrastructure planning"
 scholar: 8PuO37EAAAAJ
 PhDissertation: 
 PhDefenseSlides: /pdfs/team/2026-10-13_Ann_Mary_Toms_Presentation.pdf
