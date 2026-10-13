@@ -6,8 +6,10 @@ time: 2023.01 - present
 email: atoms2@CougarNet.UH.EDU
 image: /images/team/Ann_Mary_Toms.jpg
 cv: 
-index: "Microgrid optimal energy management, control and sizing"
-scholar: 
+index: "Microgrid planning and resource sizing, water-energy nexus, data center microgrid"
+scholar: 8PuO37EAAAAJ
+PhDissertation: 
+PhDefenseSlides: /pdfs/team/2026-10-13_Ann_Mary_Toms_Presentation.pdf
 linkedin: ann-mary-toms-12202223b
 website: 
 calendar: 
