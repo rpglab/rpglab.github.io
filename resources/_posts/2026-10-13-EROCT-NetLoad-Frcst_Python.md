@@ -46,14 +46,14 @@ FCNN Direct Method/            FCNN direct model
 FCNN Indirect Method/          FCNN component models and indirect result
 LSTM Direct Method/            LSTM direct model and optional result plot
 LSTM Indirect Method/          LSTM component models and indirect result
-Results/                       Paper Fig. 8/12 plotting notebook and APE statistics
+Results/                       Four-method comparison, Fig. 8/12 plotting, and Table IV APE statistics
 fixed_data/                    Canonical model input in CSV/XLSX form
+fixed_outputs/                 Final net-load predictions of the four methods
 figures/                       Regenerated 600 dpi paper figures
-05_Compare_Four_Methods.ipynb  Common-timestamp four-method comparison
 requirements.txt               Tested Python dependencies
 ```
 
-Model artifacts and regenerated predictions are written to `fixed_outputs/`. The directory is created automatically and ignored by Git.
+`fixed_outputs/` contains the final net-load prediction files of the four methods. Retraining a model writes its artifacts and regenerated predictions to the same directory.
 
 
 ## Environment
@@ -123,32 +123,32 @@ The direct and indirect branches may be trained independently. Within each indir
 ### FCNN direct
 
 ```text
-FCNN Direct Method/FCNN_net load_fixed.ipynb
+FCNN Direct Method/FCNN_net load.ipynb
 ```
 
 ### FCNN indirect
 
 ```text
-FCNN Indirect Method/1_FCNN_total load_fixed.ipynb
-FCNN Indirect Method/2_FCNN_solar power_fixed.ipynb
-FCNN Indirect Method/3_FCNN_wind power_fixed.ipynb
-FCNN Indirect Method/4_FCNN_indirect result_fixed.ipynb
+FCNN Indirect Method/1_FCNN_total load.ipynb
+FCNN Indirect Method/2_FCNN_solar power.ipynb
+FCNN Indirect Method/3_FCNN_wind power.ipynb
+FCNN Indirect Method/4_FCNN_indirect result.ipynb
 ```
 
 ### LSTM direct
 
 ```text
-LSTM Direct Method/LSTM_net load_fixed.ipynb
-LSTM Direct Method/LSTM Direct Prediction Graph_fixed.ipynb  # optional plot
+LSTM Direct Method/LSTM_net load.ipynb
+LSTM Direct Method/LSTM Direct Prediction Graph.ipynb  # optional plot
 ```
 
 ### LSTM indirect
 
 ```text
-LSTM Indirect Method/1_LSTM_total load_fixed.ipynb
-LSTM Indirect Method/2_LSTM_wind power_fixed.ipynb
-LSTM Indirect Method/3_LSTM_solar power_enhanced version_fixed.ipynb
-LSTM Indirect Method/4_LSTM_indirect result_fixed.ipynb
+LSTM Indirect Method/1_LSTM_total load.ipynb
+LSTM Indirect Method/2_LSTM_wind power.ipynb
+LSTM Indirect Method/3_LSTM_solar power.ipynb
+LSTM Indirect Method/4_LSTM_indirect result.ipynb
 ```
 
 ### Comparison and paper figures
@@ -156,7 +156,7 @@ LSTM Indirect Method/4_LSTM_indirect result_fixed.ipynb
 After all four final prediction files exist, run:
 
 ```text
-05_Compare_Four_Methods.ipynb
+Results/05_Compare_Four_Methods.ipynb
 ```
 
 The comparison uses only timestamps shared by all four methods and verifies that their actual net-load targets agree before calculating metrics.
@@ -164,7 +164,7 @@ The comparison uses only timestamps shared by all four methods and verifies that
 To regenerate the paper's percentage-error plots and Table IV statistics from the four final prediction files, run:
 
 ```text
-Results/06_Plot_Percentage_Errors_fixed.ipynb
+Results/06_Plot_Percentage_Errors.ipynb
 ```
 
 This notebook saves the percentage-error figures for Fig. 8 (FCNN) and Fig. 12 (LSTM), in both standard and enhanced signed-error/APE-ECDF versions, to `figures/` at 600 dpi. The LSTM direct notebook saves the Fig. 9 loss curve, the FCNN direct notebook saves an optional diagnostic loss curve, and the four method workflows save Fig. 6, Fig. 7, Fig. 10, and Fig. 11 to the same directory.
