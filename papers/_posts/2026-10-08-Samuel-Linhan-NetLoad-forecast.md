@@ -8,7 +8,7 @@ ref: Oluwafolajimi Samuel Bolusteve, Linhan Fang et al, IEEE Texas Power and Ene
 journal: "IEEE Texas Power and Energy Conference"
 pdf: 
 webpdf: https://arxiv.org/pdf/2604.17012
-codesdata: /resources/EROCT-NetLoad-Frcst_Python/
+codesdata: /resources/ERCOT-NetLoad-Frcst_Python/
 doi: 
 arxiv: https://arxiv.org/abs/2604.17012
 ---
