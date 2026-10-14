@@ -1,31 +1,47 @@
 ---
 layout: resource
-title: List of Papers with Data/Codes (updated)
+title: List of Papers with Data/Codes (updated in Oct. 2026)
 authors: Xingpeng Li, and ALL
 type: OpenWork
 zip: 
 timeInit: 2023-07-25
-time: 2024-12-23
+time: 2026-10-13
 github: 
 doi: 
-description: "This is a list of our papers with open-source data and/or codes"
+description: "This is a list of our papers with open-source data and/or codes."
 ---
 
-Last updated on: December 23, 2024.
+Last updated on: October 13, 2026.
 
 ## Overview
-This is a list of our __35 papers__ with open-source data and/or codes, including *<u>12 papers published in IEEE Transactions journals</u>*. The following list will direct you to the paper webpage, where you can find the associated data/codes. Pre-prints may also be included here.
+This is a list of our __41 papers__ with open-source data and/or codes, including *<u>14 papers published in IEEE Transactions journals</u>*. The following list will direct you to the paper webpage, where you can find the associated data/codes. Pre-prints may also be included here.
 
 This list will be updated as we release more codes and data along with our research papers. Note that we also released some good codes/data that are not associated with any publications and thus are not covered by the following papers.
 
 
-## The List in Reverse Chronological Order:
+## The List (Most Recently Released Codes/Data First):
+
+* Oluwafolajimi Samuel Bolusteve, Linhan Fang, and Xingpeng Li, “Net Load Forecasting with Renewable Capacity Features: A Comparison of Direct and Indirect Neural Network Methods”, *IEEE Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2027. <a class="" target="_blank" href="/papers/Samuel-Linhan-NetLoad-forecast/">[Link Here]</a>
+
+* Ann Mary Toms and Xingpeng Li, “WAKE-NET: A 3D-Wake-Aware Economic Turbine Layout and Cabling Optimization Framework for Multi-Capacity Multi-Hub-Height Wind Farms Serving Grid-Scale and Industrial Power Systems”, *Renewable Energy*, vol. 273, 126078, Oct. 2026. <a class="" target="_blank" href="/papers/AnnT-WakeNET/">[Link Here]</a>
+
+* Cunzhi Zhao, Fan Jiang, and Xingpeng Li, “Linearization of ReLU Activation Function for Neural Network-Embedded Optimization: Optimal Day-Ahead Energy Scheduling”, *Sustainable Energy, Grids and Networks*, vol. 47, 102488, Aug. 2026. <a class="" target="_blank" href="/papers/Cunzhi-ReLU-Lin-NNOPT/">[Link Here]</a>
+
+* Linhan Fang, Jesus Silva-Rodriguez, and Xingpeng Li, “Data-Driven EV Charging Load Profile Estimation and Typical EV Daily Load Dataset Generation”, *IEEE PES General Meeting*, Montreal, Quebec, Canada, Jul. 2026. <a class="" target="_blank" href="/papers/Linhan-JesusS_EV-Datasets/">[Link Here]</a>
+
+* Linhan Fang, Elias Raffoul, and Xingpeng Li, “Diagnosis-Driven Co-planning of Network Reinforcement and BESS for Distribution Grid with High Penetration of Electric Vehicles”, *<u>IEEE Transactions on Industry Applications</u>*, Jun. 2026. <a class="" target="_blank" href="/papers/Linhan-Elias-EV-Vios-Soln/">[Link Here]</a>
 
 * Jesus Silva-Rodriguez and Xingpeng Li, “Centralized Networked Micro Water-Energy Nexus with Proportional Exchange Among Participants”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022. <a class="" target="_blank" href="/papers/JesusSilvaR-CN-MWEN-PEA/">[Link Here]</a>
 
 * Jesus Silva-Rodriguez and Xingpeng Li, “Water-Energy Co-Optimization for Community-Scale Microgrids”, *53rd North American Power Symposium*, College Station, TX, USA, Nov. 2021. <a class="" target="_blank" href="/papers/JesusSilvaRodriguez-XLi-WECoOp_CSM/">[Link Here]</a>
 
-* Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile”, *IEEE Transactions on Smart Grid*, Sep. 2024. <a class="" target="_blank" href="/papers/Cunzhi-HDL_Batry-Degrdtn-Mdl/">[Link Here]</a>
+* Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile”, *<u>IEEE Transactions on Smart Grid</u>*, vol. 16, no. 2, pp. 1925–1937, Mar. 2025. <a class="" target="_blank" href="/papers/Cunzhi-HDL_Batry-Degrdtn-Mdl/">[Link Here]</a>
+
+* Jin Lu and Xingpeng Li, “Transmission Expansion Planning for Renewable-Energy-Dominated Power Grids Considering Climate Impact”, *Journal of Modern Power Systems and Clean Energy*, vol. 12, no. 6, pp. 1737-1748, Nov. 2024. <a class="" target="_blank" href="/papers/JinLu-TEP-CI/">[Link Here]</a>
+
+* Jin Lu, Xingpeng Li, Hongyi Li, Taher Chegini, Carlos Gamarra, Y. C. Ethan Yang, Margaret Cook, and Gavin Dillingham, “A Synthetic Texas Power System with Time-Series Weather-Dependent Spatiotemporal Profiles”, *Sustainable Energy, Grids and Networks*, vol. 43, Sep. 2025. <a class="" target="_blank" href="/papers/JinLu-TX-123BT/">[Link Here]</a>
+
+* Mingjian Tuo, Fan Jiang, Xingpeng Li, and Pascal Van Hentenryck, “Inertia-Constrained Generation Scheduling: Sample Selection, Learning-Embedded Optimization Modeling, and Computational Enhancement”, *<u>IEEE Transactions on Power Systems</u>*, Dec. 2025. <a class="" target="_blank" href="/papers/MJ-Tuo-ALSNN-RCUC/">[Link Here]</a>
 
 * Jesus Silva-Rodriguez and Xingpeng Li, “Decentralized Micro Water-Energy Co-optimization for Small Communities”, *Electric Power Systems Research*, vol. 234, 110611, Sep. 2024. <a class="" target="_blank" href="/papers/JesusS-Decnt-MicroW-E/">[Link Here]</a>
 
@@ -33,25 +49,21 @@ This list will be updated as we release more codes and data along with our resea
 
 * Jonathan Yang, Mingjian Tuo, Jin Lu, and Xingpeng Li, “Analysis of Weather and Time Features in Machine Learning-aided ERCOT Load Forecasting”, *Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2024. <a class="" target="_blank" href="/papers/JonathanY_ML-LF/">[Link Here]</a>
 
-* Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *<u>IEEE Transactions on Power Systems</u>*, Sep. 2023. <a class="" target="_blank" href="/papers/ArunR_ST-C-V_R-SCUC/">[Link Here]</a>
+* Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment”, *<u>IEEE Transactions on Power Systems</u>*, vol. 39, no. 2, pp. 4735–4746, Mar. 2024. <a class="" target="_blank" href="/papers/ArunR_ST-C-V_R-SCUC/">[Link Here]</a>
 
-* Mingjian Tuo and Xingpeng Li, “Selectively Linearized Neural Network based RoCoF-Constrained Unit Commitment in Low-Inertia Power Systems”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023, accepted for publication. <a class="" target="_blank" href="/papers/MJ-Tuo_SLNN-RCUC/">[Link Here]</a>
-
-* Mingjian Tuo and Xingpeng Li, “Active Linearized Sparse Neural Network-based Frequency-Constrained Unit Commitment”, *arXiv:2307.04880*, Jul. 2023. <a class="" target="_blank" href="/papers/MJ-Tuo-ALSNN-RCUC/">[Link Here]</a>
+* Mingjian Tuo and Xingpeng Li, “Selectively Linearized Neural Network based RoCoF-Constrained Unit Commitment in Low-Inertia Power Systems”, *55th North American Power Symposium*, Asheville, NC, USA, Oct. 2023. <a class="" target="_blank" href="/papers/MJ-Tuo_SLNN-RCUC/">[Link Here]</a>
 
 * Jesus Silva-Rodriguez, Jin Lu and Xingpeng Li, “Cost-Benefit Analysis and Comparisons for Different Offshore Wind Energy Transmission Systems”, *Offshore Technology Conference*, Houston, TX, USA, May 2023. <a class="" target="_blank" href="/papers/Jesus-JinLu-OWP-Transm/">[Link Here]</a>
 
-* Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations”, *<u>IEEE Transactions on Power Systems</u>*, Apr. 2023. <a class="" target="_blank" href="/papers/ArunR_FL-ML-R-SCUC/">[Link Here]</a>
+* Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations”, *<u>IEEE Transactions on Power Systems</u>*, vol. 39, no. 1, pp. 1594–1606, Jan. 2024. <a class="" target="_blank" href="/papers/ArunR_FL-ML-R-SCUC/">[Link Here]</a>
 
-* Mingjian Tuo and Xingpeng Li, “Machine Learning Assisted Inertia Estimation using Ambient Measurements”, *<u>IEEE Transactions on Industry Applications</u>*, early access, Apr. 2023. <a class="" target="_blank" href="/papers/MJ-Tuo_ML-Inertia-Est/">[Link Here]</a>
+* Mingjian Tuo and Xingpeng Li, “Machine Learning Assisted Inertia Estimation using Ambient Measurements”, *<u>IEEE Transactions on Industry Applications</u>*, vol. 59, no. 4, pp. 4893–4903, Jul./Aug. 2023. <a class="" target="_blank" href="/papers/MJ-Tuo_ML-Inertia-Est/">[Link Here]</a>
 
-* Jin Lu, Xingpeng Li, Hongyi Li, Taher Chegini, Carlos Gamarra, Y. C. Ethan Yang, Margaret Cook, and Gavin Dillingham, “A Synthetic Texas Backbone Power System with Climate-Dependent Spatio-Temporal Correlated Profiles”, *arXiv*, Feb. 2023. <a class="" target="_blank" href="/papers/JinLu-TX-123BT/">[Link Here]</a>
-
-* Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *<u>IEEE Transactions on Power Systems</u>*, early access, Jan. 2023. <a class="" target="_blank" href="/papers/CunzhiZhao-NNBD-MDS/">[Link Here]</a>
+* Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *<u>IEEE Transactions on Power Systems</u>*, vol. 39, no. 1, pp. 1582–1593, Jan. 2024. <a class="" target="_blank" href="/papers/CunzhiZhao-NNBD-MDS/">[Link Here]</a>
 
 * Mingjian Tuo and Xingpeng Li, “Deep Learning based Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Systems”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022. <a class="" target="_blank" href="/papers/MJ-Tuo_DL_SCUC_LFS-NAPS/">[Link Here]</a>
 
-* Mingjian Tuo and Xingpeng Li, “Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Grids”, *<u>IEEE Transactions on Power Systems</u>*, early access, Oct. 2022. <a class="" target="_blank" href="/papers/MJ-Tuo_SCUC_LFS/">[Link Here]</a>
+* Mingjian Tuo and Xingpeng Li, “Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Grids”, *<u>IEEE Transactions on Power Systems</u>*, vol. 38, no. 5, pp. 4134–4147, Sep. 2023. <a class="" target="_blank" href="/papers/MJ-Tuo_SCUC_LFS/">[Link Here]</a>
 
 * Mingjian Tuo and Xingpeng Li, “Long-term Recurrent Convolutional Networks-based Inertia Estimation using Ambient Measurements”, *IEEE IAS Annual Meeting*, Detroit, MI, USA, Oct. 2022. <a class="" target="_blank" href="/papers/MJ-Tuo-PGS-LRCN/">[Link Here]</a>
 
