@@ -7,9 +7,9 @@ year: 2026
 ref: Haoxiang Wan, Linhan Fang et al, IEEE PES Grid Edge Technologies Conference & Exposition, 2026.
 journal: "IEEE PES Grid Edge Technologies Conference & Exposition"
 pdf: 
-webpdf: 
+webpdf: http://arxiv.org/pdf/2610.18405
 doi: 
-arxiv: 
+arxiv: http://arxiv.org/abs/2610.18405
 ---
 
 # Abstract

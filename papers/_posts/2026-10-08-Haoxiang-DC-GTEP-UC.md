@@ -7,9 +7,9 @@ year: 2026
 ref: Haoxiang Wan et al, IEEE Texas Power and Energy Conference, 2026.
 journal: "IEEE Texas Power and Energy Conference"
 pdf: 
-webpdf: 
+webpdf: http://arxiv.org/pdf/2610.18385
 doi: 
-arxiv: 
+arxiv: http://arxiv.org/abs/2610.18385
 ---
 
 # Abstract
