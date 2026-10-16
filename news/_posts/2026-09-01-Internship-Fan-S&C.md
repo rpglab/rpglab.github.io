@@ -1,7 +1,7 @@
 ---
 layout: newsitem
 title: Internship - Summer 2026 - Fan Jiang - S&C Electric Company 
-time: 2026-09-02
+time: 2026-09-01
 link: 
 description: "Fan Jiang completed her summer internship at S&C Electric Company in Summer 2026."
 ---
