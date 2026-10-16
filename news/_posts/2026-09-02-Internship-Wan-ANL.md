@@ -1,6 +1,6 @@
 ---
 layout: newsitem
-title: Argonne National Laboratory Internship - Haoxiang Wan - Summer 2026
+title: Internship - Summer 2026 - Haoxiang Wan - Argonne National Laboratory
 time: 2026-09-02
 link: 
 description: "Haoxiang Wan completed his summer internship at Argonne National Laboratory (ANL) in Summer 2026."
