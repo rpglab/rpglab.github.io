@@ -7,10 +7,10 @@ year: 2026
 ref: Fan Jiang, Linhan Fang et al, arXiv, 2026. 
 journal: "arXiv"
 pdf: 
-webpdf: 
+webpdf: https://arxiv.org/pdf/2610.36474
 codes: 
 doi: 
-arxiv: 
+arxiv: https://arxiv.org/abs/2610.36474
 ---
 
 # Abstract
