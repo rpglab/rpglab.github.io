@@ -55,11 +55,11 @@ This list will be updated as we release more codes and data along with our resea
 
 * Jesus Silva-Rodriguez, Jin Lu and Xingpeng Li, “Cost-Benefit Analysis and Comparisons for Different Offshore Wind Energy Transmission Systems”, *Offshore Technology Conference*, Houston, TX, USA, May 2023. <a class="" target="_blank" href="/papers/Jesus-JinLu-OWP-Transm/">[Link Here]</a>
 
-* Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations”, *<u>IEEE Transactions on Power Systems</u>*, vol. 39, no. 1, pp. 1594–1606, Jan. 2024. <a class="" target="_blank" href="/papers/ArunR_FL-ML-R-SCUC/">[Link Here]</a>
+* Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations”, *<u>IEEE Transactions on Power Systems</u>*, vol. 39, no. 1, pp. 1582–1593, Jan. 2024. <a class="" target="_blank" href="/papers/ArunR_FL-ML-R-SCUC/">[Link Here]</a>
 
 * Mingjian Tuo and Xingpeng Li, “Machine Learning Assisted Inertia Estimation using Ambient Measurements”, *<u>IEEE Transactions on Industry Applications</u>*, vol. 59, no. 4, pp. 4893–4903, Jul./Aug. 2023. <a class="" target="_blank" href="/papers/MJ-Tuo_ML-Inertia-Est/">[Link Here]</a>
 
-* Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *<u>IEEE Transactions on Power Systems</u>*, vol. 39, no. 1, pp. 1582–1593, Jan. 2024. <a class="" target="_blank" href="/papers/CunzhiZhao-NNBD-MDS/">[Link Here]</a>
+* Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *<u>IEEE Transactions on Power Systems</u>*, vol. 39, no. 1, pp. 1594–1606, Jan. 2024. <a class="" target="_blank" href="/papers/CunzhiZhao-NNBD-MDS/">[Link Here]</a>
 
 * Mingjian Tuo and Xingpeng Li, “Deep Learning based Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Systems”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022. <a class="" target="_blank" href="/papers/MJ-Tuo_DL_SCUC_LFS-NAPS/">[Link Here]</a>
 
@@ -87,7 +87,7 @@ This list will be updated as we release more codes and data along with our resea
 
 * Xingpeng Li and Kory W. Hedman, “Enhancing Power System Cyber-Security with Systematic Two-Stage Detection Strategy,” *<u>IEEE Transactions on Power Systems</u>*, vol. 35, no. 2, pp. 1549-1561, Mar. 2020. <a class="" target="_blank" href="/papers/XLI-CyberSecurity/">[Link Here]</a>
 
-* Xingpeng Li and Qianxue Xia, “Power System Expansion Planning with Seasonal Network Optimization,” *Innovative Smart Grid Technologies (ISGT)*, Washington D.C., USA, Feb. 2020. <a class="" target="_blank" href="/papers/XLI-QX-TEPwSNO/">[Link Here]</a>
+* Xingpeng Li and Qianxue Xia, “Transmission Expansion Planning with Seasonal Network Optimization,” *Innovative Smart Grid Technologies (ISGT)*, Washington D.C., USA, Feb. 2020. <a class="" target="_blank" href="/papers/XLI-QX-TEPwSNO/">[Link Here]</a>
 
 * Xingpeng Li and Kory W. Hedman, “Enhanced Energy Management System with Corrective Transmission Switching Strategy— Part I: Methodology,” *<u>IEEE Transactions on Power Systems</u>*, vol. 34, no. 6, pp. 4490-4502, Nov. 2019. <a class="" target="_blank" href="/papers/XingpengLi-KWH-TPWRS-Part-I/">[Link Here]</a>
 

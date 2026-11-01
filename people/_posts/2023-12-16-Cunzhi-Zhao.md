@@ -35,7 +35,7 @@ M.S., Electrical Engineering, McNeese State University, 2018
 B.S., Electrical Engineering, McNeese State University, 2015
 
 ## Publications at UH RPG Lab 
-1. Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1582-1593, Jan. 2024.
+1. Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1594–1606, Jan. 2024.
 2. Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile”, *IEEE Transactions on Smart Grid*, vol. 16, no. 2, pp. 1925-1937, Mar. 2025. 
 3. Cunzhi Zhao and Xingpeng Li, “Optimal Power Scheduling for High Renewables-Integrated Energy Systems with Battery Storage”, *IEEE Transactions on Sustainable Energy*, online early access, Dec. 2025.
 4. Cunzhi Zhao and Xingpeng Li,“A Novel Real-Time Energy Management Strategy for Grid-Friendly Microgrid: Harnessing Internal Fluctuation Internally", *52nd North American Power Symposium*, (Virtually), Tempe, AZ, USA Apr. 2021.
@@ -47,7 +47,7 @@ B.S., Electrical Engineering, McNeese State University, 2015
 10. Ali Siddique, Cunzhi Zhao, and Xingpeng Li, “Microgrid Optimal Energy Scheduling with Risk Analysis”, *Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2023.
 11. Cunzhi Zhao, Xingpeng Li, and Yan Yao, “Quality Analysis of Battery Degradation Models with Real Battery Aging Experiment Data”, *Texas Power and Energy Conference*, College Station, TX, USA, Feb. 2023.
 12. Elias Raffoul, Mingjian Tuo, Cunzhi Zhao, Tianxia Zhao, Meng Ling, and Xingpeng Li, “Comparative Analysis of Machine Learning Models for Short-Term Distribution System Load Forecasting”, *IEEE Electrical Power and Energy Conference (EPEC)*, Waterloo, ON, Canada, Oct. 2025.
-13. Cunzhi Zhao, Fan Jiang, and Xingpeng Li, “Linearization of ReLU Activation Function for Neural Network-Embedded Optimization:  Optimal Day-Ahead Energy Scheduling” *arXiv:2310.01758*.
+13. Cunzhi Zhao, Fan Jiang, and Xingpeng Li, “Linearization of ReLU Activation Function for Neural Network-Embedded Optimization: Optimal Day-Ahead Energy Scheduling”, *Sustainable Energy, Grids and Networks*, Aug. 2026.
 
 
 ## Research Interests

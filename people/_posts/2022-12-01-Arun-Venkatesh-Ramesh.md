@@ -37,7 +37,7 @@ Banchelors of Engineering, Anna University, India 2009-2013
 
 ## Publication at UH RPG Lab
 1. Arun Venkatesh Ramesh and Xingpeng Li, “Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment,” *IEEE Transactions on Power Systems*, vol. 39, no. 2, pp. 4735-4746, Mar. 2024. 
-2. Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations,” *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1594-1606, Jan. 2024. 
+2. Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations,” *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1582–1593, Jan. 2024. 
 3. Arun Venkatesh Ramesh, Xingpeng Li and Kory Hedman, “An Accelerated-Decomposition Approach for Security-Constrained Unit Commitment with Corrective Network Reconfiguration,” *IEEE Transactions on Power Systems*, vol. 37, no. 2, pp. 887-900, Mar. 2022. 
 4. Arun Venkatesh Ramesh and Xingpeng Li, "Network Reconfiguration Impact on Renewable Energy System and Energy Storage System in Day-Ahead Scheduling", *IEEE PES General Meeting*, Washington, DC, USA, Jul. 2021. 
 5. Arun Venkatesh Ramesh and Xingpeng Li, "Reducing Congestion-Induced Renewable Curtailment with Corrective Network Reconfiguration in Day-Ahead Scheduling," *IEEE PES General Meeting*, Montreal, QC, Canada, Aug. 2020.
