@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Power System Expansion Planning with Seasonal Network Optimization"
+title: "Transmission Expansion Planning with Seasonal Network Optimization"
 image: 
 authors: Xingpeng Li, Qianxue Xia.
 year: 2020
@@ -19,4 +19,4 @@ Transmission expansion planning (TEP) is critical for the power grid to meet fas
 Network reconfiguration, Power system long-term planning, Seasonal network optimization, Transmission expansion planning, Transmission switching, Topology control.
 
 # Cite this paper:
-Xingpeng Li and Qianxue Xia, “Power System Expansion Planning with Seasonal Network Optimization,” *Innovative Smart Grid Technologies (ISGT)*, Washington D.C., USA, Feb. 2020.
+Xingpeng Li and Qianxue Xia, “Transmission Expansion Planning with Seasonal Network Optimization,” *Innovative Smart Grid Technologies (ISGT)*, Washington D.C., USA, Feb. 2020.
