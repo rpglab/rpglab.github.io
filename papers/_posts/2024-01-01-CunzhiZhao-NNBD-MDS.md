@@ -29,6 +29,6 @@ Battery energy storage system (BESS) can effectively mitigate the uncertainty of
 Battery degradation, Battery energy storage system, Energy management system, Machine learning, Microgrid day-ahead scheduling, Neural network, Optimization.
 
 # Cite this paper:
-Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1582-1593, Jan. 2024.
+Cunzhi Zhao and Xingpeng Li, “Microgrid Optimal Energy Scheduling Considering Neural Network based Battery Degradation”, *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1594 - 1606, Jan. 2024.
 
 

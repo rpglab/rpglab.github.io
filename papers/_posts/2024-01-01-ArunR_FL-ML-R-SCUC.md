@@ -21,5 +21,5 @@ Day-ahead operations involves a complex and computationally intensive optimizati
 Constraint reduction, Model reduction, Variable reduction, Logistic regression, Neural network, Random forest, K-nearest neighbor, Machine learning, Mixedinteger linear programming, Security-constrained unit commitment.
 
 # Cite this paper:
-Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations”, *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1594-1606, Jan. 2024.
+Arun Venkatesh Ramesh and Xingpeng Li, “Feasibility Layer Aided Machine Learning Approach for Day-Ahead Operations”, *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1582-1593, Jan. 2024.
 
