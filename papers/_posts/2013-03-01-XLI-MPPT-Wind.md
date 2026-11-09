@@ -18,7 +18,7 @@ Making full use of wind power is one of the main purposes of the wind turbine ge
 Fuzzy logical control, hill climbing search, maximum power point tracking, permanent magnet synchronous generator, wind generation system.
 
 # Cite this paper:
-Xingpeng Li, Wenfu Fu, Qingjun Shi, Jianbing Xu, and Quanyuan Jiang, “A Fuzzy Logical MPPT Control Strategy for PMSG Wind Generation System,” *Journal of Electronic Science and Technology*, vol. 11, no.1, pp. 72-77, Mar. 2013.
+Xingpeng Li, Wenlu Fu, Qingjun Shi, Jianbing Xu, and Quanyuan Jiang, “A Fuzzy Logical MPPT Control Strategy for PMSG Wind Generation System,” *Journal of Electronic Science and Technology*, vol. 11, no.1, pp. 72-77, Mar. 2013.
 
 # PDF copy available at: 
 http://www.journal.uestc.edu.cn/fileDZKJDX_EN/journal/article/dzkjdxxbywb/2013/1/PDF/2013-1-72.pdf

@@ -20,4 +20,4 @@ Battery energy storage system (BESS) can effectively mitigate the uncertainty of
 Battery degradation, Battery energy storage system, Bulk power system, Energy management system, Machine learning, Security constrained unit commitment, Day-ahead scheduling, Neural network, Optimization.
 
 # Cite this paper:
-Cunzhi Zhao and Xingpeng Li, “An Alternative Method for Solving Security-Constraint Unit Commitment with Neural Network Based Battery Degradation Model”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.
+Cunzhi Zhao and Xingpeng Li, “An Alternative Method for Solving Security-Constrained Unit Commitment with Neural Network Based Battery Degradation Model”, *54th North American Power Symposium*, Salt Lake City, UT, USA, Oct. 2022.

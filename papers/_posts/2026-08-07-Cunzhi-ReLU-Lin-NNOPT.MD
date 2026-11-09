@@ -21,7 +21,7 @@ Recently, neural networks have been widely applied in the power system area. The
 Day-ahead energy scheduling, Learning-embedded optimization, Linearization, Mixed-integer linear programming, Neural network, Rectified linear unit
 
 # Cite this paper:
-Cunzhi Zhao, Fan Jiang, and Xingpeng Li, “Linearization of ReLU Activation Function for Neural Network-Embedded Optimization: Optimal Day-Ahead Energy Scheduling", *Sustainable Energy, Grids and Networks*, Aug. 2026.
+Cunzhi Zhao, Fan Jiang, and Xingpeng Li, “Linearization of ReLU Activation Function for Neural Network-Embedded Optimization: Optimal Day-Ahead Energy Scheduling", *Sustainable Energy, Grids and Networks*, vol. 47, article 102488, Sep. 2026.
 
 
 <div class="spacer"></div>

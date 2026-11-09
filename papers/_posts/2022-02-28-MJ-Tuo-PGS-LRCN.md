@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Long-term Recurrent Convolutional Networks-based Inertia Estimation using Ambient Measurements"
+title: "Long-term Recurrent Convolutional Network-based Inertia Estimation using Ambient Measurements"
 image: 
 authors: Mingjian Tuo, Xingpeng Li.
 year: 2022
@@ -20,4 +20,4 @@ Conventional synchronous machines are gradually replaced by converter-based rene
 Convolutional neural network, Inertia estimation, Long-term recurrent convolutional network, Low inertia power grid, Phasor measurement unit, Virtual inertia.
 
 # Cite this paper:
-Mingjian Tuo and Xingpeng Li, “Long-term Recurrent Convolutional Networks-based Inertia Estimation using Ambient Measurements”, *IEEE IAS Annual Meeting*, Detroit, MI, USA, Oct. 2022.
+Mingjian Tuo and Xingpeng Li, “Long-term Recurrent Convolutional Network-based Inertia Estimation using Ambient Measurements”, *IEEE IAS Annual Meeting*, Detroit, MI, USA, Oct. 2022.

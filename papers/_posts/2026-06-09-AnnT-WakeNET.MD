@@ -20,7 +20,7 @@ The global transition towards renewable energy has accelerated the deployment of
 Jensen wake modelling; Optimization; Wake effect; Wind farm planning.
  
 # Cite this paper:
-Ann Mary Toms and Xingpeng Li, "WAKE-NET: A 3D-Wake-Aware Economic Turbine Layout and Cabling Optimization Framework for Multi-Capacity Multi-Hub-Height Wind Farms Serving Grid-Scale and Industrial Power Systems", *Renewable Energy*, Jun. 2026.
+Ann Mary Toms and Xingpeng Li, "WAKE-NET: A 3D-Wake-Aware Economic Turbine Layout and Cabling Optimization Framework for Multi-Capacity Multi-Hub-Height Wind Farms Serving Grid-Scale and Industrial Power Systems", *Renewable Energy*, vol. 273, article 126078, Oct. 2026.
 
 
 

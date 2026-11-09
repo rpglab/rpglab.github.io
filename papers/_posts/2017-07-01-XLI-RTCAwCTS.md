@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Real-Time Contingency Analysis with Correct Transmission Switching"
+title: "Real-Time Contingency Analysis with Corrective Transmission Switching"
 image: 
 authors: Xingpeng Li, Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Mojdeh Abdi-Khorsand, Kory W. Hedman, Robin Podmore.
 year: 2017
@@ -19,4 +19,4 @@ Transmission switching (TS) has gained significant attention recently. However, 
 Corrective transmission switching, energy management systems, high performance computing, large-scale power systems, power system operation, power system reliability, power system stability, real-time contingency analysis.
 
 # Cite this paper:
-Xingpeng Li, Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Mojdeh Abdi-Khorsand, Kory W. Hedman, and Robin Podmore, “Real-Time Contingency Analysis with Correct Transmission Switching,” *IEEE Transactions on Power Systems*, vol. 32, no. 4, pp. 2604-2617, Jul. 2017.
+Xingpeng Li, Pranavamoorthy Balasubramanian, Mostafa Sahraei-Ardakani, Mojdeh Abdi-Khorsand, Kory W. Hedman, and Robin Podmore, “Real-Time Contingency Analysis with Corrective Transmission Switching,” *IEEE Transactions on Power Systems*, vol. 32, no. 4, pp. 2604-2617, Jul. 2017.
