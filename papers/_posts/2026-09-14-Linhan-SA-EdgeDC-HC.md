@@ -4,7 +4,7 @@ title: "Service-Aware Hosting Capacity Assessment of Edge Data Centers with Work
 image: 
 authors: Linhan Fang, Haoxiang Wan, Anurag Srivastava, Xingpeng Li.
 year: 2026
-ref: Linhan Fang, Haoxiang Wan et al, IEEE PES Grid Edge Technologies Conference & Exposition, 2026.
+ref: Linhan Fang, Haoxiang Wan et al, IEEE PES Grid Edge Technologies Conference & Exposition, 2027.
 journal: "IEEE PES Grid Edge Technologies Conference & Exposition"
 pdf: 
 webpdf: https://arxiv.org/pdf/2610.17645

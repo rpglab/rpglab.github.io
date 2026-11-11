@@ -5,7 +5,7 @@ image:
 authors: Hassan Zahid Butt, Xingpeng Li.
 year: 2026
 ref: Hassan Zahid Butt et al, IEEE PES Electrical Energy Storage Applications and Technologies, 2027.  
-journal: "2027 IEEE PES Electrical Energy Storage Applications and Technologies"
+journal: "IEEE PES Electrical Energy Storage Applications and Technologies"
 pdf: 
 webpdf: https://arxiv.org/pdf/2607.12951
 codes: 

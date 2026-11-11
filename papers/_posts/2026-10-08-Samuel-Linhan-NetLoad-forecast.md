@@ -4,7 +4,7 @@ title: "Net Load Forecasting with Renewable Capacity Features: A Comparison of D
 image: 
 authors: Oluwafolajimi Samuel Bolusteve, Linhan Fang, Xingpeng Li.
 year: 2026
-ref: Oluwafolajimi Samuel Bolusteve, Linhan Fang et al, IEEE Texas Power and Energy Conference, 2026.
+ref: Oluwafolajimi Samuel Bolusteve, Linhan Fang et al, IEEE Texas Power and Energy Conference, 2027.
 journal: "IEEE Texas Power and Energy Conference"
 pdf: 
 webpdf: https://arxiv.org/pdf/2604.17012

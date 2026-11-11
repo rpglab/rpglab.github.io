@@ -4,7 +4,7 @@ title: "Impact of Security Modeling Fidelity on Hyperscale Data Center Hosting C
 image: 
 authors: Haoxiang Wan, Linhan Fang, Jonghwan Kwon, Jesus Silva-Rodriguez, Jianyi Yang, Jaya Yellajosula, Fan Jiang, Xingpeng Li.
 year: 2026
-ref: Haoxiang Wan, Linhan Fang et al, IEEE PES Grid Edge Technologies Conference & Exposition, 2026.
+ref: Haoxiang Wan, Linhan Fang et al, IEEE PES Grid Edge Technologies Conference & Exposition, 2027.
 journal: "IEEE PES Grid Edge Technologies Conference & Exposition"
 pdf: 
 webpdf: http://arxiv.org/pdf/2610.18405

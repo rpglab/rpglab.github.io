@@ -4,7 +4,7 @@ title: "Impact of Data Center Load on Co-Optimized Generation and Transmission E
 image: 
 authors: Haoxiang Wan, Xingpeng Li, Jonghwan Kwon.
 year: 2026
-ref: Haoxiang Wan et al, IEEE Texas Power and Energy Conference, 2026.
+ref: Haoxiang Wan et al, IEEE Texas Power and Energy Conference, 2027.
 journal: "IEEE Texas Power and Energy Conference"
 pdf: 
 webpdf: http://arxiv.org/pdf/2610.18385
